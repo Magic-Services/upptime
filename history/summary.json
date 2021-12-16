@@ -40,9 +40,9 @@
     "url": "https://mastodon.social",
     "icon": "https://favicons.githubusercontent.com/mastodon.social",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.31%",
@@ -52,6 +52,7 @@
     "timeMonth": 2392,
     "timeYear": 2295,
     "dailyMinutesDown": {
+      "2021-12-16": 0,
       "2021-12-02": 26,
       "2021-12-01": 297
     }
@@ -83,11 +84,11 @@
     "icon": "https://favicons.githubusercontent.com/nitter.net",
     "slug": "nitter",
     "status": "up",
-    "uptime": "82.33%",
+    "uptime": "82.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.20%",
-    "uptimeYear": "82.33%",
+    "uptimeYear": "82.55%",
     "time": 571,
     "timeDay": 470,
     "timeWeek": 527,
