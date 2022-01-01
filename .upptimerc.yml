@@ -20,14 +20,14 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: 
-  baseUrl: /Upptime
+  baseUrl: /upptime
   logoUrl: https://magiclike.github.io/images/827679288a.jpg
   name: Upptime
   introTitle: "MagicLike's uptime monitor"
   introMessage: This status page monitors my personal collection of websites.
   navbar:
     - title: Dashboard
-      href: https://magic-services.github.io/Upptime
+      href: https://magic-services.github.io/upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Website
