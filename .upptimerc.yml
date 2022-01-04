@@ -5,16 +5,169 @@ repo: upptime # The name of this repository
 sites:
   - name: MagicLike
     url: https://magiclike.github.io
+    icon: 
   - name: DuckDuckGo
     url: https://duckduckgo.com
+    icon: 
+  - name: GitHub 
+    url: https://github.com
+    icon: 
+  - name: GitLab
+    url: https://gitlab.com
+    icon:  
+  - name: Codepen
+    url: https://codepen.io
+    icon:
   - name: Mastodon
+    url: https://joinmastodon.org
+    icon: 
+  - name: Mastodon (mastodon.social)
     url: https://mastodon.social
-  - name: Libreddit
-    url: https://libreddit.spike.codes
+    icon: 
   - name: Nitter
     url: https://nitter.net
+    icon: 
+  - name: Libreddit
+    url: https://libreddit.spike.codes
+    icon: 
   - name: Invidious
     url: https://invidious.snopyta.org
+    icon: 
+  - name: Piped
+    url: https://piped.kavin.rocks
+    icon: 
+  - name: Peertube
+    url: https://joinpeertube.org
+    icon:
+  - name: Peertube (tube.tchncs.de)
+    url: https://tube.tchncs.de
+    icon:
+  - name: Pixelfed
+    url: https://pixelfed.org
+    icon:
+  - name: Pixelfed (pixelfed.de)
+    url: https://pixelfed.de
+    icon:
+  - name: Funkwhale
+    url: https://funkwhale.audio
+    icon:
+  - name: Funkwhale (funk.firobe.fr)
+    url: https://funk.firobe.fr
+    icon:
+  - name: tchncs
+    url: https://tchncs.de/
+    icon:
+  - name: FediDB
+    url: https://fedidb.org
+    icon:
+  - name: Ferdi
+    url: https://getferdi.com
+    icon:
+  - name: Liberapay
+    url: https://liberapay.com
+    icon:
+  - name: Open Collective
+    url: https://opencollective.com
+    icon:
+  - name: Buy Me a Coffe
+    url: https://www.buymeacoffee.com
+    icon:
+  - name: Kutt
+    url: https://kutt.it
+    icon:
+  - name: umami
+    url: https://umami.is
+    icon:
+  - name: listmonk
+    url: https://listmonk.app
+    icon:
+  - name: Shields.io
+    url: https://shields.io
+    icon:
+  - name: Crowdin
+    url: https://crowdin.com
+    icon:
+  - name: Webblate
+    url: https://weblate.org
+    icon:
+  - name: Nextcloud
+    url: https://nextcloud.com
+    icon:
+  - name: Cryptpad
+    url: https://cryptpad.fr
+    icon:
+  - name: OpenSea
+    url: https://opensea.io
+    icon: 
+  - name: Steam
+    url: https://store.steampowered.com
+    icon: 
+  - name: Steam Community
+    url: https://steamcommunity.com
+    icon: 
+  - name: SteamDB
+    url: https://steamdb.info
+    icon:
+  - name: Epic Games Store
+    url: https://epicgames.com
+    icon: 
+  - name: itch.io
+    url: https://itch.io
+    icon: 
+  - name: Tutanota
+    url: https://tutanota.com
+    icon: 
+  - name: Protonmail
+    url: https://protonmail.com
+    icon: 
+  - name: Protonvpn
+    url: https://protonvpn.com
+    icon: 
+  - name: Signal
+    url: https://signal.org
+    icon: 
+  - name: Threema
+    url: https://threema.ch
+    icon: 
+  - name: Discord
+    url: https://discord.com
+    icon: 
+  - name: Matrix
+    url: https://matrix.org
+    icon: 
+  - name: Rocket.Chat
+    url: https://rocket.chat
+    icon: 
+  - name: Session
+    url: https://getsession.org/
+    icon:
+  - name: Status
+    url: https://status.im
+    icon:
+  - name: Cwtch
+    url: https://cwtch.im
+    icon:
+  - name: Tor
+    url: https://www.torproject.org
+    icon: 
+  - name: Bitwarden
+    url: https://bitwarden.com
+    icon:
+  - name: Unity
+    url: https://unity.com
+    icon:
+  - name: Unreal Engine
+    url: https://www.unrealengine.com
+    icon:
+  - name: Folding @ Home
+    url: https://foldingathome.org
+    icon:
+  - name: Internet Archive
+    url: https://archive.org
+    icon:
+  - name: AlternativeTo
+    url: https://alternativeto.net
+    icon:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,7 +182,7 @@ status-website:
     - title: Dashboard
       href: https://magic-services.github.io/upptime
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
     - title: Website
       href: https://magiclike.github.io
   theme: dark
