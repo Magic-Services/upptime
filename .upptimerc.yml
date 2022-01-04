@@ -182,7 +182,7 @@ status-website:
     - title: Dashboard
       href: https://magic-services.github.io/upptime
     - title: GitHub
-      href: https://github.com/$OWNER
+      href: https://github.com/MagicLike
     - title: Website
       href: https://magiclike.github.io
   theme: dark
