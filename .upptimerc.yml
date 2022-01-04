@@ -187,7 +187,7 @@ status-website:
       href: https://magiclike.github.io
   theme: dark
   customHeadHtml: <link rel="icon" href="https://magiclike.github.io/images/827679288a.ico">
-  user-agent: Magic-Services
+  user-agent: MagicLike
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
