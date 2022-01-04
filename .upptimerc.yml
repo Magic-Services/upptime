@@ -24,16 +24,16 @@ sites:
   - name: Mastodon (mastodon.social)
     url: https://mastodon.social
     icon: 
-  - name: Nitter
+  - name: Nitter (nitter.net)
     url: https://nitter.net
     icon: 
-  - name: Libreddit
+  - name: Libreddit (libreddit.spike.codes)
     url: https://libreddit.spike.codes
     icon: 
-  - name: Invidious
+  - name: Invidious (invidious.snopyta.org)
     url: https://invidious.snopyta.org
     icon: 
-  - name: Piped
+  - name: Piped (piped.kavin.rocks)
     url: https://piped.kavin.rocks
     icon: 
   - name: Peertube
