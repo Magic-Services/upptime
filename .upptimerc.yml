@@ -177,7 +177,7 @@ status-website:
   logoUrl: https://magiclike.github.io/images/827679288a.jpg
   name: Upptime
   introTitle: "MagicLike's uptime monitor"
-  introMessage: This status page monitors my personal collection of websites.
+  introMessage: This status page monitors a collection of public websites.
   navbar:
     - title: Dashboard
       href: https://magic-services.github.io/upptime
