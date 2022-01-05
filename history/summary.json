@@ -88,7 +88,7 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2022-01-05": 499,
+      "2022-01-05": 534,
       "2022-01-04": 389
     }
   },
@@ -409,19 +409,19 @@
     "url": "https://www.buymeacoffee.com",
     "icon": "https://favicons.githubusercontent.com/www.buymeacoffee.com",
     "slug": "buy-me-a-coffe",
-    "status": "up",
-    "uptime": "87.31%",
-    "uptimeDay": "87.31%",
-    "uptimeWeek": "87.31%",
-    "uptimeMonth": "87.31%",
-    "uptimeYear": "87.31%",
-    "time": 239,
-    "timeDay": 239,
-    "timeWeek": 239,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "status": "down",
+    "uptime": "87.73%",
+    "uptimeDay": "87.73%",
+    "uptimeWeek": "87.73%",
+    "uptimeMonth": "87.73%",
+    "uptimeYear": "87.73%",
+    "time": 231,
+    "timeDay": 231,
+    "timeWeek": 231,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2022-01-05": 76,
+      "2022-01-05": 77,
       "2022-01-04": 36
     }
   },
@@ -431,11 +431,11 @@
     "icon": "https://favicons.githubusercontent.com/kutt.it",
     "slug": "kutt",
     "status": "up",
-    "uptime": "64.92%",
-    "uptimeDay": "64.92%",
-    "uptimeWeek": "64.92%",
-    "uptimeMonth": "64.92%",
-    "uptimeYear": "64.92%",
+    "uptime": "66.26%",
+    "uptimeDay": "66.26%",
+    "uptimeWeek": "66.26%",
+    "uptimeMonth": "66.26%",
+    "uptimeYear": "66.26%",
     "time": 318,
     "timeDay": 318,
     "timeWeek": 318,
@@ -588,7 +588,7 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2022-01-05": 499,
+      "2022-01-05": 534,
       "2022-01-04": 389
     }
   },
@@ -861,7 +861,7 @@
     "timeMonth": 769,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2022-01-05": 1385,
+      "2022-01-05": 1456,
       "2022-01-04": 814,
       "2021-12-27": 40,
       "2021-12-20": 49,
