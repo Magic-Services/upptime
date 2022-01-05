@@ -88,7 +88,8 @@
     "timeMonth": 88,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2022-01-04": 344
+      "2022-01-05": 48,
+      "2022-01-04": 389
     }
   },
   {
@@ -97,11 +98,11 @@
     "icon": "https://favicons.githubusercontent.com/joinmastodon.org",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 1991,
     "timeDay": 964,
     "timeWeek": 1355,
@@ -409,11 +410,11 @@
     "icon": "https://favicons.githubusercontent.com/www.buymeacoffee.com",
     "slug": "buy-me-a-coffe",
     "status": "up",
-    "uptime": "89.48%",
-    "uptimeDay": "89.48%",
-    "uptimeWeek": "89.48%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "89.48%",
+    "uptime": "91.73%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "91.73%",
+    "uptimeMonth": "91.73%",
+    "uptimeYear": "91.73%",
     "time": 276,
     "timeDay": 276,
     "timeWeek": 276,
@@ -584,7 +585,8 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2022-01-04": 343
+      "2022-01-05": 48,
+      "2022-01-04": 389
     }
   },
   {
@@ -856,7 +858,8 @@
     "timeMonth": 769,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2022-01-04": 724,
+      "2022-01-04": 814,
+      "2022-01-05": 96,
       "2021-12-27": 40,
       "2021-12-20": 49,
       "2021-12-17": 18,
