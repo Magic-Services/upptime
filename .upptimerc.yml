@@ -17,6 +17,8 @@ sites:
     icon:  
   - name: Codepen
     url: https://codepen.io
+    expectedStatusCodes:
+      - 403
     icon:
   - name: Mastodon
     url: https://joinmastodon.org
@@ -71,6 +73,8 @@ sites:
     icon:
   - name: Buy Me a Coffe
     url: https://www.buymeacoffee.com
+    expectedStatusCodes:
+      - 403
     icon:
   - name: Kutt
     url: https://kutt.it
@@ -98,6 +102,8 @@ sites:
     icon:
   - name: OpenSea
     url: https://opensea.io
+    expectedStatusCodes:
+      - 403
     icon: 
   - name: Steam
     url: https://store.steampowered.com
