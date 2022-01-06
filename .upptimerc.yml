@@ -73,8 +73,8 @@ sites:
     icon:
   - name: Buy Me a Coffe
     url: https://www.buymeacoffee.com
-    expectedStatusCodes:
-      - 403
+    #expectedStatusCodes:
+    #  - 403
     icon:
   - name: Kutt
     url: https://kutt.it
