@@ -17,13 +17,13 @@ sites:
     icon:  
   - name: Codepen
     url: https://codepen.io
+    icon:
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 302
       - 403
-    icon:
   - name: Mastodon
     url: https://joinmastodon.org
     icon: 
@@ -72,18 +72,24 @@ sites:
   - name: Liberapay
     url: https://liberapay.com
     icon:
-  - name: Open Collective
-    url: https://opencollective.com
-    icon:
-  - name: Buy Me a Coffe
-    url: https://www.buymeacoffee.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 302
       - 403
+  - name: Open Collective
+    url: https://opencollective.com
     icon:
+  - name: Buy Me a Coffe
+    url: https://www.buymeacoffee.com
+    icon:
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
+      - 403
   - name: Kutt
     url: https://kutt.it
     icon:
@@ -110,13 +116,13 @@ sites:
     icon:
   - name: OpenSea
     url: https://opensea.io
+    icon:
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 302
       - 403
-    icon: 
   - name: Steam
     url: https://store.steampowered.com
     icon: 
