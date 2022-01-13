@@ -54,6 +54,9 @@ sites:
   - name: Pixelfed (pixelfed.de)
     url: https://pixelfed.de
     icon:
+  - name: Pixelfed (pixel.tchncs.de)
+    url: https://pixel.tchncs.de
+    icon:
   - name: Funkwhale
     url: https://funkwhale.audio
     icon:
