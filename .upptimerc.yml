@@ -211,6 +211,7 @@ status-website:
       href: https://magiclike.github.io
   theme: dark
   customHeadHtml: <link rel="icon" href="https://magiclike.github.io/images/827679288a.ico">
+  customHeadHtml: <script async defer data-website-id="dac16ffb-425e-4f94-adb9-9a52ac6bfa2c" src="https://umami-magiclike.vercel.app/umami.js"></script>
   user-agent: MagicLike
 
 # Upptime also supports notifications, assigning issues, and more
