@@ -135,6 +135,13 @@ sites:
   - name: SteamDB
     url: https://steamdb.info
     icon:
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
+      - 403
+      - 503
   - name: Epic Games Store
     url: https://epicgames.com
     icon: 
