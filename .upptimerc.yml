@@ -6,6 +6,8 @@ sites:
   - name: MagicLike
     url: https://magiclike.github.io
     icon: 
+    assignees:
+      - MagicLike
   - name: DuckDuckGo
     url: https://duckduckgo.com
     icon: 
