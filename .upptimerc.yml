@@ -30,8 +30,17 @@ sites:
   - name: Mastodon (mastodon.social)
     url: https://mastodon.social
     icon: 
+  - name: Mastodon (mstdn.social)
+    url: https://mstdn.social
+    icon: 
+  - name: Mastodon (social.tchncs.de)
+    url: https://social.tchncs.de
+    icon: 
   - name: Nitter (nitter.net)
     url: https://nitter.net
+    icon: 
+  - name: Nitter (nitter.mstdn.social)
+    url: https://nitter.mstdn.social
     icon: 
   - name: Libreddit (libreddit.spike.codes)
     url: https://libreddit.spike.codes
@@ -56,6 +65,9 @@ sites:
     icon:
   - name: Pixelfed (pixel.tchncs.de)
     url: https://pixel.tchncs.de
+    icon:
+  - name: Pixelfed (pixey.org)
+    url: https://pixey.org/
     icon:
   - name: Funkwhale
     url: https://funkwhale.audio
@@ -168,6 +180,12 @@ sites:
     icon: 
   - name: Matrix
     url: https://matrix.org
+    icon: 
+  - name: Matrix + Element (chat.tchncs.de)
+    url: https://chat.tchncs.de
+    icon: 
+  - name: Matrix + Element (stux.chat)
+    url: https://stux.chat
     icon: 
   - name: Rocket.Chat
     url: https://rocket.chat
