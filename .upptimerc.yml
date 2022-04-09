@@ -4,10 +4,15 @@ repo: upptime # The name of this repository
 
 sites:
   - name: MagicLike
+    url: https://magiclike.codeberg.page
+    icon: https://magiclike.codeberg.page/images/827679288a.ico
+    assignees:
+      - MagicLike
+  - name: MagicLike (old)
     url: https://magiclike.github.io
     icon: 
     assignees:
-      - MagicLike
+      - MagicLike  
   - name: DuckDuckGo
     url: https://duckduckgo.com
     icon: 
@@ -16,7 +21,10 @@ sites:
     icon: 
   - name: GitLab
     url: https://gitlab.com
-    icon:  
+    icon:
+  - name: Codeberg
+    url: https://codeberg.org
+    icon:
   - name: Codepen
     url: https://codepen.io
     icon:
@@ -69,7 +77,7 @@ sites:
     url: https://pixel.tchncs.de
     icon:
   - name: Pixelfed (pixey.org)
-    url: https://pixey.org/
+    url: https://pixey.org
     icon:
   - name: Funkwhale
     url: https://funkwhale.audio
@@ -78,7 +86,7 @@ sites:
     url: https://funk.firobe.fr
     icon:
   - name: tchncs
-    url: https://tchncs.de/
+    url: https://tchncs.de
     icon:
   - name: FediDB
     url: https://fedidb.org
@@ -228,7 +236,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: 
   baseUrl: /upptime
-  logoUrl: https://magiclike.github.io/images/827679288a.jpg
+  logoUrl: https://magiclike.codeberg.page/images/827679288a.jpg
   name: Upptime
   introTitle: "MagicLike's uptime monitor"
   introMessage: This status page monitors a collection of public websites.
@@ -238,11 +246,11 @@ status-website:
     - title: GitHub
       href: https://github.com/MagicLike
     - title: Website
-      href: https://magiclike.github.io
+      href: https://magiclike.codeberg.page
   theme: dark
-  favicon: https://magiclike.github.io/images/827679288a.ico
+  favicon: https://magiclike.codeberg.page/images/827679288a.ico
   customHeadHtml: <script async defer data-website-id="dac16ffb-425e-4f94-adb9-9a52ac6bfa2c" src="https://umami-magiclike.vercel.app/umami.js"></script>
-  user-agent: MagicLike
+  user-agent: Magic-Services
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
