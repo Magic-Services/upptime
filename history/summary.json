@@ -1105,17 +1105,18 @@
     "icon": "https://favicons.githubusercontent.com/status.im",
     "slug": "status",
     "status": "up",
-    "uptime": "90.45%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "95.64%",
+    "uptime": "90.52%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "95.63%",
     "uptimeMonth": "76.85%",
-    "uptimeYear": "90.45%",
+    "uptimeYear": "90.52%",
     "time": 755,
     "timeDay": 813,
     "timeWeek": 760,
     "timeMonth": 791,
     "timeYear": 755,
     "dailyMinutesDown": {
+      "2022-04-09": 1,
       "2022-04-08": 27,
       "2022-04-07": 21,
       "2022-04-05": 69,
@@ -1171,9 +1172,7 @@
       "2022-01-20": 22,
       "2022-01-19": 19,
       "2022-01-18": 55,
-      "2022-01-17": 37,
-      "2022-01-16": 71,
-      "2022-01-15": 2
+      "2022-01-17": 37
     }
   },
   {
@@ -1217,10 +1216,10 @@
     "url": "https://bitwarden.com",
     "icon": "https://favicons.githubusercontent.com/bitwarden.com",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 391,
@@ -1229,6 +1228,7 @@
     "timeMonth": 256,
     "timeYear": 391,
     "dailyMinutesDown": {
+      "2022-04-09": 1,
       "2022-01-09": 22,
       "2022-01-05": 18
     }
