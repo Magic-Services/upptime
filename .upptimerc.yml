@@ -194,14 +194,14 @@ sites:
   - name: Matrix + Element (chat.tchncs.de)
     url: https://chat.tchncs.de
     icon: 
-  - name: Matrix + Element (stux.chat)
-    url: https://stux.chat
+  - name: Matrix + Element (chat.mstdn.social)
+    url: https://chat.mstdn.social
     icon: 
   - name: Rocket.Chat
     url: https://rocket.chat
     icon: 
   - name: Session
-    url: https://getsession.org/
+    url: https://getsession.org
     icon:
   - name: Status
     url: https://status.im
