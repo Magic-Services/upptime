@@ -808,10 +808,10 @@
     "url": "https://nextcloud.com",
     "icon": "https://favicons.githubusercontent.com/nextcloud.com",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.82%",
     "time": 1083,
@@ -820,6 +820,7 @@
     "timeMonth": 1111,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2022-05-16": 1,
       "2022-05-15": 18,
       "2022-05-09": 30,
       "2022-05-06": 82,
@@ -1192,18 +1193,18 @@
     "icon": "https://favicons.githubusercontent.com/status.im",
     "slug": "status",
     "status": "up",
-    "uptime": "91.35%",
+    "uptime": "91.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.27%",
-    "uptimeYear": "91.35%",
+    "uptimeMonth": "66.99%",
+    "uptimeYear": "91.32%",
     "time": 760,
     "timeDay": 885,
     "timeWeek": 779,
     "timeMonth": 770,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2022-05-16": 622,
+      "2022-05-16": 747,
       "2022-05-15": 1458,
       "2022-05-14": 2118,
       "2022-05-13": 2830,
@@ -1247,7 +1248,7 @@
       "2022-03-27": 69,
       "2022-03-26": 16,
       "2022-03-24": 23,
-      "2022-03-21": 77
+      "2022-03-21": 18
     }
   },
   {
