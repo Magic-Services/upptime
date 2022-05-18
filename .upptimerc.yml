@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: MagicLike
     url: https://magiclike.codeberg.page
-    icon: https://magiclike.codeberg.page/images/827679288a.ico
+    #icon: https://magiclike.codeberg.page/images/827679288a.ico
     assignees:
       - MagicLike
   - name: MagicLike (old)
