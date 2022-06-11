@@ -302,9 +302,9 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://favicons.githubusercontent.com/libreddit.spike.codes",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "85.85%",
+    "uptimeDay": "85.79%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.40%",
@@ -314,7 +314,7 @@
     "timeMonth": 1830,
     "timeYear": 1487,
     "dailyMinutesDown": {
-      "2022-06-11": 204,
+      "2022-06-11": 205,
       "2022-06-10": 22,
       "2022-06-09": 16,
       "2022-06-02": 19,
@@ -1239,18 +1239,18 @@
     "icon": "https://favicons.githubusercontent.com/status.im",
     "slug": "status",
     "status": "up",
-    "uptime": "95.90%",
-    "uptimeDay": "82.30%",
-    "uptimeWeek": "90.03%",
+    "uptime": "95.92%",
+    "uptimeDay": "82.18%",
+    "uptimeWeek": "90.01%",
     "uptimeMonth": "81.59%",
-    "uptimeYear": "95.90%",
+    "uptimeYear": "95.92%",
     "time": 758,
     "timeDay": 1552,
     "timeWeek": 778,
     "timeMonth": 747,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2022-06-11": 255,
+      "2022-06-11": 257,
       "2022-06-10": 22,
       "2022-06-09": 16,
       "2022-06-08": 46,
@@ -1287,7 +1287,7 @@
       "2022-05-05": 119,
       "2022-05-04": 95,
       "2022-05-03": 463,
-      "2022-05-02": 213
+      "2022-05-02": 167
     }
   },
   {
