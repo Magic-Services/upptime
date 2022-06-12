@@ -13,6 +13,9 @@ sites:
     icon: 
     assignees:
       - MagicLike  
+  - name: Startpage
+    url: https://startpage.com
+    icon: 
   - name: DuckDuckGo
     url: https://duckduckgo.com
     icon: 
