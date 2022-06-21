@@ -1,7 +1,7 @@
 url: https://piped.kavin.rocks
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2022-06-20T23:13:52.029Z
+status: down
+code: 500
+responseTime: 298
+lastUpdated: 2022-06-21T06:52:36.783Z
 startTime: Tue Jan 04 2022 19:32:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
