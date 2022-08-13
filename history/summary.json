@@ -286,7 +286,7 @@
     "status": "up",
     "uptime": "98.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
+    "uptimeWeek": "98.34%",
     "uptimeMonth": "92.68%",
     "uptimeYear": "98.55%",
     "time": 773,
@@ -1373,10 +1373,10 @@
     "url": "https://chat.mstdn.social",
     "icon": "https://favicons.githubusercontent.com/chat.mstdn.social",
     "slug": "matrix-element-chat-mstdn-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 595,
@@ -1385,6 +1385,7 @@
     "timeMonth": 524,
     "timeYear": 595,
     "dailyMinutesDown": {
+      "2022-08-13": 1,
       "2022-06-04": 178
     }
   },
@@ -1440,18 +1441,18 @@
     "icon": "https://favicons.githubusercontent.com/status.im",
     "slug": "status",
     "status": "up",
-    "uptime": "95.32%",
-    "uptimeDay": "92.05%",
-    "uptimeWeek": "83.17%",
-    "uptimeMonth": "66.01%",
-    "uptimeYear": "95.32%",
+    "uptime": "95.33%",
+    "uptimeDay": "91.97%",
+    "uptimeWeek": "83.25%",
+    "uptimeMonth": "66.08%",
+    "uptimeYear": "95.33%",
     "time": 741,
     "timeDay": 627,
     "timeWeek": 649,
     "timeMonth": 678,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2022-08-13": 114,
+      "2022-08-13": 115,
       "2022-08-12": 40,
       "2022-08-11": 92,
       "2022-08-10": 57,
@@ -1474,7 +1475,7 @@
       "2022-07-24": 219,
       "2022-07-23": 77,
       "2022-07-22": 109,
-      "2022-07-21": 46
+      "2022-07-21": 16
     }
   },
   {
