@@ -457,7 +457,7 @@
     "uptime": "96.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.16%",
+    "uptimeMonth": "93.20%",
     "uptimeYear": "96.90%",
     "time": 1350,
     "timeDay": 1732,
@@ -692,10 +692,10 @@
     "url": "https://tchncs.de",
     "icon": "https://favicons.githubusercontent.com/tchncs.de",
     "slug": "tchncs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 943,
@@ -704,7 +704,7 @@
     "timeMonth": 892,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-09-04": 26,
+      "2022-09-04": 28,
       "2022-03-13": 29,
       "2022-02-25": 26
     }
@@ -736,7 +736,7 @@
     "uptime": "87.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.30%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "87.04%",
     "time": 328,
     "timeDay": 116,
@@ -1373,10 +1373,10 @@
     "url": "https://chat.tchncs.de",
     "icon": "https://favicons.githubusercontent.com/chat.tchncs.de",
     "slug": "matrix-element-chat-tchncs-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 623,
@@ -1385,7 +1385,7 @@
     "timeMonth": 613,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2022-09-04": 25,
+      "2022-09-04": 27,
       "2022-03-13": 18
     }
   },
@@ -1463,18 +1463,18 @@
     "icon": "https://favicons.githubusercontent.com/status.im",
     "slug": "status",
     "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "89.15%",
-    "uptimeWeek": "87.29%",
-    "uptimeMonth": "87.17%",
-    "uptimeYear": "98.39%",
+    "uptime": "98.41%",
+    "uptimeDay": "88.86%",
+    "uptimeWeek": "87.24%",
+    "uptimeMonth": "87.32%",
+    "uptimeYear": "98.41%",
     "time": 739,
     "timeDay": 515,
     "timeWeek": 735,
     "timeMonth": 711,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2022-09-04": 157,
+      "2022-09-04": 161,
       "2022-09-03": 62,
       "2022-09-02": 121,
       "2022-08-31": 96,
@@ -1501,7 +1501,7 @@
       "2022-08-08": 428,
       "2022-08-07": 46,
       "2022-08-06": 66,
-      "2022-08-05": 187
+      "2022-08-05": 117
     }
   },
   {
