@@ -4,19 +4,19 @@
     "url": "https://magiclike.codeberg.page",
     "icon": "https://icons.duckduckgo.com/ip3/magiclike.codeberg.page.ico",
     "slug": "magic-like",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.21%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.70%",
-    "time": 1025,
-    "timeDay": 4067,
-    "timeWeek": 2525,
-    "timeMonth": 2731,
-    "timeYear": 1049,
+    "time": 1044,
+    "timeDay": 5701,
+    "timeWeek": 3146,
+    "timeMonth": 2860,
+    "timeYear": 1069,
     "dailyMinutesDown": {
-      "2022-11-25": 24,
+      "2022-11-25": 25,
       "2022-11-19": 56,
       "2022-11-16": 124,
       "2022-11-15": 112,
@@ -407,7 +407,7 @@
     "timeMonth": 0,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2022-11-25": 231,
+      "2022-11-25": 249,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
@@ -1608,7 +1608,7 @@
     "timeMonth": 777,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2022-11-25": 256,
+      "2022-11-25": 277,
       "2022-11-19": 1616,
       "2022-11-18": 1583,
       "2022-11-17": 1637,
@@ -1664,8 +1664,7 @@
       "2022-09-28": 185,
       "2022-09-27": 51,
       "2022-09-24": 49,
-      "2022-09-23": 26,
-      "2022-09-22": 52
+      "2022-09-23": 26
     }
   },
   {
