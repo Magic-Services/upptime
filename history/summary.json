@@ -396,18 +396,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.mstdn.social.ico",
     "slug": "nitter-nitter-mstdn-social",
     "status": "down",
-    "uptime": "87.35%",
+    "uptime": "87.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.35%",
+    "uptimeYear": "87.34%",
     "time": 961,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2022-11-28": 989,
+      "2022-11-28": 1006,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
@@ -785,10 +785,10 @@
     "url": "https://tchncs.de",
     "icon": "https://icons.duckduckgo.com/ip3/tchncs.de.ico",
     "slug": "tchncs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "92.80%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.92%",
     "time": 946,
@@ -797,7 +797,7 @@
     "timeMonth": 1043,
     "timeYear": 946,
     "dailyMinutesDown": {
-      "2022-11-28": 104,
+      "2022-11-28": 106,
       "2022-11-16": 22,
       "2022-09-04": 196,
       "2022-03-13": 29,
@@ -1499,10 +1499,10 @@
     "url": "https://chat.tchncs.de",
     "icon": "https://icons.duckduckgo.com/ip3/chat.tchncs.de.ico",
     "slug": "matrix-element-chat-tchncs-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "98.98%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "98.96%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.93%",
     "time": 617,
@@ -1511,7 +1511,7 @@
     "timeMonth": 598,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2022-11-28": 103,
+      "2022-11-28": 105,
       "2022-09-04": 194,
       "2022-03-13": 18
     }
@@ -1613,7 +1613,7 @@
     "timeMonth": 759,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-11-28": 1197,
+      "2022-11-28": 1219,
       "2022-11-25": 1489,
       "2022-11-19": 1616,
       "2022-11-18": 1583,
@@ -1669,8 +1669,7 @@
       "2022-10-03": 80,
       "2022-09-30": 74,
       "2022-09-29": 49,
-      "2022-09-28": 185,
-      "2022-09-27": 51
+      "2022-09-28": 185
     }
   },
   {
