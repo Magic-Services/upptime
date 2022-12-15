@@ -1,7 +1,7 @@
 url: https://listmonk.app
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2022-12-14T23:13:20.277Z
+status: down
+code: 500
+responseTime: 3290
+lastUpdated: 2022-12-15T18:47:04.940Z
 startTime: Tue Jan 04 2022 17:31:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
