@@ -8,7 +8,7 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.69%",
     "time": 1059,
     "timeDay": 727,
@@ -331,10 +331,10 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "91.73%",
-    "uptimeWeek": "98.82%",
+    "uptimeDay": "91.65%",
+    "uptimeWeek": "98.81%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.56%",
     "time": 1075,
@@ -343,7 +343,7 @@
     "timeMonth": 3285,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2022-12-19": 119,
+      "2022-12-19": 120,
       "2022-11-11": 19,
       "2022-11-10": 56,
       "2022-11-01": 1285,
@@ -386,8 +386,7 @@
       "2022-03-29": 40,
       "2022-03-24": 23,
       "2022-03-07": 41,
-      "2022-03-06": 306,
-      "2022-03-05": 16
+      "2022-03-06": 306
     }
   },
   {
@@ -399,7 +398,7 @@
     "uptime": "84.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.94%",
+    "uptimeMonth": "35.00%",
     "uptimeYear": "84.91%",
     "time": 961,
     "timeDay": 0,
@@ -1625,18 +1624,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "81.01%",
-    "uptimeDay": "63.59%",
-    "uptimeWeek": "87.92%",
-    "uptimeMonth": "26.72%",
-    "uptimeYear": "81.01%",
+    "uptime": "81.02%",
+    "uptimeDay": "63.39%",
+    "uptimeWeek": "87.89%",
+    "uptimeMonth": "26.83%",
+    "uptimeYear": "81.02%",
     "time": 730,
     "timeDay": 546,
     "timeWeek": 588,
     "timeMonth": 737,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-12-19": 524,
+      "2022-12-19": 527,
       "2022-12-17": 20,
       "2022-12-16": 178,
       "2022-12-15": 467,
@@ -1693,7 +1692,7 @@
       "2022-10-22": 1440,
       "2022-10-20": 1185,
       "2022-10-19": 59,
-      "2022-10-18": 103
+      "2022-10-18": 68
     }
   },
   {
