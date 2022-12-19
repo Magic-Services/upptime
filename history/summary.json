@@ -278,10 +278,10 @@
     "url": "https://mstdn.social",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "mastodon-mstdn-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.44%",
+    "uptimeDay": "97.40%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.85%",
     "time": 1493,
@@ -290,7 +290,7 @@
     "timeMonth": 2560,
     "timeYear": 1493,
     "dailyMinutesDown": {
-      "2022-12-19": 36,
+      "2022-12-19": 37,
       "2022-12-17": 20,
       "2022-12-03": 206,
       "2022-11-19": 102,
@@ -402,7 +402,7 @@
     "uptime": "84.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.73%",
+    "uptimeMonth": "33.90%",
     "uptimeYear": "84.90%",
     "time": 961,
     "timeDay": 0,
@@ -1629,9 +1629,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "80.97%",
-    "uptimeDay": "71.86%",
-    "uptimeWeek": "89.10%",
-    "uptimeMonth": "25.72%",
+    "uptimeDay": "71.67%",
+    "uptimeWeek": "89.07%",
+    "uptimeMonth": "25.89%",
     "uptimeYear": "80.97%",
     "time": 730,
     "timeDay": 546,
@@ -1639,7 +1639,7 @@
     "timeMonth": 737,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-12-19": 405,
+      "2022-12-19": 408,
       "2022-12-17": 20,
       "2022-12-16": 178,
       "2022-12-15": 467,
@@ -1699,8 +1699,7 @@
       "2022-10-18": 103,
       "2022-10-17": 24,
       "2022-10-13": 37,
-      "2022-10-12": 157,
-      "2022-10-11": 21
+      "2022-10-12": 157
     }
   },
   {
