@@ -330,19 +330,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "84.66%",
-    "uptimeWeek": "90.80%",
+    "uptimeDay": "84.57%",
+    "uptimeWeek": "90.79%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.60%",
     "time": 1077,
-    "timeDay": 812,
+    "timeDay": 823,
     "timeWeek": 2260,
     "timeMonth": 2064,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2022-12-22": 94,
+      "2022-12-22": 95,
       "2022-12-21": 454,
       "2022-12-20": 222,
       "2022-12-19": 159,
@@ -372,7 +372,7 @@
       "2022-07-21": 46,
       "2022-07-20": 84,
       "2022-07-13": 31,
-      "2022-07-12": 73
+      "2022-07-12": 42
     }
   },
   {
@@ -384,7 +384,7 @@
     "uptime": "85.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.84%",
+    "uptimeMonth": "44.91%",
     "uptimeYear": "85.05%",
     "time": 961,
     "timeDay": 0,
@@ -830,11 +830,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/getferdi.com.ico",
     "slug": "ferdi",
     "status": "up",
-    "uptime": "91.05%",
+    "uptime": "91.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.05%",
+    "uptimeYear": "91.06%",
     "time": 352,
     "timeDay": 179,
     "timeWeek": 132,
@@ -1611,9 +1611,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "82.60%",
-    "uptimeWeek": "84.31%",
-    "uptimeMonth": "90.16%",
+    "uptimeDay": "82.39%",
+    "uptimeWeek": "84.28%",
+    "uptimeMonth": "90.15%",
     "uptimeYear": "98.87%",
     "time": 730,
     "timeDay": 931,
@@ -1621,7 +1621,7 @@
     "timeMonth": 734,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-12-22": 124,
+      "2022-12-22": 127,
       "2022-12-21": 454,
       "2022-12-20": 242,
       "2022-12-19": 564,
@@ -1650,7 +1650,7 @@
       "2022-11-12": 195,
       "2022-11-11": 19,
       "2022-11-10": 139,
-      "2022-11-09": 40
+      "2022-11-09": 20
     }
   },
   {
