@@ -330,19 +330,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "75.39%",
-    "uptimeWeek": "85.31%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "75.32%",
+    "uptimeWeek": "85.30%",
     "uptimeMonth": "96.62%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.59%",
     "time": 1058,
     "timeDay": 717,
     "timeWeek": 1753,
     "timeMonth": 1703,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2022-12-24": 93,
+      "2022-12-24": 94,
       "2022-12-23": 360,
       "2022-12-22": 194,
       "2022-12-21": 454,
@@ -368,7 +368,7 @@
       "2022-07-27": 35,
       "2022-07-26": 69,
       "2022-07-25": 284,
-      "2022-07-24": 88
+      "2022-07-24": 45
     }
   },
   {
@@ -380,7 +380,7 @@
     "uptime": "85.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.19%",
+    "uptimeMonth": "50.33%",
     "uptimeYear": "85.12%",
     "time": 961,
     "timeDay": 0,
@@ -450,11 +450,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 1294,
     "timeDay": 1117,
     "timeWeek": 686,
@@ -1607,9 +1607,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "75.39%",
-    "uptimeWeek": "80.45%",
-    "uptimeMonth": "88.82%",
+    "uptimeDay": "75.21%",
+    "uptimeWeek": "80.43%",
+    "uptimeMonth": "88.81%",
     "uptimeYear": "98.87%",
     "time": 730,
     "timeDay": 710,
@@ -1617,7 +1617,7 @@
     "timeMonth": 708,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-12-24": 93,
+      "2022-12-24": 96,
       "2022-12-23": 360,
       "2022-12-22": 259,
       "2022-12-21": 454,
@@ -1642,7 +1642,7 @@
       "2022-11-18": 143,
       "2022-11-17": 197,
       "2022-11-16": 213,
-      "2022-11-15": 129
+      "2022-11-15": 110
     }
   },
   {
