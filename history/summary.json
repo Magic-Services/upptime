@@ -332,17 +332,17 @@
     "slug": "nitter-nitter-net",
     "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "60.73%",
-    "uptimeWeek": "75.70%",
-    "uptimeMonth": "94.41%",
+    "uptimeDay": "60.79%",
+    "uptimeWeek": "75.49%",
+    "uptimeMonth": "94.36%",
     "uptimeYear": "98.60%",
     "time": 1038,
-    "timeDay": 791,
-    "timeWeek": 1446,
-    "timeMonth": 1453,
+    "timeDay": 790,
+    "timeWeek": 1441,
+    "timeMonth": 1450,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2022-12-26": 159,
+      "2022-12-26": 180,
       "2022-12-25": 553,
       "2022-12-24": 349,
       "2022-12-23": 360,
@@ -362,8 +362,7 @@
       "2022-08-05": 180,
       "2022-08-04": 15,
       "2022-08-02": 26,
-      "2022-08-01": 1382,
-      "2022-07-31": 22
+      "2022-08-01": 1382
     }
   },
   {
@@ -375,7 +374,7 @@
     "uptime": "85.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.20%",
+    "uptimeMonth": "56.29%",
     "uptimeYear": "85.20%",
     "time": 961,
     "timeDay": 0,
@@ -582,7 +581,7 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.64%",
+    "uptimeWeek": "98.04%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.91%",
     "time": 1053,
@@ -1603,8 +1602,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "59.28%",
-    "uptimeWeek": "71.93%",
+    "uptimeDay": "59.34%",
+    "uptimeWeek": "72.12%",
     "uptimeMonth": "90.17%",
     "uptimeYear": "99.16%",
     "time": 729,
@@ -1613,7 +1612,7 @@
     "timeMonth": 715,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2022-12-26": 161,
+      "2022-12-26": 182,
       "2022-12-25": 574,
       "2022-12-24": 349,
       "2022-12-23": 360,
@@ -1628,8 +1627,7 @@
       "2022-12-09": 151,
       "2022-12-08": 370,
       "2022-12-07": 46,
-      "2022-12-06": 61,
-      "2022-12-05": 20
+      "2022-12-06": 61
     }
   },
   {
