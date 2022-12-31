@@ -348,25 +348,25 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "50.38%",
-    "uptimeWeek": "60.72%",
-    "uptimeMonth": "90.96%",
+    "uptimeDay": "50.30%",
+    "uptimeWeek": "60.92%",
+    "uptimeMonth": "91.01%",
     "uptimeYear": "99.24%",
     "time": 1042,
-    "timeDay": 1316,
-    "timeWeek": 1014,
+    "timeDay": 1333,
+    "timeWeek": 1017,
     "timeMonth": 1270,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2022-12-31": 666,
+      "2022-12-31": 667,
       "2022-12-30": 575,
       "2022-12-29": 671,
       "2022-12-28": 673,
       "2022-12-27": 529,
       "2022-12-26": 688,
-      "2022-12-25": 158
+      "2022-12-25": 137
     }
   },
   {
@@ -378,7 +378,7 @@
     "uptime": "85.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.92%",
+    "uptimeMonth": "72.00%",
     "uptimeYear": "85.45%",
     "time": 961,
     "timeDay": 0,
@@ -830,8 +830,8 @@
     "status": "down",
     "uptime": "90.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.86%",
-    "uptimeMonth": "95.37%",
+    "uptimeWeek": "79.53%",
+    "uptimeMonth": "95.29%",
     "uptimeYear": "90.89%",
     "time": 349,
     "timeDay": 1062,
@@ -839,7 +839,7 @@
     "timeMonth": 202,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-12-31": 1340,
+      "2022-12-31": 1374,
       "2022-12-30": 690,
       "2022-08-22": 22,
       "2022-08-21": 15,
@@ -1613,8 +1613,8 @@
     "status": "up",
     "uptime": "98.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.39%",
-    "uptimeMonth": "86.74%",
+    "uptimeWeek": "42.44%",
+    "uptimeMonth": "86.76%",
     "uptimeYear": "98.88%",
     "time": 730,
     "timeDay": 714,
@@ -1622,12 +1622,12 @@
     "timeMonth": 730,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-12-31": 2007,
+      "2022-12-31": 2044,
       "2022-12-30": 1289,
       "2022-12-29": 758,
       "2022-12-28": 715,
       "2022-12-27": 550,
-      "2022-12-26": 489
+      "2022-12-26": 447
     }
   },
   {
