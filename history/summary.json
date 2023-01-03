@@ -64,9 +64,9 @@
     "slug": "magic-like-old",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "87.32%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "86.40%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.95%",
     "time": 145,
     "timeDay": 869,
@@ -74,7 +74,7 @@
     "timeMonth": 496,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-01-03": 183
+      "2023-01-03": 196
     }
   },
   {
@@ -351,25 +351,25 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "64.61%",
-    "uptimeWeek": "63.13%",
-    "uptimeMonth": "91.52%",
+    "uptimeDay": "64.42%",
+    "uptimeWeek": "63.31%",
+    "uptimeMonth": "91.56%",
     "uptimeYear": "99.29%",
     "time": 1066,
-    "timeDay": 940,
+    "timeDay": 956,
     "timeWeek": 1198,
     "timeMonth": 1270,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2023-01-03": 490,
+      "2023-01-03": 493,
       "2023-01-02": 514,
       "2023-01-01": 724,
       "2022-12-31": 685,
       "2022-12-30": 575,
       "2022-12-29": 671,
-      "2022-12-28": 61
+      "2022-12-28": 40
     }
   },
   {
@@ -381,7 +381,7 @@
     "uptime": "85.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.80%",
+    "uptimeMonth": "81.83%",
     "uptimeYear": "85.57%",
     "time": 961,
     "timeDay": 0,
@@ -833,8 +833,8 @@
     "status": "down",
     "uptime": "90.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "36.94%",
-    "uptimeMonth": "85.49%",
+    "uptimeWeek": "36.80%",
+    "uptimeMonth": "85.46%",
     "uptimeYear": "90.14%",
     "time": 364,
     "timeDay": 5391,
@@ -842,7 +842,7 @@
     "timeMonth": 405,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2023-01-03": 1347,
+      "2023-01-03": 1361,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -1622,8 +1622,8 @@
     "status": "up",
     "uptime": "98.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.50%",
-    "uptimeMonth": "77.10%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "77.11%",
     "uptimeYear": "98.09%",
     "time": 730,
     "timeDay": 930,
@@ -1631,12 +1631,12 @@
     "timeMonth": 718,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2023-01-03": 2051,
+      "2023-01-03": 2087,
       "2023-01-02": 2057,
       "2023-01-01": 2219,
       "2022-12-31": 2125,
       "2022-12-30": 1289,
-      "2022-12-29": 293
+      "2022-12-29": 255
     }
   },
   {
@@ -1806,11 +1806,11 @@
     "url": "https://archive.org",
     "icon": "https://icons.duckduckgo.com/ip3/archive.org.ico",
     "slug": "internet-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.83%",
     "time": 332,
     "timeDay": 96,
@@ -1818,6 +1818,7 @@
     "timeMonth": 296,
     "timeYear": 332,
     "dailyMinutesDown": {
+      "2023-01-03": 3,
       "2022-12-22": 35,
       "2022-10-04": 23,
       "2022-09-18": 62,
