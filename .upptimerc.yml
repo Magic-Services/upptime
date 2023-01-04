@@ -10,13 +10,9 @@ sites:
   - name: MagicLike (old)
     url: https://magiclike.codeberg.page
     #icon: https://magiclike.codeberg.page/images/827679288a.ico
-    assignees:
-      - MagicLike
   - name: MagicLike (old-old)
     url: https://magiclike.github.io
     icon: 
-    assignees:
-      - MagicLike  
   - name: Startpage
     url: https://startpage.com
     icon: 
