@@ -362,11 +362,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "28.52%",
-    "uptimeWeek": "28.01%",
-    "uptimeMonth": "83.31%",
+    "uptimeDay": "29.54%",
+    "uptimeWeek": "28.16%",
+    "uptimeMonth": "83.37%",
     "uptimeYear": "98.61%",
     "time": 962,
     "timeDay": 751,
@@ -374,14 +374,14 @@
     "timeMonth": 884,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2023-01-26": 904,
+      "2023-01-26": 907,
       "2023-01-25": 1099,
       "2023-01-24": 1074,
       "2023-01-23": 1051,
       "2023-01-22": 1061,
       "2023-01-21": 890,
       "2023-01-20": 1038,
-      "2023-01-19": 192
+      "2023-01-19": 165
     }
   },
   {
@@ -846,7 +846,7 @@
     "uptime": "84.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.19%",
+    "uptimeMonth": "10.15%",
     "uptimeYear": "83.89%",
     "time": 381,
     "timeDay": 0,
@@ -854,7 +854,7 @@
     "timeMonth": 1163,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-01-26": 1257,
+      "2023-01-26": 1275,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
@@ -1657,23 +1657,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "22.46%",
-    "uptimeWeek": "29.64%",
-    "uptimeMonth": "83.81%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.74%",
+    "uptimeDay": "23.34%",
+    "uptimeWeek": "30.06%",
+    "uptimeMonth": "83.91%",
+    "uptimeYear": "98.66%",
     "time": 726,
     "timeDay": 564,
     "timeWeek": 659,
     "timeMonth": 687,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2023-01-26": 994,
+      "2023-01-26": 999,
       "2023-01-25": 1683,
       "2023-01-24": 1403,
       "2023-01-23": 1297,
       "2023-01-22": 1061,
-      "2023-01-21": 655
+      "2023-01-21": 607
     }
   },
   {
