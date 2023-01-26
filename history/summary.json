@@ -362,11 +362,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "29.91%",
-    "uptimeWeek": "28.29%",
-    "uptimeMonth": "83.39%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "29.73%",
+    "uptimeWeek": "28.34%",
+    "uptimeMonth": "83.43%",
     "uptimeYear": "98.62%",
     "time": 962,
     "timeDay": 727,
@@ -374,14 +374,14 @@
     "timeMonth": 884,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2023-01-26": 850,
+      "2023-01-26": 853,
       "2023-01-25": 1099,
       "2023-01-24": 1074,
       "2023-01-23": 1051,
       "2023-01-22": 1061,
       "2023-01-21": 890,
       "2023-01-20": 1038,
-      "2023-01-19": 215
+      "2023-01-19": 192
     }
   },
   {
@@ -846,7 +846,7 @@
     "uptime": "84.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.34%",
+    "uptimeMonth": "10.31%",
     "uptimeYear": "83.90%",
     "time": 381,
     "timeDay": 0,
@@ -854,7 +854,7 @@
     "timeMonth": 1163,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2023-01-26": 1193,
+      "2023-01-26": 1204,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
@@ -1657,23 +1657,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "23.71%",
-    "uptimeWeek": "29.64%",
-    "uptimeMonth": "83.81%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.74%",
+    "uptimeDay": "23.39%",
+    "uptimeWeek": "30.13%",
+    "uptimeMonth": "83.92%",
+    "uptimeYear": "98.66%",
     "time": 726,
     "timeDay": 564,
     "timeWeek": 659,
     "timeMonth": 687,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2023-01-26": 940,
+      "2023-01-26": 945,
       "2023-01-25": 1683,
       "2023-01-24": 1403,
       "2023-01-23": 1297,
       "2023-01-22": 1061,
-      "2023-01-21": 709
+      "2023-01-21": 655
     }
   },
   {
