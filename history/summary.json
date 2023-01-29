@@ -363,18 +363,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "29.24%",
-    "uptimeWeek": "25.05%",
-    "uptimeMonth": "81.53%",
-    "uptimeYear": "98.46%",
+    "uptimeDay": "31.70%",
+    "uptimeWeek": "25.54%",
+    "uptimeMonth": "81.60%",
+    "uptimeYear": "98.47%",
     "time": 956,
-    "timeDay": 604,
+    "timeDay": 599,
     "timeWeek": 686,
     "timeMonth": 878,
     "timeYear": 969,
     "dailyMinutesDown": {
+      "2023-01-29": 2,
       "2023-01-28": 1014,
       "2023-01-27": 1230,
       "2023-01-26": 1023,
@@ -382,7 +383,7 @@
       "2023-01-24": 1074,
       "2023-01-23": 1051,
       "2023-01-22": 1061,
-      "2023-01-21": 539
+      "2023-01-21": 507
     }
   },
   {
@@ -791,8 +792,7 @@
       "2022-09-17": 42,
       "2022-09-12": 19,
       "2022-09-04": 106,
-      "2022-06-06": 128,
-      "2022-01-29": 20
+      "2022-06-06": 128
     }
   },
   {
@@ -844,18 +844,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/getferdi.com.ico",
     "slug": "ferdi",
     "status": "down",
-    "uptime": "84.35%",
+    "uptime": "84.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.21%",
-    "uptimeYear": "83.31%",
+    "uptimeMonth": "3.09%",
+    "uptimeYear": "83.30%",
     "time": 381,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1824,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-01-28": 1434,
+      "2023-01-29": 46,
+      "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
@@ -1396,8 +1397,7 @@
       "2022-11-03": 34,
       "2022-10-27": 30,
       "2022-04-23": 24,
-      "2022-04-20": 41,
-      "2022-01-29": 20
+      "2022-04-20": 41
     }
   },
   {
@@ -1661,22 +1661,23 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "29.37%",
-    "uptimeWeek": "23.58%",
-    "uptimeMonth": "82.41%",
-    "uptimeYear": "98.53%",
+    "uptimeDay": "31.61%",
+    "uptimeWeek": "23.89%",
+    "uptimeMonth": "82.49%",
+    "uptimeYear": "98.54%",
     "time": 725,
     "timeDay": 517,
     "timeWeek": 618,
     "timeMonth": 665,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2023-01-29": 4,
       "2023-01-28": 1014,
       "2023-01-27": 1253,
       "2023-01-26": 1113,
       "2023-01-25": 1683,
       "2023-01-24": 1403,
-      "2023-01-23": 1243
+      "2023-01-23": 1208
     }
   },
   {
