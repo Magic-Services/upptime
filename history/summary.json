@@ -366,26 +366,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "41.13%",
-    "uptimeWeek": "27.17%",
-    "uptimeMonth": "81.80%",
-    "uptimeYear": "98.48%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "42.08%",
+    "uptimeWeek": "27.31%",
+    "uptimeMonth": "81.91%",
+    "uptimeYear": "98.49%",
     "time": 948,
     "timeDay": 750,
     "timeWeek": 716,
     "timeMonth": 821,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-01-31": 804,
+      "2023-01-31": 806,
       "2023-01-30": 1094,
       "2023-01-29": 1037,
       "2023-01-28": 1014,
       "2023-01-27": 1230,
       "2023-01-26": 1023,
       "2023-01-25": 1099,
-      "2023-01-24": 678
+      "2023-01-24": 628
     }
   },
   {
@@ -394,7 +394,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.mstdn.social.ico",
     "slug": "nitter-nitter-mstdn-social",
     "status": "down",
-    "uptime": "86.64%",
+    "uptime": "86.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -857,7 +857,7 @@
     "timeMonth": 2373,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2023-01-31": 1396,
+      "2023-01-31": 1413,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
@@ -1315,7 +1315,7 @@
     "uptimeYear": "99.98%",
     "time": 331,
     "timeDay": 285,
-    "timeWeek": 212,
+    "timeWeek": 227,
     "timeMonth": 255,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -1666,9 +1666,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "23.86%",
-    "uptimeWeek": "29.38%",
-    "uptimeMonth": "83.75%",
+    "uptimeDay": "24.72%",
+    "uptimeWeek": "29.65%",
+    "uptimeMonth": "83.81%",
     "uptimeYear": "98.65%",
     "time": 726,
     "timeDay": 545,
@@ -1676,13 +1676,13 @@
     "timeMonth": 686,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2023-01-31": 1053,
+      "2023-01-31": 1057,
       "2023-01-30": 1115,
       "2023-01-29": 1052,
       "2023-01-28": 1014,
       "2023-01-27": 1253,
       "2023-01-26": 1113,
-      "2023-01-25": 522
+      "2023-01-25": 490
     }
   },
   {
