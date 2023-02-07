@@ -368,11 +368,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "18.14%",
-    "uptimeWeek": "24.72%",
-    "uptimeMonth": "82.63%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "18.75%",
+    "uptimeWeek": "24.81%",
+    "uptimeMonth": "82.66%",
     "uptimeYear": "98.55%",
     "time": 931,
     "timeDay": 657,
@@ -380,14 +380,14 @@
     "timeMonth": 712,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2023-02-07": 691,
+      "2023-02-07": 693,
       "2023-02-06": 1195,
       "2023-02-05": 1082,
       "2023-02-04": 1091,
       "2023-02-03": 1049,
       "2023-02-02": 1040,
       "2023-02-01": 1150,
-      "2023-01-31": 318
+      "2023-01-31": 301
     }
   },
   {
@@ -847,7 +847,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/getferdi.com.ico",
     "slug": "ferdi",
     "status": "down",
-    "uptime": "82.32%",
+    "uptime": "82.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -858,7 +858,7 @@
     "timeMonth": 0,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2023-02-07": 873,
+      "2023-02-07": 884,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
@@ -1678,10 +1678,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "16.38%",
-    "uptimeWeek": "23.30%",
-    "uptimeMonth": "82.35%",
+    "uptime": "98.66%",
+    "uptimeDay": "16.87%",
+    "uptimeWeek": "23.49%",
+    "uptimeMonth": "82.39%",
     "uptimeYear": "98.53%",
     "time": 725,
     "timeDay": 547,
@@ -1689,14 +1689,14 @@
     "timeMonth": 677,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2023-02-07": 718,
+      "2023-02-07": 722,
       "2023-02-06": 1195,
       "2023-02-05": 1101,
       "2023-02-04": 1091,
       "2023-02-03": 1080,
       "2023-02-02": 1078,
       "2023-02-01": 1373,
-      "2023-01-31": 101
+      "2023-01-31": 78
     }
   },
   {
