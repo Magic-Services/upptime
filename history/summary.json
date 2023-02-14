@@ -368,11 +368,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "18.02%",
-    "uptimeWeek": "27.34%",
-    "uptimeMonth": "81.99%",
+    "uptimeDay": "18.64%",
+    "uptimeWeek": "27.43%",
+    "uptimeMonth": "82.04%",
     "uptimeYear": "98.50%",
     "time": 919,
     "timeDay": 746,
@@ -380,14 +380,14 @@
     "timeMonth": 701,
     "timeYear": 915,
     "dailyMinutesDown": {
-      "2023-02-14": 1061,
+      "2023-02-14": 1064,
       "2023-02-13": 1131,
       "2023-02-12": 1045,
       "2023-02-11": 1073,
       "2023-02-10": 883,
       "2023-02-09": 974,
       "2023-02-08": 1036,
-      "2023-02-07": 683
+      "2023-02-07": 658
     }
   },
   {
@@ -850,7 +850,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/getferdi.com.ico",
     "slug": "ferdi",
     "status": "down",
-    "uptime": "80.84%",
+    "uptime": "80.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -861,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2023-02-14": 1310,
+      "2023-02-14": 1322,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
@@ -1687,24 +1687,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.53%",
-    "uptimeDay": "10.89%",
-    "uptimeWeek": "14.50%",
-    "uptimeMonth": "80.33%",
-    "uptimeYear": "98.36%",
+    "uptime": "98.54%",
+    "uptimeDay": "11.40%",
+    "uptimeWeek": "15.54%",
+    "uptimeMonth": "80.57%",
+    "uptimeYear": "98.38%",
     "time": 724,
     "timeDay": 536,
     "timeWeek": 626,
     "timeMonth": 657,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2023-02-14": 1165,
+      "2023-02-14": 1170,
       "2023-02-13": 1172,
       "2023-02-12": 1532,
       "2023-02-11": 1746,
       "2023-02-10": 1157,
       "2023-02-09": 1292,
-      "2023-02-08": 553
+      "2023-02-08": 442
     }
   },
   {
