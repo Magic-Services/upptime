@@ -74,7 +74,7 @@
     "time": 1897,
     "timeDay": 961,
     "timeWeek": 989,
-    "timeMonth": 6006,
+    "timeMonth": 5946,
     "timeYear": 1897,
     "dailyMinutesDown": {
       "2023-02-15": 33,
@@ -370,9 +370,9 @@
     "slug": "nitter-nitter-net",
     "status": "down",
     "uptime": "98.62%",
-    "uptimeDay": "17.90%",
+    "uptimeDay": "16.83%",
     "uptimeWeek": "24.56%",
-    "uptimeMonth": "81.54%",
+    "uptimeMonth": "81.50%",
     "uptimeYear": "98.46%",
     "time": 917,
     "timeDay": 799,
@@ -380,7 +380,7 @@
     "timeMonth": 709,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2023-02-16": 423,
+      "2023-02-16": 438,
       "2023-02-15": 1223,
       "2023-02-14": 1151,
       "2023-02-13": 1131,
@@ -469,18 +469,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 1220,
-    "timeDay": 699,
-    "timeWeek": 613,
-    "timeMonth": 834,
-    "timeYear": 1209,
+    "timeDay": 666,
+    "timeWeek": 614,
+    "timeMonth": 831,
+    "timeYear": 1208,
     "dailyMinutesDown": {
+      "2023-02-16": 3,
       "2023-02-11": 21,
       "2023-02-09": 39,
       "2023-02-07": 18,
@@ -537,8 +538,7 @@
       "2022-08-09": 51,
       "2022-08-03": 17,
       "2022-08-02": 140,
-      "2022-08-01": 18,
-      "2022-07-31": 18
+      "2022-08-01": 18
     }
   },
   {
@@ -862,7 +862,7 @@
     "timeMonth": 0,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2023-02-16": 511,
+      "2023-02-16": 526,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -1688,9 +1688,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "15.47%",
-    "uptimeWeek": "9.06%",
-    "uptimeMonth": "79.07%",
+    "uptimeDay": "14.19%",
+    "uptimeWeek": "9.13%",
+    "uptimeMonth": "79.09%",
     "uptimeYear": "98.26%",
     "time": 724,
     "timeDay": 835,
@@ -1698,14 +1698,14 @@
     "timeMonth": 664,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2023-02-16": 425,
+      "2023-02-16": 444,
       "2023-02-15": 1256,
       "2023-02-14": 1255,
       "2023-02-13": 1172,
       "2023-02-12": 1532,
       "2023-02-11": 1746,
       "2023-02-10": 1157,
-      "2023-02-09": 621
+      "2023-02-09": 596
     }
   },
   {
