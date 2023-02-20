@@ -368,19 +368,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "16.87%",
-    "uptimeWeek": "20.60%",
-    "uptimeMonth": "78.53%",
-    "uptimeYear": "98.21%",
+    "status": "down",
+    "uptime": "98.43%",
+    "uptimeDay": "17.46%",
+    "uptimeWeek": "20.68%",
+    "uptimeMonth": "78.76%",
+    "uptimeYear": "98.23%",
     "time": 922,
     "timeDay": 716,
     "timeWeek": 930,
-    "timeMonth": 753,
+    "timeMonth": 754,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-02-20": 379,
+      "2023-02-20": 382,
       "2023-02-19": 1155,
       "2023-02-18": 997,
       "2023-02-17": 1184,
@@ -388,8 +388,7 @@
       "2023-02-15": 1223,
       "2023-02-14": 1151,
       "2023-02-13": 1131,
-      "2023-02-12": 1045,
-      "2023-02-11": 3
+      "2023-02-12": 944
     }
   },
   {
@@ -863,7 +862,7 @@
     "timeMonth": 0,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-02-20": 454,
+      "2023-02-20": 465,
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
@@ -1692,18 +1691,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "17.01%",
-    "uptimeWeek": "19.26%",
-    "uptimeMonth": "78.77%",
-    "uptimeYear": "98.23%",
+    "uptime": "98.44%",
+    "uptimeDay": "17.46%",
+    "uptimeWeek": "19.32%",
+    "uptimeMonth": "78.93%",
+    "uptimeYear": "98.24%",
     "time": 724,
     "timeDay": 546,
     "timeWeek": 680,
     "timeMonth": 677,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2023-02-20": 379,
+      "2023-02-20": 384,
       "2023-02-19": 1155,
       "2023-02-18": 997,
       "2023-02-17": 1184,
@@ -1711,7 +1710,7 @@
       "2023-02-15": 1256,
       "2023-02-14": 1255,
       "2023-02-13": 1172,
-      "2023-02-12": 763
+      "2023-02-12": 691
     }
   },
   {
