@@ -280,8 +280,8 @@
     "status": "up",
     "uptime": "98.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "26.55%",
-    "uptimeMonth": "82.65%",
+    "uptimeWeek": "26.42%",
+    "uptimeMonth": "82.62%",
     "uptimeYear": "98.45%",
     "time": 1844,
     "timeDay": 227,
@@ -289,7 +289,7 @@
     "timeMonth": 1191,
     "timeYear": 1809,
     "dailyMinutesDown": {
-      "2023-02-26": 273,
+      "2023-02-26": 287,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -373,19 +373,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "14.85%",
-    "uptimeWeek": "24.17%",
-    "uptimeMonth": "80.32%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "15.60%",
+    "uptimeWeek": "24.15%",
+    "uptimeMonth": "80.71%",
+    "uptimeYear": "98.39%",
     "time": 912,
     "timeDay": 699,
     "timeWeek": 769,
     "timeMonth": 762,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2023-02-26": 271,
+      "2023-02-26": 274,
       "2023-02-25": 1194,
       "2023-02-24": 862,
       "2023-02-23": 1113,
@@ -393,7 +393,7 @@
       "2023-02-21": 1120,
       "2023-02-20": 993,
       "2023-02-19": 1155,
-      "2023-02-18": 767
+      "2023-02-18": 596
     }
   },
   {
@@ -788,7 +788,7 @@
     "slug": "funkwhale-funk-firobe-fr",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "40.30%",
+    "uptimeDay": "41.22%",
     "uptimeWeek": "88.28%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "99.65%",
@@ -870,7 +870,7 @@
     "timeMonth": 0,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2023-02-26": 274,
+      "2023-02-26": 288,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
@@ -1704,10 +1704,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.18%",
+    "uptime": "97.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.34%",
+    "uptimeMonth": "61.38%",
     "uptimeYear": "96.78%",
     "time": 724,
     "timeDay": 938,
@@ -1715,14 +1715,14 @@
     "timeMonth": 703,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2023-02-26": 547,
+      "2023-02-26": 564,
       "2023-02-25": 3793,
       "2023-02-24": 2729,
       "2023-02-23": 2705,
       "2023-02-22": 2649,
       "2023-02-21": 2508,
       "2023-02-20": 1028,
-      "2023-02-19": 979
+      "2023-02-19": 943
     }
   },
   {
