@@ -280,8 +280,8 @@
     "status": "up",
     "uptime": "98.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.41%",
-    "uptimeMonth": "78.53%",
+    "uptimeWeek": "8.21%",
+    "uptimeMonth": "78.48%",
     "uptimeYear": "98.10%",
     "time": 1842,
     "timeDay": 612,
@@ -289,7 +289,7 @@
     "timeMonth": 1184,
     "timeYear": 1807,
     "dailyMinutesDown": {
-      "2023-02-27": 663,
+      "2023-02-27": 682,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -374,11 +374,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "21.04%",
-    "uptimeWeek": "24.57%",
-    "uptimeMonth": "81.77%",
+    "uptimeDay": "22.21%",
+    "uptimeWeek": "24.73%",
+    "uptimeMonth": "81.81%",
     "uptimeYear": "98.48%",
     "time": 910,
     "timeDay": 793,
@@ -386,14 +386,14 @@
     "timeMonth": 762,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2023-02-27": 529,
+      "2023-02-27": 532,
       "2023-02-26": 1193,
       "2023-02-25": 1194,
       "2023-02-24": 862,
       "2023-02-23": 1113,
       "2023-02-22": 1151,
       "2023-02-21": 1120,
-      "2023-02-20": 827
+      "2023-02-20": 807
     }
   },
   {
@@ -864,14 +864,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.24%",
+    "uptimeYear": "75.23%",
     "time": 381,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-02-27": 663,
+      "2023-02-27": 684,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -1711,7 +1711,7 @@
     "uptime": "96.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.84%",
+    "uptimeMonth": "57.86%",
     "uptimeYear": "96.49%",
     "time": 724,
     "timeDay": 606,
@@ -1719,14 +1719,14 @@
     "timeMonth": 700,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2023-02-27": 1215,
+      "2023-02-27": 1241,
       "2023-02-26": 2672,
       "2023-02-25": 3793,
       "2023-02-24": 2729,
       "2023-02-23": 2705,
       "2023-02-22": 2649,
       "2023-02-21": 2508,
-      "2023-02-20": 197
+      "2023-02-20": 165
     }
   },
   {
