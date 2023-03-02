@@ -281,7 +281,7 @@
     "uptime": "97.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.16%",
+    "uptimeMonth": "69.12%",
     "uptimeYear": "97.29%",
     "time": 1833,
     "timeDay": 429,
@@ -289,7 +289,7 @@
     "timeMonth": 506,
     "timeYear": 1798,
     "dailyMinutesDown": {
-      "2023-03-02": 620,
+      "2023-03-02": 638,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
@@ -377,11 +377,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "25.97%",
-    "uptimeWeek": "22.21%",
-    "uptimeMonth": "80.46%",
+    "uptimeDay": "25.91%",
+    "uptimeWeek": "22.30%",
+    "uptimeMonth": "80.50%",
     "uptimeYear": "98.37%",
     "time": 907,
     "timeDay": 813,
@@ -389,7 +389,7 @@
     "timeMonth": 772,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2023-03-02": 412,
+      "2023-03-02": 414,
       "2023-03-01": 1086,
       "2023-02-28": 1263,
       "2023-02-27": 1184,
@@ -397,7 +397,7 @@
       "2023-02-25": 1194,
       "2023-02-24": 862,
       "2023-02-23": 1113,
-      "2023-02-22": 253
+      "2023-02-22": 236
     }
   },
   {
@@ -875,7 +875,7 @@
     "timeMonth": 0,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2023-03-02": 621,
+      "2023-03-02": 639,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
@@ -1715,10 +1715,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "25.97%",
-    "uptimeWeek": "4.19%",
-    "uptimeMonth": "77.88%",
+    "uptime": "98.41%",
+    "uptimeDay": "25.91%",
+    "uptimeWeek": "4.27%",
+    "uptimeMonth": "77.94%",
     "uptimeYear": "98.16%",
     "time": 727,
     "timeDay": 513,
@@ -1726,14 +1726,14 @@
     "timeMonth": 742,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2023-03-02": 412,
+      "2023-03-02": 416,
       "2023-03-01": 1101,
       "2023-02-28": 1281,
       "2023-02-27": 1206,
       "2023-02-26": 1232,
       "2023-02-25": 2353,
       "2023-02-24": 1289,
-      "2023-02-23": 821
+      "2023-02-23": 787
     }
   },
   {
