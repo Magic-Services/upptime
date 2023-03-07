@@ -278,8 +278,8 @@
     "slug": "mastodon-mastodon-social",
     "status": "up",
     "uptime": "96.66%",
-    "uptimeDay": "86.26%",
-    "uptimeWeek": "12.32%",
+    "uptimeDay": "87.04%",
+    "uptimeWeek": "12.43%",
     "uptimeMonth": "55.08%",
     "uptimeYear": "96.12%",
     "time": 1866,
@@ -379,19 +379,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "15.33%",
-    "uptimeWeek": "22.95%",
-    "uptimeMonth": "75.95%",
-    "uptimeYear": "98.00%",
+    "uptimeDay": "16.02%",
+    "uptimeWeek": "23.05%",
+    "uptimeMonth": "76.07%",
+    "uptimeYear": "98.01%",
     "time": 905,
-    "timeDay": 800,
+    "timeDay": 803,
     "timeWeek": 820,
     "timeMonth": 804,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2023-03-07": 704,
+      "2023-03-07": 705,
       "2023-03-06": 1122,
       "2023-03-05": 1181,
       "2023-03-04": 1117,
@@ -400,7 +400,7 @@
       "2023-03-01": 1086,
       "2023-02-28": 1263,
       "2023-02-27": 1184,
-      "2023-02-26": 827
+      "2023-02-26": 775
     }
   },
   {
@@ -869,8 +869,8 @@
     "status": "up",
     "uptime": "77.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "52.38%",
-    "uptimeMonth": "20.01%",
+    "uptimeWeek": "52.50%",
+    "uptimeMonth": "20.04%",
     "uptimeYear": "74.02%",
     "time": 378,
     "timeDay": 90,
@@ -1721,9 +1721,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "12.56%",
-    "uptimeWeek": "20.72%",
-    "uptimeMonth": "76.67%",
+    "uptimeDay": "12.90%",
+    "uptimeWeek": "20.79%",
+    "uptimeMonth": "76.71%",
     "uptimeYear": "98.06%",
     "time": 727,
     "timeDay": 533,
@@ -1731,7 +1731,7 @@
     "timeMonth": 753,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2023-03-07": 726,
+      "2023-03-07": 730,
       "2023-03-06": 1142,
       "2023-03-05": 1181,
       "2023-03-04": 1117,
@@ -1740,7 +1740,7 @@
       "2023-03-01": 1101,
       "2023-02-28": 1281,
       "2023-02-27": 1206,
-      "2023-02-26": 260
+      "2023-02-26": 242
     }
   },
   {
