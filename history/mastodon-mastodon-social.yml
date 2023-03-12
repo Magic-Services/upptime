@@ -1,7 +1,7 @@
 url: https://mastodon.social
-status: down
-code: 503
-responseTime: 491
-lastUpdated: 2023-03-12T19:49:21.976Z
+status: up
+code: 200
+responseTime: 978
+lastUpdated: 2023-03-12T20:00:11.004Z
 startTime: Tue Jan 04 2022 17:30:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
