@@ -1,7 +1,7 @@
 url: https://store.steampowered.com
-status: down
-code: 500
-responseTime: 318
-lastUpdated: 2023-03-16T21:55:21.796Z
+status: up
+code: 200
+responseTime: 1441
+lastUpdated: 2023-03-16T22:15:33.685Z
 startTime: Tue Jan 04 2022 17:31:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
