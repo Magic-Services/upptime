@@ -380,19 +380,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "24.31%",
-    "uptimeWeek": "22.83%",
-    "uptimeMonth": "80.48%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "25.09%",
+    "uptimeWeek": "22.89%",
+    "uptimeMonth": "80.89%",
+    "uptimeYear": "98.41%",
     "time": 937,
-    "timeDay": 1019,
-    "timeWeek": 1371,
+    "timeDay": 1032,
+    "timeWeek": 1369,
     "timeMonth": 996,
     "timeYear": 938,
     "dailyMinutesDown": {
-      "2023-03-19": 327,
+      "2023-03-19": 328,
       "2023-03-18": 1097,
       "2023-03-17": 1040,
       "2023-03-16": 1231,
@@ -400,7 +400,7 @@
       "2023-03-14": 1160,
       "2023-03-13": 1166,
       "2023-03-12": 1097,
-      "2023-03-11": 495
+      "2023-03-11": 317
     }
   },
   {
@@ -489,7 +489,7 @@
     "uptimeYear": "98.61%",
     "time": 1494,
     "timeDay": 617,
-    "timeWeek": 12673,
+    "timeWeek": 13138,
     "timeMonth": 4314,
     "timeYear": 1524,
     "dailyMinutesDown": {
@@ -867,7 +867,7 @@
     "uptime": "77.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.72%",
+    "uptimeMonth": "52.77%",
     "uptimeYear": "73.54%",
     "time": 381,
     "timeDay": 171,
@@ -1724,10 +1724,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.96%",
+    "uptimeMonth": "64.05%",
     "uptimeYear": "97.00%",
     "time": 726,
     "timeDay": 708,
@@ -1735,14 +1735,14 @@
     "timeMonth": 754,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2023-03-19": 720,
+      "2023-03-19": 746,
       "2023-03-18": 2537,
       "2023-03-17": 2577,
       "2023-03-16": 3149,
       "2023-03-15": 1493,
       "2023-03-14": 2625,
       "2023-03-13": 2436,
-      "2023-03-12": 244
+      "2023-03-12": 180
     }
   },
   {
