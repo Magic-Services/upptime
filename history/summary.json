@@ -282,7 +282,7 @@
     "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.89%",
+    "uptimeMonth": "56.94%",
     "uptimeYear": "96.12%",
     "time": 1830,
     "timeDay": 352,
@@ -380,19 +380,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "23.41%",
-    "uptimeWeek": "24.36%",
-    "uptimeMonth": "80.07%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "23.93%",
+    "uptimeWeek": "24.50%",
+    "uptimeMonth": "80.11%",
     "uptimeYear": "98.34%",
     "time": 945,
-    "timeDay": 1554,
+    "timeDay": 1592,
     "timeWeek": 1357,
     "timeMonth": 1064,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2023-03-21": 704,
+      "2023-03-21": 707,
       "2023-03-20": 977,
       "2023-03-19": 1191,
       "2023-03-18": 1097,
@@ -400,7 +400,7 @@
       "2023-03-16": 1231,
       "2023-03-15": 933,
       "2023-03-14": 1160,
-      "2023-03-13": 393
+      "2023-03-13": 375
     }
   },
   {
@@ -484,7 +484,7 @@
     "status": "up",
     "uptime": "98.85%",
     "uptimeDay": "97.20%",
-    "uptimeWeek": "86.27%",
+    "uptimeWeek": "86.49%",
     "uptimeMonth": "91.47%",
     "uptimeYear": "98.62%",
     "time": 1484,
@@ -662,9 +662,9 @@
     "slug": "pixelfed",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "82.45%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "80.88%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.92%",
     "time": 230,
     "timeDay": 191,
@@ -672,7 +672,7 @@
     "timeMonth": 178,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2023-03-21": 253,
+      "2023-03-21": 275,
       "2022-11-14": 25,
       "2022-07-01": 18,
       "2022-06-30": 72,
@@ -850,9 +850,9 @@
     "slug": "fedi-db",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "82.47%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "80.90%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.95%",
     "time": 302,
     "timeDay": 224,
@@ -860,7 +860,7 @@
     "timeMonth": 268,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-03-21": 252
+      "2023-03-21": 275
     }
   },
   {
@@ -872,7 +872,7 @@
     "uptime": "78.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.40%",
+    "uptimeMonth": "60.45%",
     "uptimeYear": "73.54%",
     "time": 380,
     "timeDay": 87,
@@ -1737,14 +1737,14 @@
     "timeMonth": 759,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-03-21": 2194,
+      "2023-03-21": 2269,
       "2023-03-20": 2417,
       "2023-03-19": 2631,
       "2023-03-18": 2537,
       "2023-03-17": 2577,
       "2023-03-16": 3149,
       "2023-03-15": 1268,
-      "2023-03-14": 474
+      "2023-03-14": 397
     }
   },
   {
