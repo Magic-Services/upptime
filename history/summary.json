@@ -282,7 +282,7 @@
     "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.80%",
+    "uptimeMonth": "71.83%",
     "uptimeYear": "96.12%",
     "time": 1815,
     "timeDay": 553,
@@ -380,11 +380,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "23.67%",
-    "uptimeWeek": "24.54%",
-    "uptimeMonth": "80.80%",
+    "uptimeDay": "24.38%",
+    "uptimeWeek": "24.65%",
+    "uptimeMonth": "80.85%",
     "uptimeYear": "98.40%",
     "time": 954,
     "timeDay": 868,
@@ -392,7 +392,7 @@
     "timeMonth": 1160,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2023-03-26": 207,
+      "2023-03-26": 208,
       "2023-03-25": 1102,
       "2023-03-24": 1048,
       "2023-03-23": 965,
@@ -400,7 +400,7 @@
       "2023-03-21": 1036,
       "2023-03-20": 977,
       "2023-03-19": 1191,
-      "2023-03-18": 619
+      "2023-03-18": 597
     }
   },
   {
@@ -872,7 +872,7 @@
     "uptime": "78.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.31%",
+    "uptimeMonth": "75.34%",
     "uptimeYear": "73.54%",
     "time": 377,
     "timeDay": 186,
@@ -1730,24 +1730,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "22.17%",
-    "uptimeWeek": "24.81%",
-    "uptimeMonth": "82.70%",
-    "uptimeYear": "98.56%",
+    "uptime": "98.83%",
+    "uptimeDay": "22.73%",
+    "uptimeWeek": "25.37%",
+    "uptimeMonth": "82.83%",
+    "uptimeYear": "98.57%",
     "time": 725,
     "timeDay": 925,
     "timeWeek": 664,
     "timeMonth": 742,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-03-26": 207,
+      "2023-03-26": 209,
       "2023-03-25": 1126,
       "2023-03-24": 1168,
       "2023-03-23": 1050,
       "2023-03-22": 1489,
       "2023-03-21": 2080,
-      "2023-03-20": 456
+      "2023-03-20": 397
     }
   },
   {
