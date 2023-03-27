@@ -282,7 +282,7 @@
     "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.59%",
+    "uptimeMonth": "74.61%",
     "uptimeYear": "96.12%",
     "time": 1813,
     "timeDay": 363,
@@ -380,19 +380,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "down",
+    "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "19.92%",
-    "uptimeWeek": "25.15%",
-    "uptimeMonth": "80.82%",
+    "uptimeDay": "19.98%",
+    "uptimeWeek": "25.16%",
+    "uptimeMonth": "80.80%",
     "uptimeYear": "98.40%",
     "time": 957,
-    "timeDay": 735,
-    "timeWeek": 1215,
+    "timeDay": 750,
+    "timeWeek": 1213,
     "timeMonth": 1153,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2023-03-26": 1144,
+      "2023-03-26": 1153,
       "2023-03-25": 1102,
       "2023-03-24": 1048,
       "2023-03-23": 965,
@@ -706,8 +706,7 @@
       "2022-10-13": 37,
       "2022-10-03": 23,
       "2022-09-13": 31,
-      "2022-07-27": 22,
-      "2022-03-27": 22
+      "2022-07-27": 22
     }
   },
   {
@@ -871,7 +870,7 @@
     "uptime": "78.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.10%",
+    "uptimeMonth": "78.12%",
     "uptimeYear": "73.54%",
     "time": 376,
     "timeDay": 157,
@@ -1091,8 +1090,7 @@
       "2022-06-05": 18,
       "2022-05-08": 22,
       "2022-04-17": 32,
-      "2022-03-28": 564,
-      "2022-03-27": 47
+      "2022-03-28": 564
     }
   },
   {
@@ -1731,9 +1729,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "17.20%",
-    "uptimeWeek": "29.42%",
-    "uptimeMonth": "83.76%",
+    "uptimeDay": "17.36%",
+    "uptimeWeek": "29.35%",
+    "uptimeMonth": "83.74%",
     "uptimeYear": "98.65%",
     "time": 726,
     "timeDay": 943,
@@ -1741,7 +1739,7 @@
     "timeMonth": 751,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2023-03-26": 1186,
+      "2023-03-26": 1192,
       "2023-03-25": 1126,
       "2023-03-24": 1168,
       "2023-03-23": 1050,
