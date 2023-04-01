@@ -282,7 +282,7 @@
     "uptime": "96.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.62%",
+    "uptimeMonth": "82.64%",
     "uptimeYear": "96.12%",
     "time": 1800,
     "timeDay": 280,
@@ -380,19 +380,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.56%",
-    "uptimeDay": "19.61%",
-    "uptimeWeek": "20.19%",
-    "uptimeMonth": "78.68%",
-    "uptimeYear": "98.22%",
+    "status": "down",
+    "uptime": "98.58%",
+    "uptimeDay": "20.32%",
+    "uptimeWeek": "20.29%",
+    "uptimeMonth": "78.91%",
+    "uptimeYear": "98.24%",
     "time": 944,
     "timeDay": 634,
     "timeWeek": 708,
     "timeMonth": 1107,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2023-04-01": 428,
+      "2023-04-01": 429,
       "2023-03-31": 1258,
       "2023-03-30": 1093,
       "2023-03-29": 1250,
@@ -400,7 +400,7 @@
       "2023-03-27": 1078,
       "2023-03-26": 1143,
       "2023-03-25": 1102,
-      "2023-03-24": 742
+      "2023-03-24": 641
     }
   },
   {
@@ -874,7 +874,7 @@
     "uptime": "78.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.13%",
+    "uptimeMonth": "86.15%",
     "uptimeYear": "73.54%",
     "time": 374,
     "timeDay": 185,
@@ -1731,9 +1731,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "18.20%",
-    "uptimeWeek": "16.12%",
-    "uptimeMonth": "80.19%",
+    "uptimeDay": "18.80%",
+    "uptimeWeek": "16.20%",
+    "uptimeMonth": "80.24%",
     "uptimeYear": "98.35%",
     "time": 726,
     "timeDay": 818,
@@ -1741,14 +1741,14 @@
     "timeMonth": 713,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-04-01": 428,
+      "2023-04-01": 430,
       "2023-03-31": 1280,
       "2023-03-30": 1147,
       "2023-03-29": 1302,
       "2023-03-28": 1327,
       "2023-03-27": 1244,
       "2023-03-26": 1182,
-      "2023-03-25": 772
+      "2023-03-25": 748
     }
   },
   {
