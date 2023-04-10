@@ -1,7 +1,7 @@
 url: https://steamcommunity.com
-status: up
-code: 200
-responseTime: 213
-lastUpdated: 2023-04-09T23:11:51.496Z
+status: down
+code: 502
+responseTime: 240
+lastUpdated: 2023-04-10T19:17:29.695Z
 startTime: Tue Jan 04 2022 17:31:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
