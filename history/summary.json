@@ -381,19 +381,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "29.77%",
-    "uptimeWeek": "19.21%",
-    "uptimeMonth": "79.48%",
-    "uptimeYear": "98.29%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "30.39%",
+    "uptimeWeek": "19.30%",
+    "uptimeMonth": "79.63%",
+    "uptimeYear": "98.30%",
     "time": 928,
     "timeDay": 678,
     "timeWeek": 683,
     "timeMonth": 949,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-04-13": 240,
+      "2023-04-13": 242,
       "2023-04-12": 1026,
       "2023-04-11": 1133,
       "2023-04-10": 1063,
@@ -401,7 +401,7 @@
       "2023-04-08": 1313,
       "2023-04-07": 1212,
       "2023-04-06": 1241,
-      "2023-04-05": 537
+      "2023-04-05": 467
     }
   },
   {
@@ -485,16 +485,16 @@
     "status": "down",
     "uptime": "97.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "26.94%",
+    "uptimeWeek": "26.83%",
     "uptimeMonth": "75.43%",
-    "uptimeYear": "97.31%",
+    "uptimeYear": "97.30%",
     "time": 1630,
     "timeDay": 21629,
     "timeWeek": 12967,
     "timeMonth": 5640,
     "timeYear": 1656,
     "dailyMinutesDown": {
-      "2023-04-13": 328,
+      "2023-04-13": 340,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1376,
@@ -1738,7 +1738,7 @@
     "uptime": "97.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.64%",
+    "uptimeMonth": "62.74%",
     "uptimeYear": "96.89%",
     "time": 724,
     "timeDay": 715,
@@ -1746,7 +1746,7 @@
     "timeMonth": 714,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-04-13": 570,
+      "2023-04-13": 587,
       "2023-04-12": 2466,
       "2023-04-11": 2573,
       "2023-04-10": 2439,
@@ -1754,7 +1754,7 @@
       "2023-04-08": 2291,
       "2023-04-07": 1549,
       "2023-04-06": 1661,
-      "2023-04-05": 127
+      "2023-04-05": 63
     }
   },
   {
