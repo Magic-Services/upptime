@@ -381,11 +381,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "24.06%",
-    "uptimeWeek": "24.48%",
-    "uptimeMonth": "80.66%",
+    "uptimeDay": "23.88%",
+    "uptimeWeek": "24.57%",
+    "uptimeMonth": "80.71%",
     "uptimeYear": "98.39%",
     "time": 922,
     "timeDay": 706,
@@ -393,7 +393,7 @@
     "timeMonth": 902,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2023-04-15": 333,
+      "2023-04-15": 336,
       "2023-04-14": 840,
       "2023-04-13": 1024,
       "2023-04-12": 1026,
@@ -401,7 +401,7 @@
       "2023-04-10": 1063,
       "2023-04-09": 1231,
       "2023-04-08": 1313,
-      "2023-04-07": 515
+      "2023-04-07": 487
     }
   },
   {
@@ -485,8 +485,8 @@
     "status": "down",
     "uptime": "97.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.51%",
-    "uptimeMonth": "74.87%",
+    "uptimeWeek": "1.40%",
+    "uptimeMonth": "74.84%",
     "uptimeYear": "96.75%",
     "time": 1687,
     "timeDay": 21972,
@@ -494,7 +494,7 @@
     "timeMonth": 4382,
     "timeYear": 1723,
     "dailyMinutesDown": {
-      "2023-04-15": 384,
+      "2023-04-15": 396,
       "2023-04-14": 1440,
       "2023-04-13": 1428,
       "2023-04-12": 1440,
@@ -1737,26 +1737,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.30%",
+    "uptime": "97.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.64%",
-    "uptimeYear": "96.55%",
+    "uptimeMonth": "59.17%",
+    "uptimeYear": "96.60%",
     "time": 724,
     "timeDay": 536,
     "timeWeek": 688,
     "timeMonth": 707,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2023-04-15": 719,
+      "2023-04-15": 735,
       "2023-04-14": 2352,
       "2023-04-13": 2487,
       "2023-04-12": 2466,
       "2023-04-11": 2573,
       "2023-04-10": 2439,
       "2023-04-09": 2696,
-      "2023-04-08": 2291,
-      "2023-04-07": 98
+      "2023-04-08": 2140
     }
   },
   {
