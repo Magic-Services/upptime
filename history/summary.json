@@ -381,19 +381,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "23.65%",
-    "uptimeWeek": "24.25%",
-    "uptimeMonth": "80.47%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "23.98%",
+    "uptimeWeek": "24.34%",
+    "uptimeMonth": "80.54%",
+    "uptimeYear": "98.38%",
     "time": 922,
     "timeDay": 719,
     "timeWeek": 710,
     "timeMonth": 903,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2023-04-15": 258,
+      "2023-04-15": 260,
       "2023-04-14": 840,
       "2023-04-13": 1024,
       "2023-04-12": 1026,
@@ -401,7 +401,7 @@
       "2023-04-10": 1063,
       "2023-04-09": 1231,
       "2023-04-08": 1313,
-      "2023-04-07": 670
+      "2023-04-07": 638
     }
   },
   {
@@ -485,8 +485,8 @@
     "status": "down",
     "uptime": "97.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.49%",
-    "uptimeMonth": "75.09%",
+    "uptimeWeek": "2.37%",
+    "uptimeMonth": "75.06%",
     "uptimeYear": "96.77%",
     "time": 1687,
     "timeDay": 21972,
@@ -494,7 +494,7 @@
     "timeMonth": 4382,
     "timeYear": 1723,
     "dailyMinutesDown": {
-      "2023-04-15": 286,
+      "2023-04-15": 297,
       "2023-04-14": 1440,
       "2023-04-13": 1428,
       "2023-04-12": 1440,
@@ -1740,7 +1740,7 @@
     "uptime": "97.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.81%",
+    "uptimeMonth": "58.84%",
     "uptimeYear": "96.57%",
     "time": 724,
     "timeDay": 536,
@@ -1748,7 +1748,7 @@
     "timeMonth": 707,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2023-04-15": 545,
+      "2023-04-15": 563,
       "2023-04-14": 2352,
       "2023-04-13": 2487,
       "2023-04-12": 2466,
@@ -1756,7 +1756,7 @@
       "2023-04-10": 2439,
       "2023-04-09": 2696,
       "2023-04-08": 2291,
-      "2023-04-07": 197
+      "2023-04-07": 167
     }
   },
   {
