@@ -381,11 +381,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "28.70%",
-    "uptimeWeek": "30.94%",
-    "uptimeMonth": "84.11%",
+    "uptimeDay": "30.75%",
+    "uptimeWeek": "31.13%",
+    "uptimeMonth": "84.15%",
     "uptimeYear": "98.68%",
     "time": 918,
     "timeDay": 727,
@@ -393,14 +393,14 @@
     "timeMonth": 853,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2023-04-17": 173,
+      "2023-04-17": 175,
       "2023-04-16": 1143,
       "2023-04-15": 1068,
       "2023-04-14": 840,
       "2023-04-13": 1024,
       "2023-04-12": 1026,
       "2023-04-11": 1133,
-      "2023-04-10": 555
+      "2023-04-10": 534
     }
   },
   {
@@ -409,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.mstdn.social.ico",
     "slug": "nitter-nitter-mstdn-social",
     "status": "down",
-    "uptime": "88.86%",
+    "uptime": "88.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -482,10 +482,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "97.05%",
+    "uptime": "97.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.74%",
-    "uptimeMonth": "69.75%",
+    "uptimeMonth": "69.68%",
     "uptimeYear": "96.22%",
     "time": 1732,
     "timeDay": 27890,
@@ -493,7 +493,7 @@
     "timeMonth": 4454,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2023-04-17": 300,
+      "2023-04-17": 332,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -1737,7 +1737,7 @@
     "uptime": "97.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.87%",
+    "uptimeMonth": "63.85%",
     "uptimeYear": "96.99%",
     "time": 724,
     "timeDay": 752,
@@ -1745,14 +1745,14 @@
     "timeMonth": 699,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-04-17": 475,
+      "2023-04-17": 510,
       "2023-04-16": 2611,
       "2023-04-15": 2508,
       "2023-04-14": 2352,
       "2023-04-13": 2487,
       "2023-04-12": 2466,
       "2023-04-11": 2573,
-      "2023-04-10": 357
+      "2023-04-10": 330
     }
   },
   {
