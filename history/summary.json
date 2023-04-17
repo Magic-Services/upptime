@@ -381,25 +381,25 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "33.19%",
-    "uptimeWeek": "35.48%",
-    "uptimeMonth": "85.15%",
-    "uptimeYear": "98.76%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "34.15%",
+    "uptimeWeek": "36.95%",
+    "uptimeMonth": "85.49%",
+    "uptimeYear": "98.79%",
     "time": 919,
     "timeDay": 947,
     "timeWeek": 730,
     "timeMonth": 852,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2023-04-17": 714,
+      "2023-04-17": 717,
       "2023-04-16": 1143,
       "2023-04-15": 1068,
       "2023-04-14": 840,
       "2023-04-13": 1024,
       "2023-04-12": 1026,
-      "2023-04-11": 690
+      "2023-04-11": 539
     }
   },
   {
@@ -484,7 +484,7 @@
     "uptime": "96.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.74%",
-    "uptimeMonth": "67.83%",
+    "uptimeMonth": "67.79%",
     "uptimeYear": "96.06%",
     "time": 1732,
     "timeDay": 27890,
@@ -492,7 +492,7 @@
     "timeMonth": 4454,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2023-04-17": 1140,
+      "2023-04-17": 1156,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -881,7 +881,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/getferdi.com.ico",
     "slug": "ferdi",
     "status": "up",
-    "uptime": "79.36%",
+    "uptime": "79.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1387,7 +1387,7 @@
     "uptimeYear": "99.97%",
     "time": 399,
     "timeDay": 331,
-    "timeWeek": 885,
+    "timeWeek": 928,
     "timeMonth": 1083,
     "timeYear": 374,
     "dailyMinutesDown": {
@@ -1736,7 +1736,7 @@
     "uptime": "98.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.77%",
+    "uptimeMonth": "72.81%",
     "uptimeYear": "97.73%",
     "time": 724,
     "timeDay": 752,
@@ -1744,13 +1744,13 @@
     "timeMonth": 699,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-04-17": 1855,
+      "2023-04-17": 1878,
       "2023-04-16": 2611,
       "2023-04-15": 2508,
       "2023-04-14": 2352,
       "2023-04-13": 1371,
       "2023-04-12": 1026,
-      "2023-04-11": 206
+      "2023-04-11": 165
     }
   },
   {
