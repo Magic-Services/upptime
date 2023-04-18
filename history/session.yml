@@ -1,7 +1,7 @@
 url: https://getsession.org
-status: up
-code: 200
-responseTime: 19815
-lastUpdated: 2023-04-18T15:34:12.658Z
+status: down
+code: 502
+responseTime: 13271
+lastUpdated: 2023-04-18T15:45:03.010Z
 startTime: Tue Jan 04 2022 17:31:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
