@@ -383,25 +383,25 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "28.81%",
-    "uptimeWeek": "33.67%",
-    "uptimeMonth": "84.74%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "28.74%",
+    "uptimeWeek": "34.72%",
+    "uptimeMonth": "84.98%",
+    "uptimeYear": "98.75%",
     "time": 913,
     "timeDay": 765,
     "timeWeek": 735,
     "timeMonth": 815,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2023-04-19": 919,
+      "2023-04-19": 921,
       "2023-04-18": 1096,
       "2023-04-17": 925,
       "2023-04-16": 1143,
       "2023-04-15": 1068,
       "2023-04-14": 840,
-      "2023-04-13": 691
+      "2023-04-13": 583
     }
   },
   {
@@ -486,7 +486,7 @@
     "uptime": "96.50%",
     "uptimeDay": "0.77%",
     "uptimeWeek": "0.22%",
-    "uptimeMonth": "60.91%",
+    "uptimeMonth": "60.88%",
     "uptimeYear": "95.49%",
     "time": 1821,
     "timeDay": 23450,
@@ -494,7 +494,7 @@
     "timeMonth": 5496,
     "timeYear": 1878,
     "dailyMinutesDown": {
-      "2023-04-19": 1293,
+      "2023-04-19": 1305,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -1735,10 +1735,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.37%",
-    "uptimeMonth": "83.52%",
+    "uptimeWeek": "28.52%",
+    "uptimeMonth": "83.55%",
     "uptimeYear": "98.63%",
     "time": 724,
     "timeDay": 500,
@@ -1746,13 +1746,13 @@
     "timeMonth": 694,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-04-19": 1894,
+      "2023-04-19": 1911,
       "2023-04-18": 1151,
       "2023-04-17": 925,
       "2023-04-16": 1171,
       "2023-04-15": 1068,
       "2023-04-14": 912,
-      "2023-04-13": 96
+      "2023-04-13": 64
     }
   },
   {
