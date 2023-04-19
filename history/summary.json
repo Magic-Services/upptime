@@ -382,26 +382,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "31.65%",
-    "uptimeWeek": "35.57%",
-    "uptimeMonth": "85.17%",
-    "uptimeYear": "98.76%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "32.27%",
+    "uptimeWeek": "36.65%",
+    "uptimeMonth": "85.42%",
+    "uptimeYear": "98.79%",
     "time": 922,
     "timeDay": 657,
     "timeWeek": 725,
     "timeMonth": 830,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2023-04-19": 161,
+      "2023-04-19": 164,
       "2023-04-18": 1096,
       "2023-04-17": 925,
       "2023-04-16": 1143,
       "2023-04-15": 1068,
       "2023-04-14": 840,
       "2023-04-13": 1024,
-      "2023-04-12": 236
+      "2023-04-12": 124
     }
   },
   {
@@ -486,7 +486,7 @@
     "uptime": "96.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.11%",
-    "uptimeMonth": "63.24%",
+    "uptimeMonth": "63.21%",
     "uptimeYear": "95.68%",
     "time": 1774,
     "timeDay": 23706,
@@ -494,7 +494,7 @@
     "timeMonth": 5027,
     "timeYear": 1828,
     "dailyMinutesDown": {
-      "2023-04-19": 273,
+      "2023-04-19": 284,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -1746,13 +1746,13 @@
     "timeMonth": 694,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-04-19": 487,
+      "2023-04-19": 504,
       "2023-04-18": 2591,
       "2023-04-17": 2365,
       "2023-04-16": 2611,
       "2023-04-15": 2508,
       "2023-04-14": 2352,
-      "2023-04-13": 1245
+      "2023-04-13": 1228
     }
   },
   {
