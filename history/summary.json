@@ -380,26 +380,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "31.72%",
-    "uptimeWeek": "32.17%",
-    "uptimeMonth": "84.39%",
+    "uptimeDay": "32.85%",
+    "uptimeWeek": "32.36%",
+    "uptimeMonth": "84.43%",
     "uptimeYear": "98.70%",
     "time": 919,
-    "timeDay": 1118,
+    "timeDay": 1132,
     "timeWeek": 821,
     "timeMonth": 774,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2023-04-22": 446,
+      "2023-04-22": 448,
       "2023-04-21": 1015,
       "2023-04-20": 1068,
       "2023-04-19": 1034,
       "2023-04-18": 1096,
       "2023-04-17": 925,
       "2023-04-16": 1143,
-      "2023-04-15": 112
+      "2023-04-15": 91
     }
   },
   {
@@ -481,10 +481,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "95.99%",
+    "uptime": "95.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.11%",
-    "uptimeMonth": "52.96%",
+    "uptimeMonth": "52.89%",
     "uptimeYear": "94.80%",
     "time": 1890,
     "timeDay": 25155,
@@ -492,7 +492,7 @@
     "timeMonth": 8409,
     "timeYear": 1956,
     "dailyMinutesDown": {
-      "2023-04-22": 591,
+      "2023-04-22": 623,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1428,
@@ -1739,7 +1739,7 @@
     "uptime": "98.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.66%",
+    "uptimeMonth": "73.62%",
     "uptimeYear": "97.80%",
     "time": 724,
     "timeDay": 811,
@@ -1747,13 +1747,13 @@
     "timeMonth": 709,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-04-22": 1570,
+      "2023-04-22": 1607,
       "2023-04-21": 2528,
       "2023-04-20": 2508,
       "2023-04-19": 2142,
       "2023-04-18": 1151,
       "2023-04-17": 925,
-      "2023-04-16": 716
+      "2023-04-16": 695
     }
   },
   {
