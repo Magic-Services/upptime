@@ -381,25 +381,25 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "30.20%",
-    "uptimeWeek": "34.48%",
-    "uptimeMonth": "84.92%",
-    "uptimeYear": "98.74%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "30.02%",
+    "uptimeWeek": "35.04%",
+    "uptimeMonth": "85.05%",
+    "uptimeYear": "98.75%",
     "time": 928,
     "timeDay": 1932,
     "timeWeek": 1046,
     "timeMonth": 803,
     "timeYear": 936,
     "dailyMinutesDown": {
-      "2023-04-23": 732,
+      "2023-04-23": 735,
       "2023-04-22": 909,
       "2023-04-21": 1015,
       "2023-04-20": 1068,
       "2023-04-19": 1034,
       "2023-04-18": 1096,
-      "2023-04-17": 752
+      "2023-04-17": 692
     }
   },
   {
@@ -481,10 +481,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "95.73%",
+    "uptime": "95.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.11%",
-    "uptimeMonth": "48.80%",
+    "uptimeMonth": "48.77%",
     "uptimeYear": "94.45%",
     "time": 1911,
     "timeDay": 22868,
@@ -492,7 +492,7 @@
     "timeMonth": 9077,
     "timeYear": 1980,
     "dailyMinutesDown": {
-      "2023-04-23": 991,
+      "2023-04-23": 1004,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
@@ -1739,7 +1739,7 @@
     "uptime": "98.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.65%",
+    "uptimeMonth": "69.67%",
     "uptimeYear": "97.47%",
     "time": 724,
     "timeDay": 826,
@@ -1747,13 +1747,13 @@
     "timeMonth": 718,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-04-23": 1777,
+      "2023-04-23": 1797,
       "2023-04-22": 2881,
       "2023-04-21": 2528,
       "2023-04-20": 2508,
       "2023-04-19": 2142,
       "2023-04-18": 1151,
-      "2023-04-17": 309
+      "2023-04-17": 281
     }
   },
   {
