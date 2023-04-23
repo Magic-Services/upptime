@@ -52,9 +52,6 @@ sites:
   - name: Nitter (nitter.net)
     url: https://nitter.net
     icon: 
-  - name: Nitter (nitter.mstdn.social)
-    url: https://nitter.mstdn.social
-    icon: 
   - name: Libreddit (libreddit.spike.codes)
     url: https://libreddit.spike.codes
     icon: 
@@ -67,20 +64,20 @@ sites:
   - name: Peertube
     url: https://joinpeertube.org
     icon:
+  - name: Peertube (peertube.tv)
+    url: https://tube.tchncs.de
+    icon:
   - name: Peertube (tube.tchncs.de)
     url: https://tube.tchncs.de
     icon:
   - name: Pixelfed
     url: https://pixelfed.org
     icon:
-  - name: Pixelfed (pixelfed.de)
-    url: https://pixelfed.de
+  - name: Pixelfed (pixey.org)
+    url: https://pixey.org
     icon:
   - name: Pixelfed (pixel.tchncs.de)
     url: https://pixel.tchncs.de
-    icon:
-  - name: Pixelfed (pixey.org)
-    url: https://pixey.org
     icon:
   - name: Funkwhale
     url: https://funkwhale.audio
@@ -94,8 +91,8 @@ sites:
   - name: FediDB
     url: https://fedidb.org
     icon:
-  - name: Ferdi
-    url: https://getferdi.com
+  - name: Ferdium
+    url: https://ferdium.org
     icon:
   - name: Liberapay
     url: https://liberapay.com
@@ -110,7 +107,7 @@ sites:
     url: https://opencollective.com
     icon:
   - name: Buy Me a Coffe
-    url: https://www.buymeacoffee.com
+    url: https://buymeacoffee.com
     icon:
     expectedStatusCodes:
       - 200
@@ -124,6 +121,9 @@ sites:
   - name: umami
     url: https://umami.is
     icon:
+  - name: umami (instance)
+    url: $UMAMI_INSTANCE
+    icon:
   - name: listmonk
     url: https://listmonk.app
     icon:
@@ -136,21 +136,18 @@ sites:
   - name: Webblate
     url: https://weblate.org
     icon:
+  - name: Webblate (hosted.weblate.org)
+    url: https://hosted.weblate.org
+    icon:
   - name: Nextcloud
     url: https://nextcloud.com
+    icon:
+  - name: Nextcloud (semi-public instance)
+    url: $NC_SEMI_PUBLIC
     icon:
   - name: Cryptpad
     url: https://cryptpad.fr
     icon:
-  - name: OpenSea
-    url: https://opensea.io
-    icon:
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 302
-      - 403
   - name: Steam
     url: https://store.steampowered.com
     icon: 
@@ -180,14 +177,17 @@ sites:
   - name: itch.io
     url: https://itch.io
     icon: 
+  - name: GOG.com
+    url: https://gog.com
+    icon: 
   - name: Tutanota
     url: https://tutanota.com
     icon: 
   - name: Protonmail
     url: https://protonmail.com
     icon: 
-  - name: Protonvpn
-    url: https://protonvpn.com
+  - name: Mullvad VPN
+    url: https://mullvad.net
     icon: 
   - name: Signal
     url: https://signal.org
@@ -200,12 +200,6 @@ sites:
     icon: 
   - name: Matrix
     url: https://matrix.org
-    icon: 
-  - name: Matrix + Element (chat.tchncs.de)
-    url: https://chat.tchncs.de
-    icon: 
-  - name: Matrix + Element (chat.mstdn.social)
-    url: https://chat.mstdn.social
     icon: 
   - name: Rocket.Chat
     url: https://rocket.chat
@@ -220,7 +214,7 @@ sites:
     url: https://cwtch.im
     icon:
   - name: Tor
-    url: https://www.torproject.org
+    url: https://torproject.org
     icon: 
   - name: Bitwarden
     url: https://bitwarden.com
@@ -229,7 +223,7 @@ sites:
     url: https://unity.com
     icon:
   - name: Unreal Engine
-    url: https://www.unrealengine.com
+    url: https://unrealengine.com
     icon:
   - name: Folding @ Home
     url: https://foldingathome.org
