@@ -382,26 +382,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "28.38%",
-    "uptimeWeek": "31.34%",
-    "uptimeMonth": "84.20%",
-    "uptimeYear": "98.68%",
-    "time": 932,
+    "uptimeDay": "28.21%",
+    "uptimeWeek": "31.53%",
+    "uptimeMonth": "84.24%",
+    "uptimeYear": "98.69%",
+    "time": 933,
     "timeDay": 1432,
-    "timeWeek": 1137,
+    "timeWeek": 1140,
     "timeMonth": 812,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-04-24": 689,
+      "2023-04-24": 691,
       "2023-04-23": 1025,
       "2023-04-22": 909,
       "2023-04-21": 1015,
       "2023-04-20": 1068,
       "2023-04-19": 1034,
       "2023-04-18": 1096,
-      "2023-04-17": 88
+      "2023-04-17": 67
     }
   },
   {
@@ -413,7 +413,7 @@
     "uptime": "95.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.11%",
-    "uptimeMonth": "45.81%",
+    "uptimeMonth": "45.79%",
     "uptimeYear": "94.20%",
     "time": 1958,
     "timeDay": 23822,
@@ -421,7 +421,7 @@
     "timeMonth": 9745,
     "timeYear": 2032,
     "dailyMinutesDown": {
-      "2023-04-24": 861,
+      "2023-04-24": 873,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -761,7 +761,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tchncs.de.ico",
     "slug": "tchncs",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1548,7 +1548,7 @@
     "uptime": "97.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.39%",
+    "uptimeMonth": "66.46%",
     "uptimeYear": "97.20%",
     "time": 724,
     "timeDay": 627,
@@ -1556,13 +1556,13 @@
     "timeMonth": 712,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-04-24": 1596,
+      "2023-04-24": 1611,
       "2023-04-23": 2732,
       "2023-04-22": 2881,
       "2023-04-21": 2528,
       "2023-04-20": 2508,
       "2023-04-19": 2142,
-      "2023-04-18": 340
+      "2023-04-18": 293
     }
   },
   {
