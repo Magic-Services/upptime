@@ -379,11 +379,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "19.67%",
-    "uptimeWeek": "31.73%",
-    "uptimeMonth": "84.29%",
+    "uptimeDay": "20.31%",
+    "uptimeWeek": "31.92%",
+    "uptimeMonth": "84.33%",
     "uptimeYear": "98.69%",
     "time": 933,
     "timeDay": 729,
@@ -391,13 +391,13 @@
     "timeMonth": 816,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2023-04-26": 1085,
+      "2023-04-26": 1087,
       "2023-04-25": 1037,
       "2023-04-24": 1105,
       "2023-04-23": 1025,
       "2023-04-22": 909,
       "2023-04-21": 1015,
-      "2023-04-20": 707
+      "2023-04-20": 686
     }
   },
   {
@@ -409,7 +409,7 @@
     "uptime": "95.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "38.12%",
+    "uptimeMonth": "38.09%",
     "uptimeYear": "93.56%",
     "time": 2013,
     "timeDay": 27692,
@@ -417,7 +417,7 @@
     "timeMonth": 11064,
     "timeYear": 2094,
     "dailyMinutesDown": {
-      "2023-04-26": 1352,
+      "2023-04-26": 1364,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -650,10 +650,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pixey.org.ico",
     "slug": "pixelfed-pixey-org",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.76%",
+    "uptime": "99.97%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 820,
     "timeDay": 670,
@@ -661,7 +661,7 @@
     "timeMonth": 761,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2023-04-26": 74,
+      "2023-04-26": 85,
       "2023-03-28": 32
     }
   },
@@ -1233,13 +1233,13 @@
     "slug": "steam-community",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
     "time": 396,
-    "timeDay": 242,
-    "timeWeek": 287,
+    "timeDay": 316,
+    "timeWeek": 289,
     "timeMonth": 1003,
     "timeYear": 371,
     "dailyMinutesDown": {
@@ -1395,7 +1395,7 @@
     "slug": "mullvad-vpn",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "95.28%",
+    "uptimeDay": "96.07%",
     "uptimeWeek": "98.37%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "98.37%",
@@ -1547,9 +1547,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "9.49%",
-    "uptimeWeek": "28.65%",
-    "uptimeMonth": "83.58%",
+    "uptimeDay": "10.39%",
+    "uptimeWeek": "28.68%",
+    "uptimeMonth": "83.59%",
     "uptimeYear": "98.63%",
     "time": 724,
     "timeDay": 517,
@@ -1557,12 +1557,12 @@
     "timeMonth": 700,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-04-26": 1160,
+      "2023-04-26": 1175,
       "2023-04-25": 1137,
       "2023-04-24": 1149,
       "2023-04-23": 1292,
       "2023-04-22": 1441,
-      "2023-04-21": 1016
+      "2023-04-21": 997
     }
   },
   {
