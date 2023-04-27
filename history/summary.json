@@ -379,26 +379,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "18.13%",
-    "uptimeWeek": "29.37%",
-    "uptimeMonth": "83.75%",
-    "uptimeYear": "98.65%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "18.84%",
+    "uptimeWeek": "30.15%",
+    "uptimeMonth": "83.93%",
+    "uptimeYear": "98.66%",
     "time": 931,
     "timeDay": 808,
-    "timeWeek": 1167,
+    "timeWeek": 1172,
     "timeMonth": 818,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2023-04-27": 251,
+      "2023-04-27": 254,
       "2023-04-26": 1133,
       "2023-04-25": 1037,
       "2023-04-24": 1105,
       "2023-04-23": 1025,
       "2023-04-22": 909,
       "2023-04-21": 1015,
-      "2023-04-20": 648
+      "2023-04-20": 566
     }
   },
   {
@@ -407,10 +407,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "95.03%",
+    "uptime": "95.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.31%",
+    "uptimeMonth": "37.28%",
     "uptimeYear": "93.49%",
     "time": 2035,
     "timeDay": 23340,
@@ -418,7 +418,7 @@
     "timeMonth": 11477,
     "timeYear": 2119,
     "dailyMinutesDown": {
-      "2023-04-27": 264,
+      "2023-04-27": 277,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
@@ -653,9 +653,9 @@
     "slug": "pixelfed-pixey-org",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "70.42%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "69.52%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "99.91%",
     "time": 820,
     "timeDay": 767,
@@ -663,7 +663,7 @@
     "timeMonth": 757,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2023-04-27": 264,
+      "2023-04-27": 277,
       "2023-04-26": 161,
       "2023-03-28": 32
     }
@@ -1220,7 +1220,7 @@
     "uptimeYear": "99.99%",
     "time": 472,
     "timeDay": 579,
-    "timeWeek": 476,
+    "timeWeek": 491,
     "timeMonth": 463,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -1551,8 +1551,8 @@
     "status": "up",
     "uptime": "98.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.80%",
-    "uptimeMonth": "82.24%",
+    "uptimeWeek": "23.08%",
+    "uptimeMonth": "82.30%",
     "uptimeYear": "98.52%",
     "time": 723,
     "timeDay": 654,
@@ -1560,13 +1560,13 @@
     "timeMonth": 690,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-04-27": 516,
+      "2023-04-27": 535,
       "2023-04-26": 1294,
       "2023-04-25": 1137,
       "2023-04-24": 1149,
       "2023-04-23": 1292,
       "2023-04-22": 1441,
-      "2023-04-21": 955
+      "2023-04-21": 909
     }
   },
   {
