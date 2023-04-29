@@ -1,7 +1,7 @@
 url: https://mullvad.net
-status: down
-code: 502
-responseTime: 6065
-lastUpdated: 2023-04-29T10:05:45.127Z
+status: up
+code: 200
+responseTime: 864
+lastUpdated: 2023-04-29T10:24:25.540Z
 startTime: Sun Apr 23 2023 19:41:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
