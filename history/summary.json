@@ -381,11 +381,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "22.65%",
+    "uptimeDay": "23.40%",
     "uptimeWeek": "19.50%",
-    "uptimeMonth": "78.61%",
+    "uptimeMonth": "78.70%",
     "uptimeYear": "98.22%",
     "time": 925,
     "timeDay": 692,
@@ -393,7 +393,7 @@
     "timeMonth": 841,
     "timeYear": 936,
     "dailyMinutesDown": {
-      "2023-05-04": 180,
+      "2023-05-04": 183,
       "2023-05-03": 1179,
       "2023-05-02": 1172,
       "2023-05-01": 1440,
@@ -401,7 +401,7 @@
       "2023-04-29": 1029,
       "2023-04-28": 1203,
       "2023-04-27": 1067,
-      "2023-04-26": 1003
+      "2023-04-26": 961
     }
   },
   {
@@ -409,19 +409,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "93.87%",
-    "uptimeDay": "2.58%",
-    "uptimeWeek": "9.43%",
+    "uptimeDay": "3.39%",
+    "uptimeWeek": "9.55%",
     "uptimeMonth": "16.52%",
-    "uptimeYear": "91.86%",
-    "time": 2470,
-    "timeDay": 17052,
-    "timeWeek": 18931,
-    "timeMonth": 17767,
-    "timeYear": 2578,
+    "uptimeYear": "91.87%",
+    "time": 2494,
+    "timeDay": 18553,
+    "timeWeek": 19216,
+    "timeMonth": 17905,
+    "timeYear": 2605,
     "dailyMinutesDown": {
-      "2023-05-04": 262,
+      "2023-05-04": 264,
       "2023-05-03": 1394,
       "2023-05-02": 1375,
       "2023-05-01": 602,
@@ -503,7 +503,7 @@
       "2022-09-06": 165,
       "2022-09-05": 484,
       "2022-08-31": 51,
-      "2022-08-30": 165
+      "2022-08-30": 133
     }
   },
   {
@@ -662,7 +662,7 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.45%",
+    "uptimeWeek": "90.59%",
     "uptimeMonth": "96.83%",
     "uptimeYear": "99.73%",
     "time": 824,
@@ -1562,25 +1562,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.14%",
-    "uptimeYear": "97.76%",
+    "uptimeMonth": "73.43%",
+    "uptimeYear": "97.79%",
     "time": 723,
     "timeDay": 932,
     "timeWeek": 771,
     "timeMonth": 713,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-05-04": 442,
+      "2023-05-04": 450,
       "2023-05-03": 2593,
       "2023-05-02": 2577,
       "2023-05-01": 2177,
       "2023-04-30": 1232,
       "2023-04-29": 1245,
       "2023-04-28": 1223,
-      "2023-04-27": 282
+      "2023-04-27": 143
     }
   },
   {
