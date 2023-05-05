@@ -382,18 +382,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "27.03%",
+    "uptime": "98.70%",
+    "uptimeDay": "24.76%",
     "uptimeWeek": "18.87%",
-    "uptimeMonth": "79.43%",
-    "uptimeYear": "98.29%",
+    "uptimeMonth": "79.32%",
+    "uptimeYear": "98.28%",
     "time": 919,
     "timeDay": 736,
     "timeWeek": 765,
     "timeMonth": 845,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2023-05-04": 1051,
+      "2023-05-05": 44,
+      "2023-05-04": 1056,
       "2023-05-03": 1179,
       "2023-05-02": 1172,
       "2023-05-01": 1440,
@@ -408,18 +409,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "93.75%",
-    "uptimeDay": "7.09%",
-    "uptimeWeek": "10.43%",
-    "uptimeMonth": "14.08%",
+    "uptimeDay": "10.44%",
+    "uptimeWeek": "10.90%",
+    "uptimeMonth": "14.07%",
     "uptimeYear": "91.69%",
-    "time": 2566,
-    "timeDay": 15350,
-    "timeWeek": 17713,
-    "timeMonth": 17634,
-    "timeYear": 2785,
+    "time": 2584,
+    "timeDay": 15622,
+    "timeWeek": 17765,
+    "timeMonth": 17662,
+    "timeYear": 2804,
     "dailyMinutesDown": {
+      "2023-05-05": 2,
       "2023-05-04": 1333,
       "2023-05-03": 1394,
       "2023-05-02": 1375,
@@ -501,7 +503,7 @@
       "2022-09-10": 29,
       "2022-09-06": 165,
       "2022-09-05": 484,
-      "2022-08-31": 51
+      "2022-08-31": 28
     }
   },
   {
@@ -1173,8 +1175,7 @@
       "2022-05-16": 32,
       "2022-05-15": 18,
       "2022-05-09": 30,
-      "2022-05-06": 82,
-      "2022-05-05": 73
+      "2022-05-06": 82
     }
   },
   {
@@ -1560,10 +1561,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.56%",
+    "uptimeMonth": "72.48%",
     "uptimeYear": "97.71%",
     "time": 723,
     "timeDay": 776,
@@ -1571,12 +1572,13 @@
     "timeMonth": 710,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-05-04": 2386,
+      "2023-05-05": 50,
+      "2023-05-04": 2389,
       "2023-05-03": 2593,
       "2023-05-02": 2577,
       "2023-05-01": 2177,
       "2023-04-30": 1232,
-      "2023-04-29": 1060
+      "2023-04-29": 1040
     }
   },
   {
@@ -1684,8 +1686,7 @@
       "2022-06-11": 17,
       "2022-06-07": 36,
       "2022-06-01": 28,
-      "2022-05-31": 34,
-      "2022-05-05": 46
+      "2022-05-31": 34
     }
   },
   {
