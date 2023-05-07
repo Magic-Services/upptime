@@ -383,19 +383,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "21.16%",
-    "uptimeWeek": "19.25%",
-    "uptimeMonth": "78.68%",
-    "uptimeYear": "98.22%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "22.41%",
+    "uptimeWeek": "19.43%",
+    "uptimeMonth": "78.83%",
+    "uptimeYear": "98.24%",
     "time": 918,
     "timeDay": 781,
     "timeWeek": 784,
     "timeMonth": 862,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-05-07": 601,
+      "2023-05-07": 604,
       "2023-05-06": 1068,
       "2023-05-05": 1158,
       "2023-05-04": 1056,
@@ -403,7 +403,7 @@
       "2023-05-02": 1172,
       "2023-05-01": 1440,
       "2023-04-30": 1099,
-      "2023-04-29": 569
+      "2023-04-29": 498
     }
   },
   {
@@ -412,10 +412,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "93.32%",
+    "uptime": "93.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "11.38%",
-    "uptimeMonth": "6.39%",
+    "uptimeMonth": "6.34%",
     "uptimeYear": "91.07%",
     "time": 2661,
     "timeDay": 23877,
@@ -423,7 +423,7 @@
     "timeMonth": 18834,
     "timeYear": 2890,
     "dailyMinutesDown": {
-      "2023-05-07": 755,
+      "2023-05-07": 776,
       "2023-05-06": 1404,
       "2023-05-05": 1385,
       "2023-05-04": 1333,
@@ -1564,10 +1564,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.87%",
+    "uptime": "97.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.90%",
+    "uptimeMonth": "65.96%",
     "uptimeYear": "97.16%",
     "time": 724,
     "timeDay": 699,
@@ -1575,13 +1575,13 @@
     "timeMonth": 720,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-05-07": 1491,
+      "2023-05-07": 1518,
       "2023-05-06": 2472,
       "2023-05-05": 3162,
       "2023-05-04": 2389,
       "2023-05-03": 2593,
       "2023-05-02": 2177,
-      "2023-05-01": 647
+      "2023-05-01": 594
     }
   },
   {
