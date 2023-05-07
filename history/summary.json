@@ -383,19 +383,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "22.57%",
-    "uptimeWeek": "19.34%",
-    "uptimeMonth": "78.72%",
-    "uptimeYear": "98.23%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "23.20%",
+    "uptimeWeek": "19.43%",
+    "uptimeMonth": "78.85%",
+    "uptimeYear": "98.24%",
     "time": 918,
     "timeDay": 787,
     "timeWeek": 788,
     "timeMonth": 863,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-05-07": 653,
+      "2023-05-07": 655,
       "2023-05-06": 1068,
       "2023-05-05": 1158,
       "2023-05-04": 1056,
@@ -403,7 +403,7 @@
       "2023-05-02": 1172,
       "2023-05-01": 1440,
       "2023-04-30": 1099,
-      "2023-04-29": 498
+      "2023-04-29": 436
     }
   },
   {
@@ -423,7 +423,7 @@
     "timeMonth": 18680,
     "timeYear": 2890,
     "dailyMinutesDown": {
-      "2023-05-07": 828,
+      "2023-05-07": 839,
       "2023-05-06": 1404,
       "2023-05-05": 1385,
       "2023-05-04": 1333,
@@ -889,7 +889,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/buymeacoffee.com.ico",
     "slug": "buy-me-a-coffe",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1564,24 +1564,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.74%",
-    "uptimeYear": "97.14%",
+    "uptimeMonth": "65.92%",
+    "uptimeYear": "97.16%",
     "time": 724,
     "timeDay": 699,
     "timeWeek": 831,
     "timeMonth": 720,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-05-07": 1616,
+      "2023-05-07": 1631,
       "2023-05-06": 2472,
       "2023-05-05": 3162,
       "2023-05-04": 2389,
       "2023-05-03": 2593,
       "2023-05-02": 2177,
-      "2023-05-01": 594
+      "2023-05-01": 501
     }
   },
   {
