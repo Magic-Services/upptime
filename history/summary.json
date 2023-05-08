@@ -365,7 +365,7 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
     "time": 987,
@@ -382,19 +382,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "23.68%",
-    "uptimeWeek": "20.93%",
-    "uptimeMonth": "78.52%",
-    "uptimeYear": "98.21%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "24.29%",
+    "uptimeWeek": "21.02%",
+    "uptimeMonth": "78.65%",
+    "uptimeYear": "98.22%",
     "time": 919,
     "timeDay": 817,
     "timeWeek": 794,
     "timeMonth": 865,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2023-05-08": 831,
+      "2023-05-08": 833,
       "2023-05-07": 1173,
       "2023-05-06": 1068,
       "2023-05-05": 1158,
@@ -402,7 +402,7 @@
       "2023-05-03": 1179,
       "2023-05-02": 1172,
       "2023-05-01": 1440,
-      "2023-04-30": 330
+      "2023-04-30": 269
     }
   },
   {
@@ -422,7 +422,7 @@
     "timeMonth": 18862,
     "timeYear": 2914,
     "dailyMinutesDown": {
-      "2023-05-08": 1112,
+      "2023-05-08": 1123,
       "2023-05-07": 1428,
       "2023-05-06": 1404,
       "2023-05-05": 1385,
@@ -1563,23 +1563,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.87%",
-    "uptimeYear": "97.16%",
+    "uptimeMonth": "66.22%",
+    "uptimeYear": "97.18%",
     "time": 724,
     "timeDay": 927,
     "timeWeek": 831,
     "timeMonth": 733,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-05-08": 1944,
+      "2023-05-08": 1961,
       "2023-05-07": 2735,
       "2023-05-06": 2472,
       "2023-05-05": 3162,
       "2023-05-04": 2389,
-      "2023-05-03": 2248
+      "2023-05-03": 2076
     }
   },
   {
