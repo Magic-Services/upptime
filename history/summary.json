@@ -381,26 +381,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "30.58%",
-    "uptimeWeek": "24.59%",
-    "uptimeMonth": "82.42%",
-    "uptimeYear": "98.54%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "31.20%",
+    "uptimeWeek": "24.68%",
+    "uptimeMonth": "82.57%",
+    "uptimeYear": "98.55%",
     "time": 919,
     "timeDay": 1205,
     "timeWeek": 904,
     "timeMonth": 887,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2023-05-10": 482,
+      "2023-05-10": 484,
       "2023-05-09": 937,
       "2023-05-08": 1019,
       "2023-05-07": 1173,
       "2023-05-06": 1068,
       "2023-05-05": 1158,
       "2023-05-04": 1056,
-      "2023-05-03": 803
+      "2023-05-03": 737
     }
   },
   {
@@ -420,7 +420,7 @@
     "timeMonth": 19092,
     "timeYear": 3031,
     "dailyMinutesDown": {
-      "2023-05-10": 558,
+      "2023-05-10": 570,
       "2023-05-09": 1396,
       "2023-05-08": 1440,
       "2023-05-07": 1428,
@@ -1407,11 +1407,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mullvad.net.ico",
     "slug": "mullvad-vpn",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 1177,
     "timeDay": 0,
     "timeWeek": 980,
@@ -1563,7 +1563,7 @@
     "uptime": "97.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.77%",
+    "uptimeMonth": "65.81%",
     "uptimeYear": "97.15%",
     "time": 724,
     "timeDay": 0,
@@ -1571,13 +1571,13 @@
     "timeMonth": 729,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-05-10": 1059,
+      "2023-05-10": 1076,
       "2023-05-09": 2333,
       "2023-05-08": 2459,
       "2023-05-07": 2735,
       "2023-05-06": 2472,
       "2023-05-05": 3162,
-      "2023-05-04": 772
+      "2023-05-04": 740
     }
   },
   {
