@@ -380,26 +380,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "21.30%",
-    "uptimeWeek": "25.50%",
-    "uptimeMonth": "82.35%",
-    "uptimeYear": "98.53%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "22.53%",
+    "uptimeWeek": "25.52%",
+    "uptimeMonth": "82.46%",
+    "uptimeYear": "98.54%",
     "time": 941,
     "timeDay": 975,
-    "timeWeek": 1299,
+    "timeWeek": 1302,
     "timeMonth": 983,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2023-05-12": 594,
+      "2023-05-12": 597,
       "2023-05-11": 1009,
       "2023-05-10": 1180,
       "2023-05-09": 937,
       "2023-05-08": 1019,
       "2023-05-07": 1173,
       "2023-05-06": 1068,
-      "2023-05-05": 756
+      "2023-05-05": 704
     }
   },
   {
@@ -419,7 +419,7 @@
     "timeMonth": 19349,
     "timeYear": 3139,
     "dailyMinutesDown": {
-      "2023-05-12": 757,
+      "2023-05-12": 779,
       "2023-05-11": 1428,
       "2023-05-10": 1428,
       "2023-05-09": 1396,
@@ -664,12 +664,12 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "95.46%",
     "uptimeYear": "99.62%",
     "time": 827,
     "timeDay": 974,
-    "timeWeek": 886,
+    "timeWeek": 923,
     "timeMonth": 906,
     "timeYear": 827,
     "dailyMinutesDown": {
@@ -1563,7 +1563,7 @@
     "uptime": "97.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.97%",
+    "uptimeMonth": "65.01%",
     "uptimeYear": "97.08%",
     "time": 725,
     "timeDay": 940,
@@ -1571,13 +1571,13 @@
     "timeMonth": 742,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-05-12": 1388,
+      "2023-05-12": 1416,
       "2023-05-11": 2437,
       "2023-05-10": 2625,
       "2023-05-09": 2333,
       "2023-05-08": 2459,
       "2023-05-07": 2735,
-      "2023-05-06": 1372
+      "2023-05-06": 1328
     }
   },
   {
