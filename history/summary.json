@@ -76,7 +76,7 @@
     "timeDay": 687,
     "timeWeek": 746,
     "timeMonth": 3119,
-    "timeYear": 2231,
+    "timeYear": 2236,
     "dailyMinutesDown": {
       "2023-05-07": 68,
       "2023-04-23": 53,
@@ -149,7 +149,7 @@
     "timeDay": 91,
     "timeWeek": 103,
     "timeMonth": 93,
-    "timeYear": 96,
+    "timeYear": 95,
     "dailyMinutesDown": {}
   },
   {
@@ -167,7 +167,7 @@
     "timeDay": 269,
     "timeWeek": 135,
     "timeMonth": 181,
-    "timeYear": 178,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2023-01-30": 21,
       "2022-09-27": 33,
@@ -189,7 +189,7 @@
     "timeDay": 272,
     "timeWeek": 240,
     "timeMonth": 266,
-    "timeYear": 311,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2022-11-30": 89,
       "2022-11-07": 21,
@@ -264,7 +264,7 @@
     "timeDay": 266,
     "timeWeek": 311,
     "timeMonth": 352,
-    "timeYear": 462,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2022-12-16": 35,
       "2022-12-15": 446,
@@ -292,7 +292,7 @@
     "timeDay": 463,
     "timeWeek": 416,
     "timeMonth": 467,
-    "timeYear": 1436,
+    "timeYear": 1437,
     "dailyMinutesDown": {
       "2023-05-01": 53,
       "2023-03-13": 16,
@@ -340,7 +340,7 @@
     "timeDay": 859,
     "timeWeek": 844,
     "timeMonth": 845,
-    "timeYear": 1321,
+    "timeYear": 1320,
     "dailyMinutesDown": {
       "2023-01-31": 31,
       "2023-01-23": 23,
@@ -378,25 +378,25 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "27.83%",
-    "uptimeWeek": "28.72%",
-    "uptimeMonth": "83.60%",
-    "uptimeYear": "98.63%",
+    "uptimeDay": "27.67%",
+    "uptimeWeek": "28.91%",
+    "uptimeMonth": "83.64%",
+    "uptimeYear": "98.64%",
     "time": 939,
     "timeDay": 1337,
     "timeWeek": 1059,
     "timeMonth": 1063,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-05-18": 1016,
+      "2023-05-18": 1018,
       "2023-05-17": 1017,
       "2023-05-16": 1014,
       "2023-05-15": 912,
       "2023-05-14": 1136,
       "2023-05-13": 1172,
-      "2023-05-12": 919
+      "2023-05-12": 898
     }
   },
   {
@@ -409,14 +409,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.45%",
     "uptimeMonth": "4.54%",
-    "uptimeYear": "88.13%",
+    "uptimeYear": "88.12%",
     "time": 3289,
     "timeDay": 0,
     "timeWeek": 18701,
     "timeMonth": 18942,
-    "timeYear": 3584,
+    "timeYear": 3586,
     "dailyMinutesDown": {
-      "2023-05-18": 1395,
+      "2023-05-18": 1404,
       "2023-05-17": 1388,
       "2023-05-16": 1403,
       "2023-05-15": 1407,
@@ -553,7 +553,7 @@
     "timeDay": 225,
     "timeWeek": 119,
     "timeMonth": 189,
-    "timeYear": 265,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2023-04-22": 532,
       "2022-12-09": 128,
@@ -619,7 +619,7 @@
     "timeDay": 131,
     "timeWeek": 136,
     "timeMonth": 249,
-    "timeYear": 744,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2023-03-21": 31,
       "2022-12-29": 16,
@@ -641,7 +641,7 @@
     "timeDay": 161,
     "timeWeek": 196,
     "timeMonth": 226,
-    "timeYear": 220,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2023-03-21": 383,
       "2022-11-14": 25,
@@ -709,7 +709,7 @@
     "timeDay": 875,
     "timeWeek": 971,
     "timeMonth": 1001,
-    "timeYear": 816,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2023-04-06": 373,
       "2023-03-21": 32,
@@ -839,7 +839,7 @@
     "timeDay": 113,
     "timeWeek": 71,
     "timeMonth": 90,
-    "timeYear": 352,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2022-09-21": 59,
       "2022-06-21": 39,
@@ -1546,23 +1546,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.79%",
-    "uptimeYear": "97.73%",
+    "uptimeMonth": "72.93%",
+    "uptimeYear": "97.74%",
     "time": 725,
     "timeDay": 756,
     "timeWeek": 760,
     "timeMonth": 755,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-05-18": 2412,
+      "2023-05-18": 2426,
       "2023-05-17": 2405,
       "2023-05-16": 2465,
       "2023-05-15": 2350,
       "2023-05-14": 1558,
-      "2023-05-13": 732
+      "2023-05-13": 656
     }
   },
   {
