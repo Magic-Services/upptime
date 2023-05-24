@@ -378,13 +378,13 @@
     "slug": "nitter-nitter-net",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "29.19%",
+    "uptimeDay": "29.99%",
     "uptimeWeek": "33.58%",
     "uptimeMonth": "84.72%",
     "uptimeYear": "98.73%",
     "time": 980,
     "timeDay": 2079,
-    "timeWeek": 1924,
+    "timeWeek": 1925,
     "timeMonth": 1241,
     "timeYear": 996,
     "dailyMinutesDown": {
@@ -402,19 +402,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "90.38%",
-    "uptimeDay": "3.89%",
-    "uptimeWeek": "3.32%",
-    "uptimeMonth": "5.25%",
-    "uptimeYear": "86.69%",
-    "time": 3845,
-    "timeDay": 16917,
-    "timeWeek": 19255,
-    "timeMonth": 18771,
-    "timeYear": 4162,
+    "uptimeDay": "4.59%",
+    "uptimeWeek": "3.42%",
+    "uptimeMonth": "5.27%",
+    "uptimeYear": "86.70%",
+    "time": 3872,
+    "timeDay": 18299,
+    "timeWeek": 19528,
+    "timeMonth": 18859,
+    "timeYear": 4189,
     "dailyMinutesDown": {
-      "2023-05-24": 1128,
+      "2023-05-24": 1129,
       "2023-05-23": 1440,
       "2023-05-22": 1407,
       "2023-05-21": 1305,
@@ -490,8 +490,7 @@
       "2022-12-29": 41,
       "2022-12-28": 42,
       "2022-12-22": 30,
-      "2022-12-20": 20,
-      "2022-12-16": 23
+      "2022-12-20": 20
     }
   },
   {
@@ -1538,7 +1537,7 @@
     "uptime": "98.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.05%",
+    "uptimeMonth": "72.09%",
     "uptimeYear": "97.67%",
     "time": 724,
     "timeDay": 714,
@@ -1546,12 +1545,12 @@
     "timeMonth": 728,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2023-05-24": 1980,
+      "2023-05-24": 1983,
       "2023-05-23": 2571,
       "2023-05-22": 2470,
       "2023-05-21": 2345,
       "2023-05-20": 2441,
-      "2023-05-19": 437
+      "2023-05-19": 416
     }
   },
   {
