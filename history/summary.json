@@ -376,17 +376,17 @@
     "slug": "nitter-nitter-net",
     "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "26.91%",
-    "uptimeWeek": "35.52%",
-    "uptimeMonth": "83.60%",
+    "uptimeDay": "26.41%",
+    "uptimeWeek": "35.51%",
+    "uptimeMonth": "83.57%",
     "uptimeYear": "98.63%",
     "time": 986,
-    "timeDay": 1173,
+    "timeDay": 1194,
     "timeWeek": 1563,
     "timeMonth": 1299,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2023-05-29": 696,
+      "2023-05-29": 707,
       "2023-05-28": 1078,
       "2023-05-27": 1108,
       "2023-05-26": 1000,
@@ -414,7 +414,7 @@
     "timeMonth": 18627,
     "timeYear": 4679,
     "dailyMinutesDown": {
-      "2023-05-29": 886,
+      "2023-05-29": 896,
       "2023-05-28": 1405,
       "2023-05-27": 1385,
       "2023-05-26": 1400,
@@ -1373,11 +1373,11 @@
     "url": "https://mullvad.net",
     "icon": "https://icons.duckduckgo.com/ip3/mullvad.net.ico",
     "slug": "mullvad-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.59%",
     "time": 1008,
     "timeDay": 898,
@@ -1385,7 +1385,7 @@
     "timeMonth": 893,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2023-05-29": 19,
+      "2023-05-29": 21,
       "2023-05-27": 99,
       "2023-04-29": 19,
       "2023-04-25": 73
@@ -1540,13 +1540,13 @@
     "timeMonth": 729,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-05-29": 1605,
+      "2023-05-29": 1627,
       "2023-05-28": 2483,
       "2023-05-27": 2613,
       "2023-05-26": 2400,
       "2023-05-25": 1679,
       "2023-05-24": 1863,
-      "2023-05-23": 489
+      "2023-05-23": 465
     }
   },
   {
