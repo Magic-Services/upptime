@@ -374,19 +374,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "32.90%",
-    "uptimeWeek": "36.42%",
-    "uptimeMonth": "83.00%",
-    "uptimeYear": "98.58%",
-    "time": 978,
-    "timeDay": 558,
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "33.93%",
+    "uptimeWeek": "36.57%",
+    "uptimeMonth": "83.19%",
+    "uptimeYear": "98.60%",
+    "time": 979,
+    "timeDay": 561,
     "timeWeek": 1247,
     "timeMonth": 1294,
     "timeYear": 996,
     "dailyMinutesDown": {
-      "2023-05-30": 590,
+      "2023-05-30": 592,
       "2023-05-29": 1121,
       "2023-05-28": 1078,
       "2023-05-27": 1108,
@@ -394,7 +394,7 @@
       "2023-05-25": 264,
       "2023-05-24": 894,
       "2023-05-23": 1096,
-      "2023-05-22": 293
+      "2023-05-22": 211
     }
   },
   {
@@ -414,7 +414,7 @@
     "timeMonth": 18583,
     "timeYear": 4827,
     "dailyMinutesDown": {
-      "2023-05-30": 876,
+      "2023-05-30": 893,
       "2023-05-29": 1359,
       "2023-05-28": 1405,
       "2023-05-27": 1385,
@@ -1221,7 +1221,7 @@
     "timeDay": 312,
     "timeWeek": 292,
     "timeMonth": 285,
-    "timeYear": 368,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2023-05-16": 27,
       "2023-04-25": 27,
@@ -1526,24 +1526,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.43%",
-    "uptimeYear": "97.37%",
+    "uptimeMonth": "68.97%",
+    "uptimeYear": "97.41%",
     "time": 722,
     "timeDay": 544,
     "timeWeek": 655,
     "timeMonth": 729,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-05-30": 1484,
+      "2023-05-30": 1505,
       "2023-05-29": 2518,
       "2023-05-28": 2483,
       "2023-05-27": 2613,
       "2023-05-26": 2400,
       "2023-05-25": 1679,
-      "2023-05-24": 653
+      "2023-05-24": 393
     }
   },
   {
