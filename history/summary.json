@@ -374,19 +374,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "27.48%",
-    "uptimeWeek": "36.13%",
-    "uptimeMonth": "83.02%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "28.84%",
+    "uptimeWeek": "36.44%",
+    "uptimeMonth": "83.30%",
+    "uptimeYear": "98.61%",
     "time": 983,
-    "timeDay": 537,
+    "timeDay": 547,
     "timeWeek": 1322,
     "timeMonth": 1292,
     "timeYear": 997,
     "dailyMinutesDown": {
-      "2023-05-30": 355,
+      "2023-05-30": 357,
       "2023-05-29": 1121,
       "2023-05-28": 1078,
       "2023-05-27": 1108,
@@ -394,7 +394,7 @@
       "2023-05-25": 264,
       "2023-05-24": 894,
       "2023-05-23": 1096,
-      "2023-05-22": 519
+      "2023-05-22": 396
     }
   },
   {
@@ -404,17 +404,17 @@
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
     "uptime": "89.51%",
-    "uptimeDay": "10.77%",
+    "uptimeDay": "9.92%",
     "uptimeWeek": "4.53%",
     "uptimeMonth": "6.16%",
-    "uptimeYear": "85.33%",
+    "uptimeYear": "85.32%",
     "time": 4535,
-    "timeDay": 17669,
+    "timeDay": 17922,
     "timeWeek": 18523,
     "timeMonth": 18583,
     "timeYear": 4827,
     "dailyMinutesDown": {
-      "2023-05-30": 526,
+      "2023-05-30": 559,
       "2023-05-29": 1359,
       "2023-05-28": 1405,
       "2023-05-27": 1385,
@@ -1528,7 +1528,7 @@
     "uptime": "98.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.80%",
+    "uptimeMonth": "68.81%",
     "uptimeYear": "97.40%",
     "time": 722,
     "timeDay": 544,
@@ -1536,13 +1536,13 @@
     "timeMonth": 729,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-05-30": 882,
+      "2023-05-30": 921,
       "2023-05-29": 2518,
       "2023-05-28": 2483,
       "2023-05-27": 2613,
       "2023-05-26": 2400,
       "2023-05-25": 1679,
-      "2023-05-24": 1091
+      "2023-05-24": 1048
     }
   },
   {
