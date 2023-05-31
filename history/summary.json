@@ -375,19 +375,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "24.20%",
-    "uptimeWeek": "35.55%",
-    "uptimeMonth": "82.45%",
-    "uptimeYear": "98.54%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "24.68%",
+    "uptimeWeek": "35.75%",
+    "uptimeMonth": "82.63%",
+    "uptimeYear": "98.55%",
     "time": 981,
-    "timeDay": 967,
+    "timeDay": 983,
     "timeWeek": 1048,
-    "timeMonth": 1283,
+    "timeMonth": 1284,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2023-05-31": 725,
+      "2023-05-31": 727,
       "2023-05-30": 946,
       "2023-05-29": 1121,
       "2023-05-28": 1078,
@@ -395,7 +395,7 @@
       "2023-05-26": 1000,
       "2023-05-25": 264,
       "2023-05-24": 894,
-      "2023-05-23": 550
+      "2023-05-23": 469
     }
   },
   {
@@ -404,7 +404,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "89.31%",
+    "uptime": "89.30%",
     "uptimeDay": "0.82%",
     "uptimeWeek": "4.10%",
     "uptimeMonth": "2.90%",
@@ -415,7 +415,7 @@
     "timeMonth": 18628,
     "timeYear": 4881,
     "dailyMinutesDown": {
-      "2023-05-31": 920,
+      "2023-05-31": 943,
       "2023-05-30": 1343,
       "2023-05-29": 1359,
       "2023-05-28": 1405,
@@ -1056,7 +1056,7 @@
     "slug": "webblate-hosted-weblate-org",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "98.91%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.73%",
@@ -1530,7 +1530,7 @@
     "uptime": "98.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.44%",
+    "uptimeMonth": "67.50%",
     "uptimeYear": "97.29%",
     "time": 722,
     "timeDay": 721,
@@ -1538,13 +1538,13 @@
     "timeMonth": 728,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-05-31": 1944,
+      "2023-05-31": 1971,
       "2023-05-30": 2389,
       "2023-05-29": 2518,
       "2023-05-28": 2483,
       "2023-05-27": 2613,
       "2023-05-26": 2222,
-      "2023-05-25": 92
+      "2023-05-25": 40
     }
   },
   {
