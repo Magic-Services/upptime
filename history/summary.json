@@ -64,7 +64,7 @@
     "slug": "magic-like-old",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "94.86%",
+    "uptimeDay": "96.08%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.74%",
@@ -375,11 +375,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "20.28%",
-    "uptimeWeek": "35.63%",
-    "uptimeMonth": "82.47%",
+    "uptimeDay": "21.32%",
+    "uptimeWeek": "35.60%",
+    "uptimeMonth": "82.51%",
     "uptimeYear": "98.54%",
     "time": 981,
     "timeDay": 976,
@@ -387,7 +387,7 @@
     "timeMonth": 1284,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2023-05-31": 800,
+      "2023-05-31": 803,
       "2023-05-30": 946,
       "2023-05-29": 1121,
       "2023-05-28": 1078,
@@ -395,7 +395,7 @@
       "2023-05-26": 1000,
       "2023-05-25": 264,
       "2023-05-24": 894,
-      "2023-05-23": 469
+      "2023-05-23": 445
     }
   },
   {
@@ -415,7 +415,7 @@
     "timeMonth": 18628,
     "timeYear": 4881,
     "dailyMinutesDown": {
-      "2023-05-31": 1018,
+      "2023-05-31": 1036,
       "2023-05-30": 1343,
       "2023-05-29": 1359,
       "2023-05-28": 1405,
@@ -1527,24 +1527,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.16%",
-    "uptimeYear": "97.26%",
+    "uptimeMonth": "67.58%",
+    "uptimeYear": "97.30%",
     "time": 722,
     "timeDay": 721,
     "timeWeek": 656,
     "timeMonth": 728,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-05-31": 2117,
+      "2023-05-31": 2140,
       "2023-05-30": 2389,
       "2023-05-29": 2518,
       "2023-05-28": 2483,
       "2023-05-27": 2613,
-      "2023-05-26": 2222,
-      "2023-05-25": 40
+      "2023-05-26": 2056
     }
   },
   {
