@@ -359,12 +359,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 974,
     "timeDay": 689,
     "timeWeek": 709,
-    "timeMonth": 836,
+    "timeMonth": 834,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2023-05-01": 92
@@ -375,27 +375,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "26.05%",
-    "uptimeWeek": "26.47%",
-    "uptimeMonth": "82.87%",
-    "uptimeYear": "98.57%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "26.54%",
+    "uptimeWeek": "26.49%",
+    "uptimeMonth": "82.96%",
+    "uptimeYear": "98.58%",
     "time": 983,
     "timeDay": 618,
     "timeWeek": 823,
     "timeMonth": 1265,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2023-06-01": 877,
+      "2023-06-01": 879,
       "2023-05-31": 1064,
       "2023-05-30": 946,
       "2023-05-29": 1121,
       "2023-05-28": 1078,
       "2023-05-27": 1108,
       "2023-05-26": 1000,
-      "2023-05-25": 264,
-      "2023-05-24": 43
+      "2023-05-25": 264
     }
   },
   {
@@ -415,7 +414,7 @@
     "timeMonth": 18649,
     "timeYear": 4961,
     "dailyMinutesDown": {
-      "2023-06-01": 1097,
+      "2023-06-01": 1109,
       "2023-05-31": 1397,
       "2023-05-30": 1343,
       "2023-05-29": 1359,
@@ -1084,12 +1083,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 1287,
     "timeDay": 956,
     "timeWeek": 947,
     "timeMonth": 1159,
-    "timeYear": 1302,
+    "timeYear": 1303,
     "dailyMinutesDown": {
       "2023-05-22": 26,
       "2023-05-02": 30,
@@ -1527,7 +1526,7 @@
     "uptime": "98.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.46%",
+    "uptimeMonth": "68.47%",
     "uptimeYear": "97.37%",
     "time": 722,
     "timeDay": 714,
@@ -1535,12 +1534,12 @@
     "timeMonth": 721,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-06-01": 1975,
+      "2023-06-01": 1992,
       "2023-05-31": 2758,
       "2023-05-30": 2389,
       "2023-05-29": 2518,
       "2023-05-28": 2483,
-      "2023-05-27": 1693
+      "2023-05-27": 1672
     }
   },
   {
