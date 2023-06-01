@@ -375,11 +375,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "22.98%",
-    "uptimeWeek": "30.03%",
-    "uptimeMonth": "82.81%",
+    "uptimeDay": "23.60%",
+    "uptimeWeek": "30.01%",
+    "uptimeMonth": "82.90%",
     "uptimeYear": "98.57%",
     "time": 981,
     "timeDay": 751,
@@ -387,7 +387,7 @@
     "timeMonth": 1277,
     "timeYear": 994,
     "dailyMinutesDown": {
-      "2023-06-01": 467,
+      "2023-06-01": 469,
       "2023-05-31": 1064,
       "2023-05-30": 946,
       "2023-05-29": 1121,
@@ -395,7 +395,7 @@
       "2023-05-27": 1108,
       "2023-05-26": 1000,
       "2023-05-25": 264,
-      "2023-05-24": 478
+      "2023-05-24": 438
     }
   },
   {
@@ -407,7 +407,7 @@
     "uptime": "89.22%",
     "uptimeDay": "6.20%",
     "uptimeWeek": "4.19%",
-    "uptimeMonth": "1.96%",
+    "uptimeMonth": "1.94%",
     "uptimeYear": "84.86%",
     "time": 4670,
     "timeDay": 16697,
@@ -415,7 +415,7 @@
     "timeMonth": 18631,
     "timeYear": 4961,
     "dailyMinutesDown": {
-      "2023-06-01": 470,
+      "2023-06-01": 481,
       "2023-05-31": 1397,
       "2023-05-30": 1343,
       "2023-05-29": 1359,
@@ -770,7 +770,7 @@
     "slug": "fedi-db",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "85.88%",
+    "uptimeDay": "86.65%",
     "uptimeWeek": "97.05%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.80%",
@@ -1524,24 +1524,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.41%",
-    "uptimeYear": "97.45%",
+    "uptimeMonth": "69.48%",
+    "uptimeYear": "97.46%",
     "time": 722,
     "timeDay": 714,
     "timeWeek": 649,
     "timeMonth": 721,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-06-01": 938,
+      "2023-06-01": 953,
       "2023-05-31": 2758,
       "2023-05-30": 2389,
       "2023-05-29": 2518,
       "2023-05-28": 2483,
       "2023-05-27": 2051,
-      "2023-05-26": 263
+      "2023-05-26": 217
     }
   },
   {
