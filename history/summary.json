@@ -374,19 +374,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "19.12%",
-    "uptimeWeek": "26.39%",
-    "uptimeMonth": "82.03%",
-    "uptimeYear": "98.50%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "18.98%",
+    "uptimeWeek": "26.48%",
+    "uptimeMonth": "82.12%",
+    "uptimeYear": "98.51%",
     "time": 974,
     "timeDay": 691,
     "timeWeek": 793,
     "timeMonth": 1272,
     "timeYear": 988,
     "dailyMinutesDown": {
-      "2023-06-06": 184,
+      "2023-06-06": 186,
       "2023-06-05": 1172,
       "2023-06-04": 1135,
       "2023-06-03": 1016,
@@ -394,7 +394,7 @@
       "2023-06-01": 1034,
       "2023-05-31": 1064,
       "2023-05-30": 946,
-      "2023-05-29": 358
+      "2023-05-29": 316
     }
   },
   {
@@ -414,7 +414,7 @@
     "timeMonth": 18688,
     "timeYear": 5019,
     "dailyMinutesDown": {
-      "2023-06-06": 264,
+      "2023-06-06": 275,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -979,12 +979,12 @@
     "slug": "shields-io",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.90%",
     "time": 366,
-    "timeDay": 95,
+    "timeDay": 103,
     "timeWeek": 141,
     "timeMonth": 159,
     "timeYear": 334,
@@ -1532,7 +1532,7 @@
     "uptime": "97.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.59%",
+    "uptimeMonth": "63.63%",
     "uptimeYear": "96.97%",
     "time": 721,
     "timeDay": 721,
@@ -1540,14 +1540,14 @@
     "timeMonth": 693,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-06-06": 450,
+      "2023-06-06": 465,
       "2023-06-05": 2628,
       "2023-06-04": 2575,
       "2023-06-03": 2563,
       "2023-06-02": 2426,
       "2023-06-01": 2416,
       "2023-05-31": 2353,
-      "2023-05-30": 538
+      "2023-05-30": 508
     }
   },
   {
