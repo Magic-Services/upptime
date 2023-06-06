@@ -1,7 +1,7 @@
 url: https://invidious.snopyta.org
-status: up
-code: 200
-responseTime: 1271
-lastUpdated: 2023-06-05T23:12:42.885Z
+status: down
+code: 502
+responseTime: 3734
+lastUpdated: 2023-06-06T17:10:40.747Z
 startTime: Tue Jan 04 2022 19:32:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
