@@ -374,26 +374,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "28.39%",
-    "uptimeWeek": "26.19%",
-    "uptimeMonth": "82.50%",
-    "uptimeYear": "98.54%",
-    "time": 977,
-    "timeDay": 1168,
-    "timeWeek": 880,
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "28.21%",
+    "uptimeWeek": "26.30%",
+    "uptimeMonth": "82.79%",
+    "uptimeYear": "98.57%",
+    "time": 978,
+    "timeDay": 1186,
+    "timeWeek": 843,
     "timeMonth": 1277,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2023-06-06": 926,
+      "2023-06-06": 929,
       "2023-06-05": 1172,
       "2023-06-04": 1135,
       "2023-06-03": 1016,
       "2023-06-02": 962,
       "2023-06-01": 1034,
       "2023-05-31": 1064,
-      "2023-05-30": 356
+      "2023-05-30": 226
     }
   },
   {
@@ -413,7 +413,7 @@
     "timeMonth": 18806,
     "timeYear": 5019,
     "dailyMinutesDown": {
-      "2023-06-06": 1271,
+      "2023-06-06": 1295,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -693,7 +693,7 @@
     "timeDay": 1024,
     "timeWeek": 2097,
     "timeMonth": 1216,
-    "timeYear": 853,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2023-05-25": 18,
       "2023-04-06": 373,
@@ -1529,10 +1529,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.58%",
+    "uptimeMonth": "61.63%",
     "uptimeYear": "96.80%",
     "time": 721,
     "timeDay": 721,
@@ -1540,13 +1540,13 @@
     "timeMonth": 693,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-06-06": 2214,
+      "2023-06-06": 2243,
       "2023-06-05": 2628,
       "2023-06-04": 2575,
       "2023-06-03": 2563,
       "2023-06-02": 2426,
       "2023-06-01": 2416,
-      "2023-05-31": 2007
+      "2023-05-31": 1957
     }
   },
   {
