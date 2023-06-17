@@ -52,8 +52,7 @@
       "2022-07-25": 21,
       "2022-07-09": 25,
       "2022-06-24": 23,
-      "2022-06-19": 30,
-      "2022-06-17": 35
+      "2022-06-19": 30
     }
   },
   {
@@ -374,25 +373,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.12%",
-    "uptimeDay": "35.63%",
-    "uptimeWeek": "33.90%",
-    "uptimeMonth": "84.79%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "35.45%",
+    "uptimeWeek": "34.31%",
+    "uptimeMonth": "84.88%",
+    "uptimeYear": "98.74%",
     "time": 966,
-    "timeDay": 676,
+    "timeDay": 687,
     "timeWeek": 817,
     "timeMonth": 1142,
     "timeYear": 978,
     "dailyMinutesDown": {
+      "2023-06-17": 3,
       "2023-06-16": 926,
       "2023-06-15": 867,
       "2023-06-14": 1086,
       "2023-06-13": 1054,
       "2023-06-12": 1201,
       "2023-06-11": 1025,
-      "2023-06-10": 507
+      "2023-06-10": 463
     }
   },
   {
@@ -402,17 +402,18 @@
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
     "uptime": "87.65%",
-    "uptimeDay": "1.24%",
+    "uptimeDay": "1.02%",
     "uptimeWeek": "3.49%",
     "uptimeMonth": "0.89%",
     "uptimeYear": "82.13%",
     "time": 5356,
-    "timeDay": 20398,
+    "timeDay": 16852,
     "timeWeek": 17234,
     "timeMonth": 18215,
     "timeYear": 5745,
     "dailyMinutesDown": {
-      "2023-06-16": 1417,
+      "2023-06-17": 4,
+      "2023-06-16": 1425,
       "2023-06-15": 1357,
       "2023-06-14": 1398,
       "2023-06-13": 1418,
@@ -995,8 +996,7 @@
       "2022-07-01": 18,
       "2022-06-30": 131,
       "2022-06-29": 24,
-      "2022-06-21": 17,
-      "2022-06-17": 37
+      "2022-06-21": 17
     }
   },
   {
@@ -1529,23 +1529,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.08%",
-    "uptimeYear": "97.51%",
+    "uptimeMonth": "70.35%",
+    "uptimeYear": "97.53%",
     "time": 721,
     "timeDay": 938,
     "timeWeek": 744,
     "timeMonth": 685,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-06-16": 2367,
+      "2023-06-17": 11,
+      "2023-06-16": 2373,
       "2023-06-15": 2224,
       "2023-06-14": 2484,
       "2023-06-13": 2560,
       "2023-06-12": 2567,
-      "2023-06-11": 907
+      "2023-06-11": 774
     }
   },
   {
