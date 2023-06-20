@@ -374,26 +374,26 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "31.48%",
-    "uptimeWeek": "28.99%",
-    "uptimeMonth": "83.66%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "31.47%",
+    "uptimeWeek": "29.82%",
+    "uptimeMonth": "83.85%",
+    "uptimeYear": "98.65%",
     "time": 963,
-    "timeDay": 659,
+    "timeDay": 664,
     "timeWeek": 697,
     "timeMonth": 1034,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2023-06-20": 828,
+      "2023-06-20": 830,
       "2023-06-19": 1049,
       "2023-06-18": 1177,
       "2023-06-17": 1095,
       "2023-06-16": 926,
       "2023-06-15": 867,
       "2023-06-14": 1086,
-      "2023-06-13": 129
+      "2023-06-13": 43
     }
   },
   {
@@ -413,7 +413,7 @@
     "timeMonth": 17907,
     "timeYear": 6252,
     "dailyMinutesDown": {
-      "2023-06-20": 1081,
+      "2023-06-20": 1092,
       "2023-06-19": 1329,
       "2023-06-18": 1295,
       "2023-06-17": 1361,
@@ -1357,11 +1357,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mullvad.net.ico",
     "slug": "mullvad-vpn",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 993,
     "timeDay": 674,
     "timeWeek": 795,
@@ -1516,7 +1516,7 @@
     "uptime": "98.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.71%",
+    "uptimeMonth": "70.75%",
     "uptimeYear": "97.56%",
     "time": 719,
     "timeDay": 733,
@@ -1524,12 +1524,12 @@
     "timeMonth": 682,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-06-20": 2203,
+      "2023-06-20": 2218,
       "2023-06-19": 3071,
       "2023-06-18": 2572,
       "2023-06-17": 2472,
       "2023-06-16": 2373,
-      "2023-06-15": 137
+      "2023-06-15": 107
     }
   },
   {
