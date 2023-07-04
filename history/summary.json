@@ -369,19 +369,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "28.62%",
-    "uptimeWeek": "23.34%",
-    "uptimeMonth": "78.43%",
-    "uptimeYear": "98.20%",
+    "uptimeDay": "29.16%",
+    "uptimeWeek": "23.43%",
+    "uptimeMonth": "78.54%",
+    "uptimeYear": "98.21%",
     "time": 961,
-    "timeDay": 649,
+    "timeDay": 651,
     "timeWeek": 979,
     "timeMonth": 854,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-07-04": 901,
+      "2023-07-04": 903,
       "2023-07-03": 1118,
       "2023-07-02": 1212,
       "2023-07-01": 1074,
@@ -389,7 +389,7 @@
       "2023-06-29": 1240,
       "2023-06-28": 1032,
       "2023-06-27": 1191,
-      "2023-06-26": 648
+      "2023-06-26": 598
     }
   },
   {
@@ -409,7 +409,7 @@
     "timeMonth": 17680,
     "timeYear": 7767,
     "dailyMinutesDown": {
-      "2023-07-04": 1209,
+      "2023-07-04": 1220,
       "2023-07-03": 1363,
       "2023-07-02": 1279,
       "2023-07-01": 1312,
@@ -1321,7 +1321,7 @@
     "slug": "mullvad-vpn",
     "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "39.04%",
+    "uptimeDay": "39.79%",
     "uptimeWeek": "78.13%",
     "uptimeMonth": "94.97%",
     "uptimeYear": "97.65%",
@@ -1474,23 +1474,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "98.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.13%",
-    "uptimeYear": "96.93%",
+    "uptimeMonth": "64.45%",
+    "uptimeYear": "97.04%",
     "time": 717,
     "timeDay": 865,
     "timeWeek": 774,
     "timeMonth": 710,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-07-04": 2831,
+      "2023-07-04": 2846,
       "2023-07-03": 4123,
       "2023-07-02": 2833,
       "2023-07-01": 2386,
       "2023-06-30": 2783,
-      "2023-06-29": 1196
+      "2023-06-29": 604
     }
   },
   {
