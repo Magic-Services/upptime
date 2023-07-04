@@ -369,19 +369,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "23.39%",
-    "uptimeWeek": "21.72%",
-    "uptimeMonth": "77.87%",
-    "uptimeYear": "98.16%",
+    "uptimeDay": "24.00%",
+    "uptimeWeek": "21.80%",
+    "uptimeMonth": "78.03%",
+    "uptimeYear": "98.17%",
     "time": 961,
     "timeDay": 657,
     "timeWeek": 985,
-    "timeMonth": 857,
+    "timeMonth": 858,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2023-07-04": 359,
+      "2023-07-04": 361,
       "2023-07-03": 1118,
       "2023-07-02": 1212,
       "2023-07-01": 1074,
@@ -390,7 +390,7 @@
       "2023-06-28": 1032,
       "2023-06-27": 1191,
       "2023-06-26": 1120,
-      "2023-06-25": 313
+      "2023-06-25": 242
     }
   },
   {
@@ -410,7 +410,7 @@
     "timeMonth": 17707,
     "timeYear": 7717,
     "dailyMinutesDown": {
-      "2023-07-04": 441,
+      "2023-07-04": 452,
       "2023-07-03": 1363,
       "2023-07-02": 1279,
       "2023-07-01": 1312,
@@ -1323,18 +1323,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mullvad.net.ico",
     "slug": "mullvad-vpn",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.78%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "97.89%",
+    "uptimeWeek": "80.66%",
+    "uptimeMonth": "95.55%",
+    "uptimeYear": "97.88%",
     "time": 963,
     "timeDay": 1107,
     "timeWeek": 885,
     "timeMonth": 938,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-07-04": 452,
+      "2023-07-04": 464,
       "2023-07-03": 1440,
       "2023-07-02": 45,
       "2023-05-29": 38,
@@ -1480,7 +1480,7 @@
     "uptime": "98.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.06%",
+    "uptimeMonth": "65.04%",
     "uptimeYear": "97.09%",
     "time": 717,
     "timeDay": 865,
@@ -1488,12 +1488,12 @@
     "timeMonth": 710,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-07-04": 1254,
+      "2023-07-04": 1283,
       "2023-07-03": 4123,
       "2023-07-02": 2833,
       "2023-07-01": 2386,
       "2023-06-30": 2783,
-      "2023-06-29": 1926
+      "2023-06-29": 1907
     }
   },
   {
