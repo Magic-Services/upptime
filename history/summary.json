@@ -369,19 +369,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "27.57%",
-    "uptimeWeek": "22.88%",
-    "uptimeMonth": "78.37%",
-    "uptimeYear": "98.20%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "28.84%",
+    "uptimeWeek": "23.08%",
+    "uptimeMonth": "78.46%",
+    "uptimeYear": "98.21%",
     "time": 961,
-    "timeDay": 644,
+    "timeDay": 654,
     "timeWeek": 987,
     "timeMonth": 854,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-07-04": 827,
+      "2023-07-04": 829,
       "2023-07-03": 1118,
       "2023-07-02": 1212,
       "2023-07-01": 1074,
@@ -389,7 +389,7 @@
       "2023-06-29": 1240,
       "2023-06-28": 1032,
       "2023-06-27": 1191,
-      "2023-06-26": 747
+      "2023-06-26": 705
     }
   },
   {
@@ -398,7 +398,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "93.72%",
+    "uptime": "93.71%",
     "uptimeDay": "5.96%",
     "uptimeWeek": "6.15%",
     "uptimeMonth": "5.85%",
@@ -409,7 +409,7 @@
     "timeMonth": 17635,
     "timeYear": 7741,
     "dailyMinutesDown": {
-      "2023-07-04": 1108,
+      "2023-07-04": 1130,
       "2023-07-03": 1363,
       "2023-07-02": 1279,
       "2023-07-01": 1312,
@@ -1322,7 +1322,7 @@
     "slug": "mullvad-vpn",
     "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "30.69%",
+    "uptimeDay": "32.20%",
     "uptimeWeek": "78.13%",
     "uptimeMonth": "94.97%",
     "uptimeYear": "97.65%",
@@ -1478,7 +1478,7 @@
     "uptime": "97.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.16%",
+    "uptimeMonth": "63.22%",
     "uptimeYear": "96.93%",
     "time": 717,
     "timeDay": 865,
@@ -1486,12 +1486,12 @@
     "timeMonth": 710,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-07-04": 2656,
+      "2023-07-04": 2682,
       "2023-07-03": 4123,
       "2023-07-02": 2833,
       "2023-07-01": 2386,
       "2023-06-30": 2783,
-      "2023-06-29": 1356
+      "2023-06-29": 1306
     }
   },
   {
