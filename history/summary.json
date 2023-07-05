@@ -368,19 +368,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "36.68%",
-    "uptimeWeek": "23.75%",
-    "uptimeMonth": "78.25%",
-    "uptimeYear": "98.19%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "36.53%",
+    "uptimeWeek": "23.91%",
+    "uptimeMonth": "78.58%",
+    "uptimeYear": "98.21%",
     "time": 962,
     "timeDay": 704,
     "timeWeek": 979,
     "timeMonth": 846,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2023-07-05": 203,
+      "2023-07-05": 205,
       "2023-07-04": 1026,
       "2023-07-03": 1118,
       "2023-07-02": 1212,
@@ -389,7 +389,7 @@
       "2023-06-29": 1240,
       "2023-06-28": 1032,
       "2023-06-27": 1191,
-      "2023-06-26": 398
+      "2023-06-26": 253
     }
   },
   {
@@ -402,14 +402,14 @@
     "uptimeDay": "5.92%",
     "uptimeWeek": "6.48%",
     "uptimeMonth": "5.92%",
-    "uptimeYear": "90.95%",
+    "uptimeYear": "90.94%",
     "time": 6871,
     "timeDay": 16563,
     "timeWeek": 18088,
     "timeMonth": 17704,
     "timeYear": 7805,
     "dailyMinutesDown": {
-      "2023-07-05": 371,
+      "2023-07-05": 389,
       "2023-07-04": 1369,
       "2023-07-03": 1363,
       "2023-07-02": 1279,
@@ -1323,7 +1323,7 @@
     "slug": "mullvad-vpn",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "76.83%",
+    "uptimeDay": "78.12%",
     "uptimeWeek": "78.13%",
     "uptimeMonth": "94.97%",
     "uptimeYear": "97.67%",
@@ -1479,7 +1479,7 @@
     "uptime": "98.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.49%",
+    "uptimeMonth": "64.48%",
     "uptimeYear": "97.04%",
     "time": 718,
     "timeDay": 938,
@@ -1487,12 +1487,12 @@
     "timeMonth": 726,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-07-05": 788,
+      "2023-07-05": 811,
       "2023-07-04": 3114,
       "2023-07-03": 4123,
       "2023-07-02": 2833,
       "2023-07-01": 2386,
-      "2023-06-30": 2311
+      "2023-06-30": 2293
     }
   },
   {
