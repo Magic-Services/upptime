@@ -368,11 +368,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "26.25%",
-    "uptimeWeek": "26.52%",
-    "uptimeMonth": "80.41%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "26.94%",
+    "uptimeWeek": "26.61%",
+    "uptimeMonth": "80.49%",
     "uptimeYear": "98.37%",
     "time": 957,
     "timeDay": 652,
@@ -380,7 +380,7 @@
     "timeMonth": 823,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2023-07-06": 920,
+      "2023-07-06": 922,
       "2023-07-05": 893,
       "2023-07-04": 1026,
       "2023-07-03": 1118,
@@ -388,7 +388,7 @@
       "2023-07-01": 1074,
       "2023-06-30": 1033,
       "2023-06-29": 1240,
-      "2023-06-28": 68
+      "2023-06-28": 29
     }
   },
   {
@@ -397,18 +397,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "93.69%",
+    "uptime": "93.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.70%",
+    "uptimeWeek": "5.59%",
     "uptimeMonth": "5.96%",
     "uptimeYear": "90.52%",
     "time": 6913,
     "timeDay": 21598,
-    "timeWeek": 18533,
+    "timeWeek": 18499,
     "timeMonth": 17719,
     "timeYear": 7841,
     "dailyMinutesDown": {
-      "2023-07-06": 1285,
+      "2023-07-06": 1297,
       "2023-07-05": 1409,
       "2023-07-04": 1369,
       "2023-07-03": 1363,
@@ -1481,7 +1481,7 @@
     "uptime": "98.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.05%",
+    "uptimeMonth": "65.09%",
     "uptimeYear": "97.09%",
     "time": 718,
     "timeDay": 937,
@@ -1489,12 +1489,12 @@
     "timeMonth": 734,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-07-06": 2397,
+      "2023-07-06": 2412,
       "2023-07-05": 2555,
       "2023-07-04": 3114,
       "2023-07-03": 4123,
       "2023-07-02": 2759,
-      "2023-07-01": 368
+      "2023-07-01": 334
     }
   },
   {
