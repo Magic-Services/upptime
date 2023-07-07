@@ -370,9 +370,9 @@
     "slug": "nitter-nitter-net",
     "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "35.34%",
+    "uptimeDay": "35.32%",
     "uptimeWeek": "28.27%",
-    "uptimeMonth": "80.95%",
+    "uptimeMonth": "80.92%",
     "uptimeYear": "98.41%",
     "time": 957,
     "timeDay": 675,
@@ -380,7 +380,7 @@
     "timeMonth": 815,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2023-07-07": 246,
+      "2023-07-07": 257,
       "2023-07-06": 1034,
       "2023-07-05": 893,
       "2023-07-04": 1026,
@@ -396,19 +396,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "95.54%",
-    "uptimeDay": "3.71%",
-    "uptimeWeek": "5.21%",
-    "uptimeMonth": "19.51%",
-    "uptimeYear": "93.29%",
-    "time": 7019,
-    "timeDay": 20365,
-    "timeWeek": 19361,
-    "timeMonth": 17776,
-    "timeYear": 7927,
+    "uptimeDay": "4.34%",
+    "uptimeWeek": "5.27%",
+    "uptimeMonth": "19.66%",
+    "uptimeYear": "93.30%",
+    "time": 7037,
+    "timeDay": 20823,
+    "timeWeek": 19328,
+    "timeMonth": 17805,
+    "timeYear": 7941,
     "dailyMinutesDown": {
-      "2023-07-07": 425,
+      "2023-07-07": 427,
       "2023-07-06": 1425,
       "2023-07-05": 1409,
       "2023-07-04": 1369,
@@ -434,7 +434,7 @@
       "2023-06-14": 1398,
       "2023-06-13": 1418,
       "2023-06-12": 1345,
-      "2023-06-11": 762
+      "2023-06-11": 693
     }
   },
   {
@@ -1471,7 +1471,7 @@
     "uptime": "98.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.02%",
+    "uptimeMonth": "66.04%",
     "uptimeYear": "97.17%",
     "time": 718,
     "timeDay": 0,
@@ -1479,12 +1479,12 @@
     "timeMonth": 728,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-07-07": 673,
+      "2023-07-07": 688,
       "2023-07-06": 2649,
       "2023-07-05": 2555,
       "2023-07-04": 3114,
       "2023-07-03": 4123,
-      "2023-07-02": 1773
+      "2023-07-02": 1752
     }
   },
   {
