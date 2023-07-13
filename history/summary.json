@@ -372,19 +372,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "71.36%",
-    "uptimeWeek": "34.39%",
-    "uptimeMonth": "83.42%",
-    "uptimeYear": "98.62%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "73.34%",
+    "uptimeWeek": "34.76%",
+    "uptimeMonth": "83.65%",
+    "uptimeYear": "98.64%",
     "time": 975,
     "timeDay": 1240,
     "timeWeek": 1193,
     "timeMonth": 919,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2023-07-13": 243,
+      "2023-07-13": 245,
       "2023-07-12": 430,
       "2023-07-11": 951,
       "2023-07-10": 1146,
@@ -392,7 +392,7 @@
       "2023-07-08": 1117,
       "2023-07-07": 921,
       "2023-07-06": 1034,
-      "2023-07-05": 298
+      "2023-07-05": 193
     }
   },
   {
@@ -401,18 +401,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "95.34%",
+    "uptime": "95.33%",
     "uptimeDay": "15.46%",
     "uptimeWeek": "4.63%",
-    "uptimeMonth": "15.04%",
-    "uptimeYear": "92.92%",
+    "uptimeMonth": "14.95%",
+    "uptimeYear": "92.91%",
     "time": 7468,
     "timeDay": 15748,
     "timeWeek": 17428,
     "timeMonth": 17663,
     "timeYear": 8302,
     "dailyMinutesDown": {
-      "2023-07-13": 282,
+      "2023-07-13": 322,
       "2023-07-12": 1383,
       "2023-07-11": 1440,
       "2023-07-10": 1380,
@@ -1482,7 +1482,7 @@
     "uptime": "98.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.63%",
+    "uptimeMonth": "69.60%",
     "uptimeYear": "97.47%",
     "time": 716,
     "timeDay": 523,
@@ -1490,13 +1490,13 @@
     "timeMonth": 717,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-07-13": 527,
+      "2023-07-13": 570,
       "2023-07-12": 1869,
       "2023-07-11": 2517,
       "2023-07-10": 2564,
       "2023-07-09": 2660,
       "2023-07-08": 2536,
-      "2023-07-07": 634
+      "2023-07-07": 599
     }
   },
   {
