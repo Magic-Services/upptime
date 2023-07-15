@@ -372,19 +372,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "29.05%",
-    "uptimeWeek": "32.43%",
-    "uptimeMonth": "83.02%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "29.67%",
+    "uptimeWeek": "32.52%",
+    "uptimeMonth": "83.10%",
     "uptimeYear": "98.59%",
     "time": 968,
     "timeDay": 579,
     "timeWeek": 1202,
-    "timeMonth": 902,
+    "timeMonth": 903,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2023-07-15": 301,
+      "2023-07-15": 303,
       "2023-07-14": 1096,
       "2023-07-13": 918,
       "2023-07-12": 430,
@@ -392,7 +392,7 @@
       "2023-07-10": 1146,
       "2023-07-09": 1125,
       "2023-07-08": 1117,
-      "2023-07-07": 354
+      "2023-07-07": 319
     }
   },
   {
@@ -404,7 +404,7 @@
     "uptime": "95.44%",
     "uptimeDay": "5.76%",
     "uptimeWeek": "5.31%",
-    "uptimeMonth": "16.52%",
+    "uptimeMonth": "16.49%",
     "uptimeYear": "93.04%",
     "time": 7599,
     "timeDay": 16644,
@@ -412,7 +412,7 @@
     "timeMonth": 17570,
     "timeYear": 8458,
     "dailyMinutesDown": {
-      "2023-07-15": 399,
+      "2023-07-15": 411,
       "2023-07-14": 1275,
       "2023-07-13": 1231,
       "2023-07-12": 1383,
@@ -995,7 +995,7 @@
     "time": 1305,
     "timeDay": 914,
     "timeWeek": 1023,
-    "timeMonth": 1367,
+    "timeMonth": 1364,
     "timeYear": 1305,
     "dailyMinutesDown": {
       "2023-07-15": 100,
@@ -1481,24 +1481,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.06%",
-    "uptimeYear": "97.59%",
+    "uptimeMonth": "71.25%",
+    "uptimeYear": "97.60%",
     "time": 716,
     "timeDay": 545,
     "timeWeek": 632,
     "timeMonth": 714,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-07-15": 802,
+      "2023-07-15": 819,
       "2023-07-14": 2390,
       "2023-07-13": 2165,
       "2023-07-12": 1869,
       "2023-07-11": 2517,
       "2023-07-10": 2127,
-      "2023-07-09": 811
+      "2023-07-09": 712
     }
   },
   {
