@@ -374,19 +374,19 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "23.11%",
-    "uptimeWeek": "34.81%",
-    "uptimeMonth": "82.44%",
-    "uptimeYear": "98.54%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "23.78%",
+    "uptimeWeek": "34.90%",
+    "uptimeMonth": "82.55%",
+    "uptimeYear": "98.55%",
     "time": 981,
     "timeDay": 3166,
     "timeWeek": 1411,
     "timeMonth": 996,
     "timeYear": 977,
     "dailyMinutesDown": {
-      "2023-07-17": 692,
+      "2023-07-17": 694,
       "2023-07-16": 978,
       "2023-07-15": 1125,
       "2023-07-14": 1096,
@@ -394,7 +394,7 @@
       "2023-07-12": 430,
       "2023-07-11": 951,
       "2023-07-10": 1146,
-      "2023-07-09": 363
+      "2023-07-09": 310
     }
   },
   {
@@ -406,7 +406,7 @@
     "uptime": "95.24%",
     "uptimeDay": "3.27%",
     "uptimeWeek": "5.68%",
-    "uptimeMonth": "12.63%",
+    "uptimeMonth": "12.61%",
     "uptimeYear": "92.72%",
     "time": 7743,
     "timeDay": 14005,
@@ -414,7 +414,7 @@
     "timeMonth": 17514,
     "timeYear": 8650,
     "dailyMinutesDown": {
-      "2023-07-17": 916,
+      "2023-07-17": 928,
       "2023-07-16": 1387,
       "2023-07-15": 1395,
       "2023-07-14": 1275,
@@ -1484,24 +1484,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.75%",
-    "uptimeYear": "97.48%",
+    "uptimeMonth": "69.94%",
+    "uptimeYear": "97.49%",
     "time": 716,
     "timeDay": 850,
     "timeWeek": 693,
     "timeMonth": 717,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-07-17": 1610,
+      "2023-07-17": 1626,
       "2023-07-16": 2365,
       "2023-07-15": 2888,
       "2023-07-14": 2390,
       "2023-07-13": 2165,
       "2023-07-12": 1566,
-      "2023-07-11": 272
+      "2023-07-11": 172
     }
   },
   {
