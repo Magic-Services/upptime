@@ -376,11 +376,11 @@
     "url": "https://nitter.net",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "23.15%",
-    "uptimeWeek": "26.95%",
-    "uptimeMonth": "82.06%",
+    "uptimeDay": "23.78%",
+    "uptimeWeek": "27.03%",
+    "uptimeMonth": "82.15%",
     "uptimeYear": "98.51%",
     "time": 987,
     "timeDay": 1427,
@@ -388,7 +388,7 @@
     "timeMonth": 1077,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2023-07-20": 506,
+      "2023-07-20": 508,
       "2023-07-19": 1181,
       "2023-07-18": 879,
       "2023-07-17": 1007,
@@ -396,7 +396,7 @@
       "2023-07-15": 1125,
       "2023-07-14": 1096,
       "2023-07-13": 918,
-      "2023-07-12": 169
+      "2023-07-12": 127
     }
   },
   {
@@ -408,15 +408,15 @@
     "uptime": "95.60%",
     "uptimeDay": "8.70%",
     "uptimeWeek": "6.26%",
-    "uptimeMonth": "18.83%",
-    "uptimeYear": "93.24%",
+    "uptimeMonth": "18.80%",
+    "uptimeYear": "93.23%",
     "time": 8311,
     "timeDay": 19419,
     "timeWeek": 17359,
     "timeMonth": 17661,
     "timeYear": 9088,
     "dailyMinutesDown": {
-      "2023-07-20": 593,
+      "2023-07-20": 605,
       "2023-07-19": 1392,
       "2023-07-18": 1254,
       "2023-07-17": 1412,
@@ -1334,7 +1334,7 @@
     "time": 950,
     "timeDay": 659,
     "timeWeek": 887,
-    "timeMonth": 849,
+    "timeMonth": 852,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2023-07-04": 719,
@@ -1480,23 +1480,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.25%",
-    "uptimeYear": "97.60%",
+    "uptimeMonth": "71.49%",
+    "uptimeYear": "97.62%",
     "time": 717,
     "timeDay": 0,
     "timeWeek": 752,
     "timeMonth": 721,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-07-20": 1101,
+      "2023-07-20": 1118,
       "2023-07-19": 2573,
       "2023-07-18": 2351,
       "2023-07-17": 2419,
       "2023-07-16": 2365,
-      "2023-07-15": 1782
+      "2023-07-15": 1661
     }
   },
   {
