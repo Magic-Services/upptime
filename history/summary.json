@@ -377,18 +377,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "18.32%",
-    "uptimeWeek": "28.83%",
-    "uptimeMonth": "82.45%",
-    "uptimeYear": "98.54%",
+    "uptime": "99.04%",
+    "uptimeDay": "17.97%",
+    "uptimeWeek": "28.75%",
+    "uptimeMonth": "82.23%",
+    "uptimeYear": "98.52%",
     "time": 987,
     "timeDay": 1661,
     "timeWeek": 1335,
     "timeMonth": 1067,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2023-07-19": 1146,
+      "2023-07-20": 64,
+      "2023-07-19": 1181,
       "2023-07-18": 879,
       "2023-07-17": 1007,
       "2023-07-16": 978,
@@ -405,18 +406,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "95.45%",
+    "uptime": "95.44%",
     "uptimeDay": "3.32%",
     "uptimeWeek": "7.28%",
-    "uptimeMonth": "16.14%",
-    "uptimeYear": "93.01%",
+    "uptimeMonth": "15.91%",
+    "uptimeYear": "92.99%",
     "time": 8134,
     "timeDay": 17601,
     "timeWeek": 16870,
     "timeMonth": 17555,
     "timeYear": 8962,
     "dailyMinutesDown": {
-      "2023-07-19": 1357,
+      "2023-07-20": 65,
+      "2023-07-19": 1392,
       "2023-07-18": 1254,
       "2023-07-17": 1412,
       "2023-07-16": 1387,
@@ -524,8 +526,7 @@
     "dailyMinutesDown": {
       "2023-01-25": 32,
       "2022-12-19": 369,
-      "2022-07-21": 35,
-      "2022-07-20": 25
+      "2022-07-21": 35
     }
   },
   {
@@ -1482,18 +1483,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.81%",
-    "uptimeYear": "97.48%",
+    "uptimeMonth": "69.36%",
+    "uptimeYear": "97.45%",
     "time": 717,
     "timeDay": 0,
     "timeWeek": 752,
     "timeMonth": 721,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-07-19": 2507,
+      "2023-07-20": 134,
+      "2023-07-19": 2573,
       "2023-07-18": 2351,
       "2023-07-17": 2419,
       "2023-07-16": 2365,
@@ -1696,8 +1698,7 @@
       "2023-05-12": 21,
       "2023-04-09": 25,
       "2023-03-09": 22,
-      "2022-12-06": 26,
-      "2022-07-20": 21
+      "2022-12-06": 26
     }
   }
 ]
