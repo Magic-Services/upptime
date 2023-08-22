@@ -390,7 +390,7 @@
     "timeMonth": 392,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2023-08-22": 1051,
+      "2023-08-22": 1063,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
@@ -437,19 +437,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "13.77%",
-    "uptimeWeek": "13.99%",
-    "uptimeMonth": "68.06%",
-    "uptimeYear": "97.34%",
-    "time": 11208,
-    "timeDay": 19196,
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "13.62%",
+    "uptimeWeek": "13.97%",
+    "uptimeMonth": "68.50%",
+    "uptimeYear": "97.37%",
+    "time": 11214,
+    "timeDay": 19178,
     "timeWeek": 17862,
     "timeMonth": 16435,
     "timeYear": 12137,
     "dailyMinutesDown": {
-      "2023-08-22": 879,
+      "2023-08-22": 881,
       "2023-08-21": 1297,
       "2023-08-20": 1219,
       "2023-08-19": 1284,
@@ -460,7 +460,7 @@
       "2023-08-14": 1248,
       "2023-08-13": 1389,
       "2023-08-12": 1298,
-      "2023-08-11": 388
+      "2023-08-11": 195
     }
   },
   {
@@ -1494,18 +1494,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "10.78%",
-    "uptimeWeek": "4.59%",
-    "uptimeMonth": "68.76%",
-    "uptimeYear": "97.40%",
+    "uptime": "98.43%",
+    "uptimeDay": "10.47%",
+    "uptimeWeek": "4.54%",
+    "uptimeMonth": "69.23%",
+    "uptimeYear": "97.44%",
     "time": 711,
     "timeDay": 537,
     "timeWeek": 698,
     "timeMonth": 679,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-08-22": 905,
+      "2023-08-22": 909,
       "2023-08-21": 1314,
       "2023-08-20": 1219,
       "2023-08-19": 1416,
@@ -1515,7 +1515,7 @@
       "2023-08-15": 1574,
       "2023-08-14": 1269,
       "2023-08-13": 1389,
-      "2023-08-12": 413
+      "2023-08-12": 205
     }
   },
   {
