@@ -390,7 +390,7 @@
     "timeMonth": 392,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2023-08-27": 271,
+      "2023-08-27": 292,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -442,19 +442,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "16.07%",
-    "uptimeWeek": "10.53%",
-    "uptimeMonth": "66.55%",
-    "uptimeYear": "97.21%",
-    "time": 11857,
+    "status": "down",
+    "uptime": "98.31%",
+    "uptimeDay": "17.42%",
+    "uptimeWeek": "10.73%",
+    "uptimeMonth": "66.80%",
+    "uptimeYear": "97.23%",
+    "time": 11863,
     "timeDay": 16747,
     "timeWeek": 18359,
     "timeMonth": 16532,
     "timeYear": 12423,
     "dailyMinutesDown": {
-      "2023-08-27": 144,
+      "2023-08-27": 145,
       "2023-08-26": 1337,
       "2023-08-25": 1253,
       "2023-08-24": 1389,
@@ -466,7 +466,7 @@
       "2023-08-18": 1301,
       "2023-08-17": 1028,
       "2023-08-16": 1336,
-      "2023-08-15": 428
+      "2023-08-15": 320
     }
   },
   {
@@ -1500,9 +1500,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "16.22%",
-    "uptimeWeek": "8.19%",
-    "uptimeMonth": "70.03%",
+    "uptimeDay": "17.42%",
+    "uptimeWeek": "8.36%",
+    "uptimeMonth": "70.06%",
     "uptimeYear": "97.50%",
     "time": 709,
     "timeDay": 533,
@@ -1510,7 +1510,7 @@
     "timeMonth": 689,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-08-27": 144,
+      "2023-08-27": 147,
       "2023-08-26": 1337,
       "2023-08-25": 1392,
       "2023-08-24": 1445,
@@ -1520,7 +1520,7 @@
       "2023-08-20": 1219,
       "2023-08-19": 1416,
       "2023-08-18": 1301,
-      "2023-08-17": 901
+      "2023-08-17": 884
     }
   },
   {
