@@ -39,8 +39,7 @@
       "2022-09-21": 41,
       "2022-09-20": 41,
       "2022-09-06": 80,
-      "2022-09-05": 15,
-      "2022-08-28": 86
+      "2022-09-05": 15
     }
   },
   {
@@ -231,8 +230,7 @@
       "2022-11-10": 41,
       "2022-10-18": 34,
       "2022-09-21": 40,
-      "2022-09-06": 56,
-      "2022-08-28": 74
+      "2022-09-06": 56
     }
   },
   {
@@ -379,18 +377,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "93.00%",
+    "uptime": "92.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.48%",
+    "uptimeYear": "88.47%",
     "time": 1024,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 392,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2023-08-27": 1410,
+      "2023-08-28": 50,
+      "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -443,18 +442,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
     "status": "down",
-    "uptime": "98.34%",
-    "uptimeDay": "18.22%",
-    "uptimeWeek": "9.89%",
-    "uptimeMonth": "67.28%",
-    "uptimeYear": "97.27%",
+    "uptime": "98.33%",
+    "uptimeDay": "13.95%",
+    "uptimeWeek": "9.77%",
+    "uptimeMonth": "67.10%",
+    "uptimeYear": "97.26%",
     "time": 11423,
-    "timeDay": 18989,
-    "timeWeek": 18959,
+    "timeDay": 18972,
+    "timeWeek": 18954,
     "timeMonth": 16520,
     "timeYear": 12499,
     "dailyMinutesDown": {
-      "2023-08-27": 1162,
+      "2023-08-28": 51,
+      "2023-08-27": 1191,
       "2023-08-26": 1337,
       "2023-08-25": 1253,
       "2023-08-24": 1389,
@@ -1500,17 +1500,18 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "17.04%",
-    "uptimeWeek": "7.35%",
-    "uptimeMonth": "69.51%",
-    "uptimeYear": "97.46%",
+    "uptimeDay": "12.67%",
+    "uptimeWeek": "7.24%",
+    "uptimeMonth": "69.33%",
+    "uptimeYear": "97.44%",
     "time": 710,
     "timeDay": 932,
     "timeWeek": 716,
     "timeMonth": 701,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-08-27": 1180,
+      "2023-08-28": 52,
+      "2023-08-27": 1208,
       "2023-08-26": 1337,
       "2023-08-25": 1392,
       "2023-08-24": 1445,
@@ -1618,8 +1619,7 @@
       "2022-09-16": 90,
       "2022-09-13": 30,
       "2022-09-07": 36,
-      "2022-08-31": 45,
-      "2022-08-28": 19
+      "2022-08-31": 45
     }
   },
   {
