@@ -1,7 +1,7 @@
 url: https://crowdin.com
-status: down
-code: 429
-responseTime: 2700
-lastUpdated: 2023-08-28T21:55:52.560Z
+status: up
+code: 200
+responseTime: 109
+lastUpdated: 2023-08-28T22:11:35.535Z
 startTime: 2022-01-04T17:31:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
