@@ -391,7 +391,7 @@
     "timeMonth": 392,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2023-09-01": 1003,
+      "2023-09-01": 1013,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -448,19 +448,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "28.04%",
-    "uptimeWeek": "14.88%",
-    "uptimeMonth": "68.38%",
+    "uptimeDay": "28.62%",
+    "uptimeWeek": "14.96%",
+    "uptimeMonth": "68.46%",
     "uptimeYear": "97.37%",
     "time": 12159,
-    "timeDay": 3684,
-    "timeWeek": 14314,
-    "timeMonth": 16420,
-    "timeYear": 12751,
+    "timeDay": 3579,
+    "timeWeek": 14216,
+    "timeMonth": 16390,
+    "timeYear": 12744,
     "dailyMinutesDown": {
-      "2023-09-01": 625,
+      "2023-09-01": 627,
       "2023-08-31": 1304,
       "2023-08-30": 1125,
       "2023-08-29": 1216,
@@ -471,7 +471,7 @@
       "2023-08-24": 1389,
       "2023-08-23": 1383,
       "2023-08-22": 1246,
-      "2023-08-21": 397
+      "2023-08-21": 362
     }
   },
   {
@@ -1511,18 +1511,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "26.35%",
-    "uptimeWeek": "9.68%",
-    "uptimeMonth": "75.13%",
-    "uptimeYear": "97.93%",
+    "uptime": "98.81%",
+    "uptimeDay": "26.77%",
+    "uptimeWeek": "9.74%",
+    "uptimeMonth": "76.31%",
+    "uptimeYear": "98.03%",
     "time": 710,
     "timeDay": 925,
     "timeWeek": 705,
     "timeMonth": 689,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-09-01": 652,
+      "2023-09-01": 657,
       "2023-08-31": 1304,
       "2023-08-30": 1247,
       "2023-08-29": 1368,
@@ -1530,7 +1530,7 @@
       "2023-08-27": 1208,
       "2023-08-26": 1337,
       "2023-08-25": 1392,
-      "2023-08-24": 795
+      "2023-08-24": 273
     }
   },
   {
