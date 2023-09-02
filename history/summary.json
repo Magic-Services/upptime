@@ -391,7 +391,7 @@
     "timeMonth": 0,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2023-09-02": 1334,
+      "2023-09-02": 1348,
       "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
@@ -449,19 +449,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "16.28%",
-    "uptimeWeek": "16.32%",
-    "uptimeMonth": "68.14%",
-    "uptimeYear": "97.34%",
-    "time": 12308,
-    "timeDay": 17317,
-    "timeWeek": 13841,
-    "timeMonth": 16808,
-    "timeYear": 12775,
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "17.12%",
+    "uptimeWeek": "16.44%",
+    "uptimeMonth": "69.20%",
+    "uptimeYear": "97.43%",
+    "time": 12318,
+    "timeDay": 18066,
+    "timeWeek": 13945,
+    "timeMonth": 16819,
+    "timeYear": 12785,
     "dailyMinutesDown": {
-      "2023-09-02": 1128,
+      "2023-09-02": 1130,
       "2023-09-01": 994,
       "2023-08-31": 1304,
       "2023-08-30": 1125,
@@ -471,8 +471,7 @@
       "2023-08-26": 1337,
       "2023-08-25": 1253,
       "2023-08-24": 1389,
-      "2023-08-23": 1383,
-      "2023-08-22": 255
+      "2023-08-23": 1173
     }
   },
   {
@@ -1515,17 +1514,17 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "10.38%",
-    "uptimeWeek": "10.26%",
-    "uptimeMonth": "75.82%",
-    "uptimeYear": "97.98%",
+    "uptimeDay": "11.08%",
+    "uptimeWeek": "10.36%",
+    "uptimeMonth": "75.89%",
+    "uptimeYear": "97.99%",
     "time": 710,
     "timeDay": 946,
     "timeWeek": 735,
     "timeMonth": 696,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-09-02": 1205,
+      "2023-09-02": 1208,
       "2023-09-01": 1031,
       "2023-08-31": 1304,
       "2023-08-30": 1247,
@@ -1533,7 +1532,7 @@
       "2023-08-28": 1591,
       "2023-08-27": 1208,
       "2023-08-26": 1337,
-      "2023-08-25": 302
+      "2023-08-25": 267
     }
   },
   {
