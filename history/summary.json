@@ -12,7 +12,7 @@
     "uptimeYear": "99.77%",
     "time": 1290,
     "timeDay": 704,
-    "timeWeek": 848,
+    "timeWeek": 843,
     "timeMonth": 846,
     "timeYear": 1358,
     "dailyMinutesDown": {
@@ -383,14 +383,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.09%",
+    "uptimeYear": "86.08%",
     "time": 1025,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2023-09-05": 1057,
+      "2023-09-05": 1069,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -451,19 +451,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "8.20%",
-    "uptimeWeek": "15.04%",
-    "uptimeMonth": "71.31%",
-    "uptimeYear": "97.61%",
-    "time": 12178,
-    "timeDay": 19793,
-    "timeWeek": 14302,
-    "timeMonth": 16893,
-    "timeYear": 12993,
+    "uptimeDay": "8.88%",
+    "uptimeWeek": "15.14%",
+    "uptimeMonth": "71.42%",
+    "uptimeYear": "97.62%",
+    "time": 12193,
+    "timeDay": 20390,
+    "timeWeek": 14409,
+    "timeMonth": 16916,
+    "timeYear": 13002,
     "dailyMinutesDown": {
-      "2023-09-05": 973,
+      "2023-09-05": 975,
       "2023-09-04": 1351,
       "2023-09-03": 1294,
       "2023-09-02": 1210,
@@ -473,7 +473,7 @@
       "2023-08-29": 1216,
       "2023-08-28": 1384,
       "2023-08-27": 1191,
-      "2023-08-26": 526
+      "2023-08-26": 477
     }
   },
   {
@@ -1134,7 +1134,7 @@
     "uptimeYear": "99.97%",
     "time": 1164,
     "timeDay": 1040,
-    "timeWeek": 1178,
+    "timeWeek": 1175,
     "timeMonth": 1121,
     "timeYear": 1164,
     "dailyMinutesDown": {
@@ -1516,9 +1516,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "4.93%",
-    "uptimeWeek": "11.43%",
-    "uptimeMonth": "74.17%",
+    "uptimeDay": "5.49%",
+    "uptimeWeek": "11.51%",
+    "uptimeMonth": "74.26%",
     "uptimeYear": "97.85%",
     "time": 709,
     "timeDay": 578,
@@ -1526,7 +1526,7 @@
     "timeMonth": 699,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-09-05": 990,
+      "2023-09-05": 995,
       "2023-09-04": 1383,
       "2023-09-03": 1338,
       "2023-09-02": 1287,
@@ -1534,7 +1534,7 @@
       "2023-08-31": 1304,
       "2023-08-30": 1247,
       "2023-08-29": 1368,
-      "2023-08-28": 1364
+      "2023-08-28": 1321
     }
   },
   {
