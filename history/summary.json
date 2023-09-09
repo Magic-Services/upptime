@@ -14,7 +14,7 @@
     "timeDay": 1056,
     "timeWeek": 790,
     "timeMonth": 839,
-    "timeYear": 1331,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2023-07-21": 17,
       "2023-04-23": 214,
@@ -55,7 +55,7 @@
     "timeDay": 883,
     "timeWeek": 3714,
     "timeMonth": 4124,
-    "timeYear": 3835,
+    "timeYear": 3841,
     "dailyMinutesDown": {
       "2023-09-07": 50,
       "2023-09-06": 22,
@@ -131,7 +131,7 @@
     "timeDay": 657,
     "timeWeek": 1029,
     "timeMonth": 974,
-    "timeYear": 970,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2023-07-11": 20
     }
@@ -169,7 +169,7 @@
     "timeDay": 387,
     "timeWeek": 161,
     "timeMonth": 118,
-    "timeYear": 151,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2023-01-30": 21,
       "2022-09-27": 33
@@ -190,7 +190,7 @@
     "timeDay": 397,
     "timeWeek": 293,
     "timeMonth": 284,
-    "timeYear": 366,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2023-07-07": 101,
       "2023-05-27": 21,
@@ -292,7 +292,7 @@
     "timeDay": 318,
     "timeWeek": 365,
     "timeMonth": 421,
-    "timeYear": 1024,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2023-07-12": 30,
       "2023-05-01": 53,
@@ -378,7 +378,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "91.03%",
+    "uptime": "91.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -389,7 +389,7 @@
     "timeMonth": 0,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-09-09": 1397,
+      "2023-09-09": 1409,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
@@ -454,19 +454,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "11.48%",
-    "uptimeWeek": "10.14%",
-    "uptimeMonth": "69.84%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "12.17%",
+    "uptimeWeek": "10.24%",
+    "uptimeMonth": "69.89%",
     "uptimeYear": "97.49%",
-    "time": 12784,
-    "timeDay": 20384,
-    "timeWeek": 18342,
-    "timeMonth": 16928,
-    "timeYear": 13250,
+    "time": 12795,
+    "timeDay": 20420,
+    "timeWeek": 18367,
+    "timeMonth": 16936,
+    "timeYear": 13261,
     "dailyMinutesDown": {
-      "2023-09-09": 1233,
+      "2023-09-09": 1234,
       "2023-09-08": 1337,
       "2023-09-07": 1259,
       "2023-09-06": 1230,
@@ -476,7 +476,7 @@
       "2023-09-02": 1210,
       "2023-09-01": 994,
       "2023-08-31": 1304,
-      "2023-08-30": 679
+      "2023-08-30": 653
     }
   },
   {
@@ -494,7 +494,7 @@
     "timeDay": 1393,
     "timeWeek": 1150,
     "timeMonth": 2103,
-    "timeYear": 2040,
+    "timeYear": 2043,
     "dailyMinutesDown": {
       "2023-06-16": 22,
       "2023-06-06": 16,
@@ -520,7 +520,7 @@
     "timeDay": 401,
     "timeWeek": 239,
     "timeMonth": 180,
-    "timeYear": 237,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-04-22": 532,
       "2022-12-09": 128,
@@ -624,7 +624,7 @@
     "timeDay": 819,
     "timeWeek": 733,
     "timeMonth": 821,
-    "timeYear": 824,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2023-05-05": 600,
       "2023-04-27": 1226,
@@ -1519,18 +1519,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "6.30%",
-    "uptimeMonth": "72.27%",
-    "uptimeYear": "97.69%",
+    "uptime": "98.65%",
+    "uptimeDay": "2.24%",
+    "uptimeWeek": "6.38%",
+    "uptimeMonth": "72.76%",
+    "uptimeYear": "97.73%",
     "time": 708,
     "timeDay": 873,
     "timeWeek": 651,
     "timeMonth": 691,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-09-09": 1375,
+      "2023-09-09": 1378,
       "2023-09-08": 1337,
       "2023-09-07": 1372,
       "2023-09-06": 1270,
@@ -1539,7 +1539,7 @@
       "2023-09-03": 1338,
       "2023-09-02": 1287,
       "2023-09-01": 1031,
-      "2023-08-31": 412
+      "2023-08-31": 195
     }
   },
   {
