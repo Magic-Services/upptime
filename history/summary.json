@@ -379,7 +379,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "90.83%",
+    "uptime": "90.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -390,7 +390,7 @@
     "timeMonth": 0,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-09-11": 460,
+      "2023-09-11": 471,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
@@ -457,19 +457,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "8.50%",
-    "uptimeWeek": "10.66%",
-    "uptimeMonth": "68.67%",
-    "uptimeYear": "97.39%",
-    "time": 12507,
+    "status": "down",
+    "uptime": "98.48%",
+    "uptimeDay": "9.14%",
+    "uptimeWeek": "10.75%",
+    "uptimeMonth": "69.28%",
+    "uptimeYear": "97.44%",
+    "time": 12513,
     "timeDay": 16134,
     "timeWeek": 17758,
     "timeMonth": 16952,
     "timeYear": 13324,
     "dailyMinutesDown": {
-      "2023-09-11": 395,
+      "2023-09-11": 397,
       "2023-09-10": 1273,
       "2023-09-09": 1265,
       "2023-09-08": 1337,
@@ -480,7 +480,7 @@
       "2023-09-03": 1294,
       "2023-09-02": 1210,
       "2023-09-01": 994,
-      "2023-08-31": 791
+      "2023-08-31": 523
     }
   },
   {
@@ -1525,18 +1525,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.20%",
-    "uptimeMonth": "72.18%",
-    "uptimeYear": "97.68%",
+    "uptimeWeek": "3.27%",
+    "uptimeMonth": "72.52%",
+    "uptimeYear": "97.71%",
     "time": 709,
     "timeDay": 978,
     "timeWeek": 682,
     "timeMonth": 705,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-09-11": 474,
+      "2023-09-11": 477,
       "2023-09-10": 1604,
       "2023-09-09": 1407,
       "2023-09-08": 1337,
@@ -1545,7 +1545,7 @@
       "2023-09-05": 1337,
       "2023-09-04": 1383,
       "2023-09-03": 1338,
-      "2023-09-02": 662
+      "2023-09-02": 508
     }
   },
   {
