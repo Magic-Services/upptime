@@ -1,7 +1,7 @@
 url: https://matrix.org
-status: up
-code: 200
-responseTime: 358
-lastUpdated: 2023-09-11T23:13:10.558Z
+status: down
+code: 503
+responseTime: 77
+lastUpdated: 2023-09-12T13:36:03.487Z
 startTime: 2022-01-04T17:31:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
