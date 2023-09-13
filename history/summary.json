@@ -392,7 +392,7 @@
     "timeMonth": 0,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-09-13": 1221,
+      "2023-09-13": 1234,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -461,19 +461,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "8.36%",
-    "uptimeWeek": "10.57%",
-    "uptimeMonth": "66.42%",
-    "uptimeYear": "97.20%",
-    "time": 12847,
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "9.08%",
+    "uptimeWeek": "10.67%",
+    "uptimeMonth": "66.49%",
+    "uptimeYear": "97.21%",
+    "time": 12853,
     "timeDay": 16545,
     "timeWeek": 17618,
     "timeMonth": 16961,
     "timeYear": 13467,
     "dailyMinutesDown": {
-      "2023-09-13": 1153,
+      "2023-09-13": 1156,
       "2023-09-12": 1281,
       "2023-09-11": 1250,
       "2023-09-10": 1273,
@@ -484,7 +484,7 @@
       "2023-09-05": 1320,
       "2023-09-04": 1351,
       "2023-09-03": 1294,
-      "2023-09-02": 694
+      "2023-09-02": 662
     }
   },
   {
@@ -1527,18 +1527,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "8.48%",
+    "uptime": "98.58%",
+    "uptimeDay": "9.08%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.50%",
-    "uptimeYear": "97.54%",
+    "uptimeMonth": "71.28%",
+    "uptimeYear": "97.61%",
     "time": 709,
     "timeDay": 557,
     "timeWeek": 704,
     "timeMonth": 699,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-09-13": 1153,
+      "2023-09-13": 1158,
       "2023-09-12": 1951,
       "2023-09-11": 1353,
       "2023-09-10": 1604,
@@ -1546,8 +1546,7 @@
       "2023-09-08": 1337,
       "2023-09-07": 1372,
       "2023-09-06": 1270,
-      "2023-09-05": 1337,
-      "2023-09-04": 137
+      "2023-09-05": 1124
     }
   },
   {
