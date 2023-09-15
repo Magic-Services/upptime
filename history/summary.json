@@ -393,7 +393,7 @@
     "timeMonth": 0,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2023-09-15": 440,
+      "2023-09-15": 461,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
@@ -464,19 +464,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "16.87%",
-    "uptimeWeek": "11.89%",
-    "uptimeMonth": "68.11%",
-    "uptimeYear": "97.34%",
-    "time": 13070,
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "18.27%",
+    "uptimeWeek": "12.09%",
+    "uptimeMonth": "68.52%",
+    "uptimeYear": "97.38%",
+    "time": 13076,
     "timeDay": 17099,
     "timeWeek": 17800,
     "timeMonth": 16946,
     "timeYear": 13565,
     "dailyMinutesDown": {
-      "2023-09-15": 355,
+      "2023-09-15": 356,
       "2023-09-14": 1183,
       "2023-09-13": 1340,
       "2023-09-12": 1281,
@@ -487,7 +487,7 @@
       "2023-09-07": 1259,
       "2023-09-06": 1230,
       "2023-09-05": 1320,
-      "2023-09-04": 873
+      "2023-09-04": 695
     }
   },
   {
@@ -1013,18 +1013,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hosted.weblate.org.ico",
     "slug": "webblate-hosted-weblate-org",
     "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "94.15%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "98.62%",
+    "uptime": "98.61%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "96.89%",
+    "uptimeYear": "98.61%",
     "time": 1524,
     "timeDay": 775,
     "timeWeek": 1117,
     "timeMonth": 1790,
     "timeYear": 1524,
     "dailyMinutesDown": {
-      "2023-09-15": 2,
+      "2023-09-15": 24,
       "2023-09-14": 111,
       "2023-09-11": 79,
       "2023-09-10": 255,
@@ -1533,7 +1533,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "8.65%",
+    "uptimeDay": "8.45%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "73.61%",
     "uptimeYear": "97.80%",
@@ -1543,7 +1543,7 @@
     "timeMonth": 714,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-09-15": 358,
+      "2023-09-15": 382,
       "2023-09-14": 1342,
       "2023-09-13": 1358,
       "2023-09-12": 1951,
@@ -1551,7 +1551,7 @@
       "2023-09-10": 1604,
       "2023-09-09": 1407,
       "2023-09-08": 1337,
-      "2023-09-07": 846
+      "2023-09-07": 824
     }
   },
   {
