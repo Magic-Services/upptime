@@ -394,7 +394,7 @@
     "timeMonth": 0,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-09-17": 1124,
+      "2023-09-17": 1136,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
       "2023-09-14": 1440,
@@ -467,19 +467,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.43%",
-    "uptimeDay": "3.69%",
-    "uptimeWeek": "11.24%",
-    "uptimeMonth": "67.95%",
-    "uptimeYear": "97.33%",
-    "time": 12945,
-    "timeDay": 18545,
-    "timeWeek": 17937,
-    "timeMonth": 17035,
-    "timeYear": 13713,
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "4.40%",
+    "uptimeWeek": "11.34%",
+    "uptimeMonth": "68.39%",
+    "uptimeYear": "97.37%",
+    "time": 12956,
+    "timeDay": 19009,
+    "timeWeek": 17983,
+    "timeMonth": 17047,
+    "timeYear": 13718,
     "dailyMinutesDown": {
-      "2023-09-17": 1091,
+      "2023-09-17": 1093,
       "2023-09-16": 1307,
       "2023-09-15": 1202,
       "2023-09-14": 1183,
@@ -490,7 +490,7 @@
       "2023-09-09": 1265,
       "2023-09-08": 1337,
       "2023-09-07": 1259,
-      "2023-09-06": 247
+      "2023-09-06": 53
     }
   },
   {
@@ -1534,18 +1534,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "3.79%",
+    "uptime": "98.66%",
+    "uptimeDay": "4.40%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.24%",
-    "uptimeYear": "97.69%",
+    "uptimeMonth": "72.70%",
+    "uptimeYear": "97.72%",
     "time": 710,
     "timeDay": 633,
     "timeWeek": 733,
     "timeMonth": 698,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2023-09-17": 1091,
+      "2023-09-17": 1095,
       "2023-09-16": 1601,
       "2023-09-15": 1323,
       "2023-09-14": 1342,
@@ -1553,7 +1553,7 @@
       "2023-09-12": 1951,
       "2023-09-11": 1353,
       "2023-09-10": 1604,
-      "2023-09-09": 533
+      "2023-09-09": 329
     }
   },
   {
