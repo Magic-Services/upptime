@@ -53,7 +53,7 @@
     "uptimeYear": "99.31%",
     "time": 3222,
     "timeDay": 5692,
-    "timeWeek": 5697,
+    "timeWeek": 5558,
     "timeMonth": 4901,
     "timeYear": 3991,
     "dailyMinutesDown": {
@@ -393,7 +393,7 @@
     "timeMonth": 0,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-09-19": 581,
+      "2023-09-19": 593,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
@@ -468,19 +468,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "9.38%",
-    "uptimeWeek": "11.04%",
-    "uptimeMonth": "67.07%",
-    "uptimeYear": "97.26%",
-    "time": 13101,
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "10.00%",
+    "uptimeWeek": "11.13%",
+    "uptimeMonth": "67.56%",
+    "uptimeYear": "97.30%",
+    "time": 13107,
     "timeDay": 16337,
     "timeWeek": 17806,
     "timeMonth": 16951,
     "timeYear": 13764,
     "dailyMinutesDown": {
-      "2023-09-19": 527,
+      "2023-09-19": 529,
       "2023-09-18": 1275,
       "2023-09-17": 1361,
       "2023-09-16": 1307,
@@ -491,7 +491,7 @@
       "2023-09-11": 1250,
       "2023-09-10": 1273,
       "2023-09-09": 1265,
-      "2023-09-08": 1157
+      "2023-09-08": 940
     }
   },
   {
@@ -633,7 +633,7 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.03%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.49%",
     "time": 826,
@@ -1536,9 +1536,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "5.72%",
-    "uptimeWeek": "3.33%",
-    "uptimeMonth": "71.09%",
+    "uptimeDay": "6.20%",
+    "uptimeWeek": "3.52%",
+    "uptimeMonth": "71.14%",
     "uptimeYear": "97.59%",
     "time": 710,
     "timeDay": 930,
@@ -1546,7 +1546,7 @@
     "timeMonth": 700,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-09-19": 551,
+      "2023-09-19": 556,
       "2023-09-18": 1326,
       "2023-09-17": 1361,
       "2023-09-16": 1601,
@@ -1555,7 +1555,7 @@
       "2023-09-13": 1358,
       "2023-09-12": 1951,
       "2023-09-11": 1353,
-      "2023-09-10": 497
+      "2023-09-10": 471
     }
   },
   {
