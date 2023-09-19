@@ -393,7 +393,7 @@
     "timeMonth": 0,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-09-19": 201,
+      "2023-09-19": 213,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
@@ -468,19 +468,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "7.74%",
-    "uptimeWeek": "10.98%",
-    "uptimeMonth": "66.50%",
-    "uptimeYear": "97.21%",
-    "time": 13086,
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "8.44%",
+    "uptimeWeek": "10.96%",
+    "uptimeMonth": "67.06%",
+    "uptimeYear": "97.25%",
+    "time": 13092,
     "timeDay": 17011,
     "timeWeek": 17979,
-    "timeMonth": 17034,
+    "timeMonth": 17017,
     "timeYear": 13762,
     "dailyMinutesDown": {
-      "2023-09-19": 200,
+      "2023-09-19": 202,
       "2023-09-18": 1275,
       "2023-09-17": 1361,
       "2023-09-16": 1307,
@@ -492,7 +492,7 @@
       "2023-09-10": 1273,
       "2023-09-09": 1265,
       "2023-09-08": 1337,
-      "2023-09-07": 399
+      "2023-09-07": 150
     }
   },
   {
@@ -633,7 +633,7 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.26%",
+    "uptimeWeek": "95.38%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.49%",
     "time": 826,
@@ -1024,7 +1024,7 @@
     "time": 1498,
     "timeDay": 748,
     "timeWeek": 895,
-    "timeMonth": 1700,
+    "timeMonth": 1659,
     "timeYear": 1498,
     "dailyMinutesDown": {
       "2023-09-18": 15,
@@ -1535,18 +1535,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "4.28%",
+    "uptime": "98.55%",
+    "uptimeDay": "4.87%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.13%",
-    "uptimeYear": "97.51%",
+    "uptimeMonth": "70.29%",
+    "uptimeYear": "97.52%",
     "time": 710,
     "timeDay": 930,
     "timeWeek": 703,
     "timeMonth": 700,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2023-09-19": 200,
+      "2023-09-19": 205,
       "2023-09-18": 1326,
       "2023-09-17": 1361,
       "2023-09-16": 1601,
@@ -1555,7 +1555,7 @@
       "2023-09-13": 1358,
       "2023-09-12": 1951,
       "2023-09-11": 1353,
-      "2023-09-10": 1267
+      "2023-09-10": 1194
     }
   },
   {
