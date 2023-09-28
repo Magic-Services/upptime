@@ -394,7 +394,7 @@
     "timeMonth": 894,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-09-28": 162,
+      "2023-09-28": 173,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
@@ -478,19 +478,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "9.49%",
-    "uptimeWeek": "13.67%",
-    "uptimeMonth": "64.59%",
-    "uptimeYear": "97.05%",
-    "time": 13661,
+    "status": "down",
+    "uptime": "98.30%",
+    "uptimeDay": "10.13%",
+    "uptimeWeek": "13.72%",
+    "uptimeMonth": "64.79%",
+    "uptimeYear": "97.07%",
+    "time": 13667,
     "timeDay": 18406,
-    "timeWeek": 18746,
+    "timeWeek": 18757,
     "timeMonth": 17034,
     "timeYear": 14171,
     "dailyMinutesDown": {
-      "2023-09-28": 160,
+      "2023-09-28": 162,
       "2023-09-27": 1304,
       "2023-09-26": 1340,
       "2023-09-25": 1195,
@@ -503,7 +503,7 @@
       "2023-09-18": 1275,
       "2023-09-17": 1361,
       "2023-09-16": 1307,
-      "2023-09-15": 220
+      "2023-09-15": 131
     }
   },
   {
@@ -1550,18 +1550,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "8.33%",
-    "uptimeWeek": "11.34%",
-    "uptimeMonth": "71.18%",
-    "uptimeYear": "97.60%",
+    "uptime": "98.62%",
+    "uptimeDay": "8.84%",
+    "uptimeWeek": "11.35%",
+    "uptimeMonth": "71.38%",
+    "uptimeYear": "97.62%",
     "time": 708,
     "timeDay": 0,
     "timeWeek": 744,
     "timeMonth": 708,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2023-09-28": 160,
+      "2023-09-28": 163,
       "2023-09-27": 1323,
       "2023-09-26": 1385,
       "2023-09-25": 1296,
@@ -1571,7 +1571,7 @@
       "2023-09-21": 1193,
       "2023-09-20": 1346,
       "2023-09-19": 1433,
-      "2023-09-18": 777
+      "2023-09-18": 683
     }
   },
   {
