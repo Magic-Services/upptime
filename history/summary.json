@@ -394,7 +394,7 @@
     "timeMonth": 796,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-09-30": 339,
+      "2023-09-30": 360,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -480,19 +480,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "17.30%",
-    "uptimeWeek": "13.32%",
-    "uptimeMonth": "69.52%",
-    "uptimeYear": "97.46%",
-    "time": 13597,
-    "timeDay": 17656,
-    "timeWeek": 18288,
-    "timeMonth": 17075,
-    "timeYear": 14306,
+    "status": "down",
+    "uptime": "98.56%",
+    "uptimeDay": "18.64%",
+    "uptimeWeek": "13.51%",
+    "uptimeMonth": "69.92%",
+    "uptimeYear": "97.49%",
+    "time": 13604,
+    "timeDay": 18117,
+    "timeWeek": 18366,
+    "timeMonth": 17096,
+    "timeYear": 14312,
     "dailyMinutesDown": {
-      "2023-09-30": 291,
+      "2023-09-30": 293,
       "2023-09-29": 1174,
       "2023-09-28": 1226,
       "2023-09-27": 1304,
@@ -503,7 +503,7 @@
       "2023-09-22": 1164,
       "2023-09-21": 1193,
       "2023-09-20": 1182,
-      "2023-09-19": 806
+      "2023-09-19": 627
     }
   },
   {
@@ -1034,7 +1034,7 @@
     "time": 1552,
     "timeDay": 1481,
     "timeWeek": 1954,
-    "timeMonth": 1519,
+    "timeMonth": 1527,
     "timeYear": 1552,
     "dailyMinutesDown": {
       "2023-09-29": 22,
@@ -1552,18 +1552,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "15.95%",
-    "uptimeWeek": "10.82%",
-    "uptimeMonth": "74.05%",
-    "uptimeYear": "97.84%",
+    "uptime": "98.78%",
+    "uptimeDay": "17.13%",
+    "uptimeWeek": "10.99%",
+    "uptimeMonth": "74.61%",
+    "uptimeYear": "97.88%",
     "time": 708,
     "timeDay": 557,
     "timeWeek": 647,
     "timeMonth": 703,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2023-09-30": 291,
+      "2023-09-30": 294,
       "2023-09-29": 1196,
       "2023-09-28": 1250,
       "2023-09-27": 1323,
@@ -1572,7 +1572,7 @@
       "2023-09-24": 1212,
       "2023-09-23": 1306,
       "2023-09-22": 1193,
-      "2023-09-21": 910
+      "2023-09-21": 662
     }
   },
   {
