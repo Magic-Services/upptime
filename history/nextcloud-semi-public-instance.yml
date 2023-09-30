@@ -1,7 +1,7 @@
 url: $NC_SEMI_PUBLIC
-status: up
-code: 200
-responseTime: 1042
-lastUpdated: 2023-09-29T23:11:54.219Z
+status: down
+code: 503
+responseTime: 868
+lastUpdated: 2023-09-30T20:42:59.571Z
 startTime: 2023-04-23T19:41:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
