@@ -394,7 +394,7 @@
     "timeMonth": 771,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-10-03": 877,
+      "2023-10-03": 889,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -483,19 +483,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "18.85%",
-    "uptimeWeek": "13.70%",
-    "uptimeMonth": "72.81%",
-    "uptimeYear": "97.73%",
-    "time": 13641,
-    "timeDay": 20387,
-    "timeWeek": 17524,
-    "timeMonth": 18012,
-    "timeYear": 14434,
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "19.51%",
+    "uptimeWeek": "13.80%",
+    "uptimeMonth": "73.11%",
+    "uptimeYear": "97.76%",
+    "time": 13648,
+    "timeDay": 20715,
+    "timeWeek": 17611,
+    "timeMonth": 18034,
+    "timeYear": 14441,
     "dailyMinutesDown": {
-      "2023-10-03": 714,
+      "2023-10-03": 716,
       "2023-10-02": 1290,
       "2023-10-01": 1319,
       "2023-09-30": 1138,
@@ -504,8 +504,7 @@
       "2023-09-27": 1304,
       "2023-09-26": 1340,
       "2023-09-25": 1195,
-      "2023-09-24": 1194,
-      "2023-09-23": 11
+      "2023-09-24": 1071
     }
   },
   {
@@ -1334,7 +1333,7 @@
     "uptimeYear": "99.88%",
     "time": 1611,
     "timeDay": 1082,
-    "timeWeek": 1235,
+    "timeWeek": 1276,
     "timeMonth": 1656,
     "timeYear": 1611,
     "dailyMinutesDown": {
@@ -1555,18 +1554,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "13.53%",
-    "uptimeWeek": "11.83%",
-    "uptimeMonth": "75.18%",
-    "uptimeYear": "97.93%",
+    "uptime": "98.82%",
+    "uptimeDay": "14.06%",
+    "uptimeWeek": "11.91%",
+    "uptimeMonth": "75.27%",
+    "uptimeYear": "97.94%",
     "time": 705,
     "timeDay": 549,
     "timeWeek": 616,
     "timeMonth": 684,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-10-03": 758,
+      "2023-10-03": 763,
       "2023-10-02": 1344,
       "2023-10-01": 1319,
       "2023-09-30": 1138,
@@ -1574,7 +1573,7 @@
       "2023-09-28": 1250,
       "2023-09-27": 1323,
       "2023-09-26": 1385,
-      "2023-09-25": 1156
+      "2023-09-25": 1112
     }
   },
   {
