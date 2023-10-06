@@ -395,7 +395,7 @@
     "timeMonth": 745,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-10-06": 361,
+      "2023-10-06": 387,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -487,19 +487,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "26.20%",
-    "uptimeWeek": "15.71%",
-    "uptimeMonth": "72.90%",
-    "uptimeYear": "97.74%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "27.92%",
+    "uptimeWeek": "15.96%",
+    "uptimeMonth": "74.03%",
+    "uptimeYear": "97.84%",
     "time": 14022,
     "timeDay": 19564,
     "timeWeek": 18735,
     "timeMonth": 18164,
     "timeYear": 14600,
     "dailyMinutesDown": {
-      "2023-10-06": 205,
+      "2023-10-06": 207,
       "2023-10-05": 1175,
       "2023-10-04": 1268,
       "2023-10-03": 1221,
@@ -509,7 +509,7 @@
       "2023-09-29": 1174,
       "2023-09-28": 1226,
       "2023-09-27": 1304,
-      "2023-09-26": 547
+      "2023-09-26": 48
     }
   },
   {
@@ -1558,18 +1558,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "26.31%",
-    "uptimeWeek": "14.00%",
-    "uptimeMonth": "76.56%",
-    "uptimeYear": "98.05%",
+    "uptime": "98.91%",
+    "uptimeDay": "27.92%",
+    "uptimeWeek": "14.23%",
+    "uptimeMonth": "77.03%",
+    "uptimeYear": "98.09%",
     "time": 706,
     "timeDay": 624,
     "timeWeek": 635,
     "timeMonth": 695,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-10-06": 205,
+      "2023-10-06": 209,
       "2023-10-05": 1175,
       "2023-10-04": 1323,
       "2023-10-03": 1265,
@@ -1577,8 +1577,7 @@
       "2023-10-01": 1319,
       "2023-09-30": 1138,
       "2023-09-29": 1196,
-      "2023-09-28": 1250,
-      "2023-09-27": 48
+      "2023-09-28": 1090
     }
   },
   {
