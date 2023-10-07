@@ -48,12 +48,12 @@
     "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.13%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.28%",
     "time": 3232,
     "timeDay": 967,
     "timeWeek": 669,
-    "timeMonth": 4382,
+    "timeMonth": 4306,
     "timeYear": 4057,
     "dailyMinutesDown": {
       "2023-09-25": 19,
@@ -395,7 +395,8 @@
     "timeMonth": 1025,
     "timeYear": 1020,
     "dailyMinutesDown": {
-      "2023-10-06": 1431,
+      "2023-10-07": 3,
+      "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -487,18 +488,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "23.39%",
-    "uptimeWeek": "15.45%",
-    "uptimeMonth": "74.66%",
-    "uptimeYear": "97.89%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "23.24%",
+    "uptimeWeek": "15.54%",
+    "uptimeMonth": "74.96%",
+    "uptimeYear": "97.91%",
     "time": 14118,
-    "timeDay": 19001,
+    "timeDay": 19778,
     "timeWeek": 19018,
     "timeMonth": 18274,
     "timeYear": 14646,
     "dailyMinutesDown": {
+      "2023-10-07": 2,
       "2023-10-06": 1103,
       "2023-10-05": 1175,
       "2023-10-04": 1268,
@@ -508,7 +510,7 @@
       "2023-09-30": 1138,
       "2023-09-29": 1174,
       "2023-09-28": 1226,
-      "2023-09-27": 185
+      "2023-09-27": 48
     }
   },
   {
@@ -946,8 +948,7 @@
       "2023-03-12": 57,
       "2023-03-11": 7,
       "2022-12-06": 35,
-      "2022-10-27": 23,
-      "2022-10-07": 26
+      "2022-10-27": 23
     }
   },
   {
@@ -1559,16 +1560,17 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "21.73%",
-    "uptimeWeek": "13.71%",
-    "uptimeMonth": "76.95%",
-    "uptimeYear": "98.08%",
+    "uptimeDay": "21.42%",
+    "uptimeWeek": "13.79%",
+    "uptimeMonth": "77.05%",
+    "uptimeYear": "98.09%",
     "time": 706,
     "timeDay": 927,
     "timeWeek": 688,
     "timeMonth": 707,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2023-10-07": 4,
       "2023-10-06": 1127,
       "2023-10-05": 1175,
       "2023-10-04": 1323,
@@ -1577,7 +1579,7 @@
       "2023-10-01": 1319,
       "2023-09-30": 1138,
       "2023-09-29": 1196,
-      "2023-09-28": 206
+      "2023-09-28": 157
     }
   },
   {
@@ -1663,8 +1665,7 @@
       "2023-02-13": 22,
       "2022-12-09": 23,
       "2022-11-30": 22,
-      "2022-10-18": 34,
-      "2022-10-07": 23
+      "2022-10-18": 34
     }
   },
   {
