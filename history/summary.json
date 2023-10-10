@@ -395,7 +395,7 @@
     "timeMonth": 981,
     "timeYear": 1021,
     "dailyMinutesDown": {
-      "2023-10-10": 472,
+      "2023-10-10": 482,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
@@ -491,19 +491,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "24.17%",
-    "uptimeWeek": "17.25%",
-    "uptimeMonth": "74.10%",
-    "uptimeYear": "97.84%",
-    "time": 14165,
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "24.16%",
+    "uptimeWeek": "17.23%",
+    "uptimeMonth": "74.34%",
+    "uptimeYear": "97.86%",
+    "time": 14174,
     "timeDay": 18395,
-    "timeWeek": 19078,
-    "timeMonth": 18166,
-    "timeYear": 14744,
+    "timeWeek": 19106,
+    "timeMonth": 18176,
+    "timeYear": 14747,
     "dailyMinutesDown": {
-      "2023-10-10": 271,
+      "2023-10-10": 273,
       "2023-10-09": 1146,
       "2023-10-08": 1330,
       "2023-10-07": 1221,
@@ -512,7 +512,7 @@
       "2023-10-04": 1268,
       "2023-10-03": 1221,
       "2023-10-02": 1290,
-      "2023-10-01": 1319
+      "2023-10-01": 1212
     }
   },
   {
@@ -1561,18 +1561,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "24.17%",
-    "uptimeWeek": "12.56%",
-    "uptimeMonth": "77.87%",
-    "uptimeYear": "98.16%",
+    "uptime": "98.97%",
+    "uptimeDay": "24.16%",
+    "uptimeWeek": "12.52%",
+    "uptimeMonth": "78.16%",
+    "uptimeYear": "98.18%",
     "time": 706,
     "timeDay": 518,
     "timeWeek": 778,
     "timeMonth": 711,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-10-10": 271,
+      "2023-10-10": 274,
       "2023-10-09": 1504,
       "2023-10-08": 1349,
       "2023-10-07": 1221,
@@ -1580,7 +1580,7 @@
       "2023-10-05": 1175,
       "2023-10-04": 1323,
       "2023-10-03": 1265,
-      "2023-10-02": 458
+      "2023-10-02": 325
     }
   },
   {
