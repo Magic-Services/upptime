@@ -399,7 +399,7 @@
     "timeMonth": 988,
     "timeYear": 1021,
     "dailyMinutesDown": {
-      "2023-10-14": 529,
+      "2023-10-14": 540,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -499,19 +499,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "23.78%",
-    "uptimeWeek": "17.95%",
-    "uptimeMonth": "77.49%",
-    "uptimeYear": "98.12%",
+    "status": "down",
+    "uptime": "98.95%",
+    "uptimeDay": "24.38%",
+    "uptimeWeek": "17.99%",
+    "uptimeMonth": "77.71%",
+    "uptimeYear": "98.14%",
     "time": 14312,
     "timeDay": 17574,
-    "timeWeek": 17419,
+    "timeWeek": 17349,
     "timeMonth": 18120,
     "timeYear": 14877,
     "dailyMinutesDown": {
-      "2023-10-14": 349,
+      "2023-10-14": 351,
       "2023-10-13": 1222,
       "2023-10-12": 1111,
       "2023-10-11": 1283,
@@ -519,7 +519,7 @@
       "2023-10-09": 1146,
       "2023-10-08": 1330,
       "2023-10-07": 1221,
-      "2023-10-06": 1103
+      "2023-10-06": 1005
     }
   },
   {
@@ -1575,25 +1575,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "18.84%",
-    "uptimeWeek": "9.51%",
-    "uptimeMonth": "79.01%",
-    "uptimeYear": "98.25%",
+    "uptime": "99.02%",
+    "uptimeDay": "19.27%",
+    "uptimeWeek": "9.55%",
+    "uptimeMonth": "79.17%",
+    "uptimeYear": "98.26%",
     "time": 707,
     "timeDay": 0,
     "timeWeek": 797,
     "timeMonth": 713,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2023-10-14": 390,
+      "2023-10-14": 395,
       "2023-10-13": 1273,
       "2023-10-12": 1403,
       "2023-10-11": 1309,
       "2023-10-10": 1156,
       "2023-10-09": 1504,
       "2023-10-08": 1349,
-      "2023-10-07": 809
+      "2023-10-07": 735
     }
   },
   {
@@ -1668,7 +1668,7 @@
     "uptimeYear": "99.98%",
     "time": 732,
     "timeDay": 0,
-    "timeWeek": 638,
+    "timeWeek": 608,
     "timeMonth": 741,
     "timeYear": 648,
     "dailyMinutesDown": {
