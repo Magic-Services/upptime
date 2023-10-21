@@ -399,7 +399,7 @@
     "timeMonth": 959,
     "timeYear": 1021,
     "dailyMinutesDown": {
-      "2023-10-21": 50,
+      "2023-10-21": 79,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
@@ -506,18 +506,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "28.09%",
-    "uptimeWeek": "19.21%",
-    "uptimeMonth": "76.44%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "29.97%",
+    "uptimeWeek": "19.20%",
+    "uptimeMonth": "76.48%",
     "uptimeYear": "98.04%",
-    "time": 14215,
-    "timeDay": 14742,
-    "timeWeek": 15256,
-    "timeMonth": 17465,
-    "timeYear": 14938,
+    "time": 14220,
+    "timeDay": 15151,
+    "timeWeek": 15324,
+    "timeMonth": 17478,
+    "timeYear": 14942,
     "dailyMinutesDown": {
+      "2023-10-21": 2,
       "2023-10-20": 1089,
       "2023-10-19": 1195,
       "2023-10-18": 994,
@@ -526,7 +527,7 @@
       "2023-10-15": 1216,
       "2023-10-14": 1150,
       "2023-10-13": 1222,
-      "2023-10-12": 908
+      "2023-10-12": 889
     }
   },
   {
@@ -741,7 +742,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.71%",
     "time": 831,
     "timeDay": 599,
     "timeWeek": 983,
@@ -1591,9 +1592,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "25.87%",
-    "uptimeWeek": "15.07%",
-    "uptimeMonth": "80.46%",
+    "uptimeDay": "27.63%",
+    "uptimeWeek": "15.22%",
+    "uptimeMonth": "80.49%",
     "uptimeYear": "98.37%",
     "time": 708,
     "timeDay": 741,
@@ -1601,13 +1602,14 @@
     "timeMonth": 739,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2023-10-21": 3,
       "2023-10-20": 1123,
       "2023-10-19": 1262,
       "2023-10-18": 1028,
       "2023-10-17": 1348,
       "2023-10-16": 1410,
       "2023-10-15": 1319,
-      "2023-10-14": 1074
+      "2023-10-14": 1055
     }
   },
   {
