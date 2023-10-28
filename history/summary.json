@@ -390,8 +390,8 @@
     "status": "down",
     "uptime": "85.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.15%",
-    "uptimeMonth": "22.59%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "22.61%",
     "uptimeYear": "73.54%",
     "time": 1028,
     "timeDay": 390,
@@ -506,19 +506,19 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "27.29%",
-    "uptimeWeek": "31.53%",
-    "uptimeMonth": "83.81%",
+    "uptimeDay": "26.62%",
+    "uptimeWeek": "31.44%",
+    "uptimeMonth": "83.79%",
     "uptimeYear": "98.65%",
-    "time": 14213,
-    "timeDay": 14139,
-    "timeWeek": 12551,
-    "timeMonth": 15879,
-    "timeYear": 14801,
+    "time": 14209,
+    "timeDay": 13662,
+    "timeWeek": 12495,
+    "timeMonth": 15863,
+    "timeYear": 14797,
     "dailyMinutesDown": {
-      "2023-10-27": 1048,
+      "2023-10-27": 1057,
       "2023-10-26": 808,
       "2023-10-25": 788,
       "2023-10-24": 958,
@@ -988,8 +988,7 @@
       "2023-06-05": 16,
       "2023-06-02": 24,
       "2023-05-15": 31,
-      "2023-02-27": 22,
-      "2022-10-28": 36
+      "2023-02-27": 22
     }
   },
   {
@@ -1402,8 +1401,7 @@
     "dailyMinutesDown": {
       "2023-10-24": 17,
       "2023-10-18": 18,
-      "2023-01-25": 71,
-      "2022-10-28": 25
+      "2023-01-25": 71
     }
   },
   {
@@ -1596,10 +1594,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "25.93%",
-    "uptimeWeek": "35.33%",
-    "uptimeMonth": "85.12%",
+    "uptime": "99.31%",
+    "uptimeDay": "25.37%",
+    "uptimeWeek": "35.25%",
+    "uptimeMonth": "85.10%",
     "uptimeYear": "98.76%",
     "time": 746,
     "timeDay": 519,
@@ -1607,7 +1605,7 @@
     "timeMonth": 1400,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2023-10-27": 1067,
+      "2023-10-27": 1075,
       "2023-10-26": 823,
       "2023-10-25": 788,
       "2023-10-24": 1021,
