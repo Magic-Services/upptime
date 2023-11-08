@@ -1,7 +1,7 @@
 url: https://rocket.chat
-status: up
-code: 200
-responseTime: 495
-lastUpdated: 2023-11-07T23:12:04.711Z
+status: down
+code: 406
+responseTime: 1491
+lastUpdated: 2023-11-08T05:18:57.239Z
 startTime: 2022-01-04T17:31:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
