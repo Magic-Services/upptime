@@ -13,7 +13,7 @@
     "time": 1302,
     "timeDay": 815,
     "timeWeek": 884,
-    "timeMonth": 944,
+    "timeMonth": 941,
     "timeYear": 1114,
     "dailyMinutesDown": {
       "2023-10-17": 65,
@@ -379,7 +379,7 @@
     "uptime": "85.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.32%",
+    "uptimeMonth": "87.39%",
     "uptimeYear": "73.54%",
     "time": 1028,
     "timeDay": 462,
@@ -494,26 +494,26 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "53.86%",
-    "uptimeWeek": "53.36%",
-    "uptimeMonth": "89.27%",
+    "uptimeDay": "53.74%",
+    "uptimeWeek": "53.61%",
+    "uptimeMonth": "89.33%",
     "uptimeYear": "99.11%",
     "time": 13588,
     "timeDay": 10425,
-    "timeWeek": 9964,
+    "timeWeek": 9935,
     "timeMonth": 11424,
     "timeYear": 14118,
     "dailyMinutesDown": {
-      "2023-11-17": 530,
+      "2023-11-17": 532,
       "2023-11-16": 731,
       "2023-11-15": 770,
       "2023-11-14": 790,
       "2023-11-13": 704,
       "2023-11-12": 566,
       "2023-11-11": 490,
-      "2023-11-10": 122
+      "2023-11-10": 95
     }
   },
   {
@@ -1195,7 +1195,7 @@
     "time": 1167,
     "timeDay": 1033,
     "timeWeek": 1165,
-    "timeMonth": 1125,
+    "timeMonth": 1120,
     "timeYear": 1167,
     "dailyMinutesDown": {
       "2023-10-17": 75,
@@ -1585,10 +1585,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "53.86%",
-    "uptimeWeek": "53.49%",
-    "uptimeMonth": "89.30%",
+    "uptime": "99.53%",
+    "uptimeDay": "53.63%",
+    "uptimeWeek": "53.77%",
+    "uptimeMonth": "89.36%",
     "uptimeYear": "99.11%",
     "time": 738,
     "timeDay": 418,
@@ -1596,13 +1596,13 @@
     "timeMonth": 1225,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2023-11-17": 530,
+      "2023-11-17": 533,
       "2023-11-16": 731,
       "2023-11-15": 770,
       "2023-11-14": 790,
       "2023-11-13": 704,
       "2023-11-12": 764,
-      "2023-11-11": 401
+      "2023-11-11": 370
     }
   },
   {
