@@ -491,26 +491,25 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "57.13%",
-    "uptimeWeek": "61.38%",
-    "uptimeMonth": "91.11%",
+    "uptimeDay": "57.03%",
+    "uptimeWeek": "61.64%",
+    "uptimeMonth": "91.17%",
     "uptimeYear": "99.26%",
-    "time": 13636,
-    "timeDay": 13660,
-    "timeWeek": 13515,
-    "timeMonth": 11520,
-    "timeYear": 14050,
+    "time": 13644,
+    "timeDay": 14370,
+    "timeWeek": 13577,
+    "timeMonth": 11537,
+    "timeYear": 14054,
     "dailyMinutesDown": {
-      "2023-11-27": 291,
+      "2023-11-27": 293,
       "2023-11-26": 461,
       "2023-11-25": 688,
       "2023-11-24": 536,
       "2023-11-23": 692,
       "2023-11-22": 699,
-      "2023-11-21": 494,
-      "2023-11-20": 28
+      "2023-11-21": 494
     }
   },
   {
@@ -1592,9 +1591,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "53.34%",
-    "uptimeWeek": "63.40%",
-    "uptimeMonth": "91.58%",
+    "uptimeDay": "53.12%",
+    "uptimeWeek": "63.53%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 733,
     "timeDay": 559,
@@ -1602,13 +1601,13 @@
     "timeMonth": 500,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-11-27": 320,
+      "2023-11-27": 323,
       "2023-11-26": 487,
       "2023-11-25": 710,
       "2023-11-24": 557,
       "2023-11-23": 781,
       "2023-11-22": 750,
-      "2023-11-21": 79
+      "2023-11-21": 63
     }
   },
   {
