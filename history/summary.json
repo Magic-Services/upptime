@@ -45,7 +45,7 @@
     "timeDay": 7396,
     "timeWeek": 4664,
     "timeMonth": 3111,
-    "timeYear": 4250,
+    "timeYear": 4256,
     "dailyMinutesDown": {
       "2023-11-29": 19,
       "2023-11-22": 35,
@@ -200,8 +200,7 @@
     "timeYear": 349,
     "dailyMinutesDown": {
       "2023-07-07": 101,
-      "2023-05-27": 21,
-      "2022-11-30": 89
+      "2023-05-27": 21
     }
   },
   {
@@ -219,7 +218,7 @@
     "timeDay": 564,
     "timeWeek": 660,
     "timeMonth": 1570,
-    "timeYear": 828,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2023-11-12": 78,
       "2023-11-10": 17,
@@ -271,7 +270,7 @@
     "timeDay": 664,
     "timeWeek": 359,
     "timeMonth": 361,
-    "timeYear": 363,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2023-09-05": 17,
       "2023-08-17": 137,
@@ -363,7 +362,7 @@
     "timeDay": 829,
     "timeWeek": 909,
     "timeMonth": 977,
-    "timeYear": 927,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2023-07-03": 202,
       "2023-05-01": 92
@@ -375,7 +374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "86.08%",
+    "uptime": "86.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -495,15 +494,15 @@
     "slug": "libreddit-libreddit-spike-codes",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "55.39%",
+    "uptimeDay": "59.95%",
     "uptimeWeek": "58.97%",
     "uptimeMonth": "90.56%",
     "uptimeYear": "99.21%",
     "time": 13669,
-    "timeDay": 16130,
-    "timeWeek": 13786,
-    "timeMonth": 11722,
-    "timeYear": 14046,
+    "timeDay": 17137,
+    "timeWeek": 13812,
+    "timeMonth": 11729,
+    "timeYear": 14049,
     "dailyMinutesDown": {
       "2023-11-29": 612,
       "2023-11-28": 739,
@@ -616,7 +615,7 @@
     "timeDay": 182,
     "timeWeek": 121,
     "timeMonth": 117,
-    "timeYear": 458,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2023-03-21": 31,
       "2022-12-29": 16
@@ -681,7 +680,7 @@
     "timeDay": 1235,
     "timeWeek": 1132,
     "timeMonth": 1144,
-    "timeYear": 922,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2023-07-26": 329
     }
@@ -728,7 +727,7 @@
     "timeDay": 426,
     "timeWeek": 539,
     "timeMonth": 514,
-    "timeYear": 778,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2023-11-20": 43,
       "2023-10-14": 19,
@@ -757,7 +756,7 @@
     "timeDay": 1177,
     "timeWeek": 1127,
     "timeMonth": 1100,
-    "timeYear": 964,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2023-06-20": 274
     }
@@ -777,7 +776,7 @@
     "timeDay": 227,
     "timeWeek": 207,
     "timeMonth": 220,
-    "timeYear": 252,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2023-10-13": 19,
       "2023-09-06": 18,
@@ -842,7 +841,7 @@
     "timeDay": 400,
     "timeWeek": 321,
     "timeMonth": 361,
-    "timeYear": 235,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2023-05-16": 21,
       "2023-04-04": 16
@@ -881,7 +880,7 @@
     "timeDay": 547,
     "timeWeek": 493,
     "timeMonth": 478,
-    "timeYear": 452,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2023-11-20": 20,
       "2023-10-29": 46,
@@ -905,7 +904,7 @@
     "timeDay": 148,
     "timeWeek": 265,
     "timeMonth": 286,
-    "timeYear": 295,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -965,7 +964,7 @@
     "timeDay": 233,
     "timeWeek": 112,
     "timeMonth": 153,
-    "timeYear": 146,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2023-06-07": 21,
       "2023-06-05": 16,
@@ -1035,7 +1034,7 @@
     "status": "up",
     "uptime": "98.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "98.86%",
     "time": 1538,
@@ -1591,7 +1590,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "21.45%",
+    "uptimeDay": "26.01%",
     "uptimeWeek": "56.10%",
     "uptimeMonth": "89.90%",
     "uptimeYear": "99.16%",
@@ -1689,8 +1688,7 @@
       "2023-11-02": 18,
       "2023-07-02": 28,
       "2023-02-13": 22,
-      "2022-12-09": 23,
-      "2022-11-30": 22
+      "2022-12-09": 23
     }
   },
   {
