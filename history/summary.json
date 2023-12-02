@@ -45,7 +45,7 @@
     "timeDay": 535,
     "timeWeek": 5161,
     "timeMonth": 3608,
-    "timeYear": 4285,
+    "timeYear": 4291,
     "dailyMinutesDown": {
       "2023-11-29": 19,
       "2023-11-22": 35,
@@ -139,7 +139,7 @@
     "timeDay": 863,
     "timeWeek": 990,
     "timeMonth": 997,
-    "timeYear": 936,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2023-07-11": 20
     }
@@ -159,7 +159,7 @@
     "timeDay": 62,
     "timeWeek": 79,
     "timeMonth": 82,
-    "timeYear": 91,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -252,7 +252,7 @@
     "timeDay": 150,
     "timeWeek": 92,
     "timeMonth": 126,
-    "timeYear": 99,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -294,7 +294,7 @@
     "timeDay": 182,
     "timeWeek": 375,
     "timeMonth": 364,
-    "timeYear": 718,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2023-07-12": 30,
       "2023-05-01": 53,
@@ -335,7 +335,7 @@
     "timeDay": 630,
     "timeWeek": 733,
     "timeMonth": 739,
-    "timeYear": 1009,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2023-11-30": 117,
       "2023-11-29": 469,
@@ -493,26 +493,26 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "77.59%",
-    "uptimeWeek": "54.02%",
-    "uptimeMonth": "89.17%",
+    "uptimeDay": "77.51%",
+    "uptimeWeek": "54.01%",
+    "uptimeMonth": "89.25%",
     "uptimeYear": "99.10%",
-    "time": 13572,
-    "timeDay": 8120,
-    "timeWeek": 11079,
-    "timeMonth": 11643,
+    "time": 13576,
+    "timeDay": 8495,
+    "timeWeek": 11028,
+    "timeMonth": 11647,
     "timeYear": 13907,
     "dailyMinutesDown": {
-      "2023-12-02": 301,
+      "2023-12-02": 303,
       "2023-12-01": 877,
       "2023-11-30": 928,
       "2023-11-29": 612,
       "2023-11-28": 739,
       "2023-11-27": 685,
       "2023-11-26": 461,
-      "2023-11-25": 141
+      "2023-11-25": 101
     }
   },
   {
@@ -1593,9 +1593,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "76.38%",
-    "uptimeWeek": "48.71%",
-    "uptimeMonth": "88.20%",
+    "uptimeDay": "76.29%",
+    "uptimeWeek": "48.91%",
+    "uptimeMonth": "88.24%",
     "uptimeYear": "99.02%",
     "time": 728,
     "timeDay": 435,
@@ -1603,13 +1603,13 @@
     "timeMonth": 463,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-12-02": 318,
+      "2023-12-02": 321,
       "2023-12-01": 877,
       "2023-11-30": 1045,
       "2023-11-29": 1100,
       "2023-11-28": 739,
       "2023-11-27": 714,
-      "2023-11-26": 374
+      "2023-11-26": 351
     }
   },
   {
