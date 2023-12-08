@@ -1,7 +1,7 @@
 url: https://nextcloud.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-08T09:40:23.383Z
+status: up
+code: 200
+responseTime: 719
+lastUpdated: 2023-12-08T09:52:12.842Z
 startTime: 2022-01-04T17:31:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
