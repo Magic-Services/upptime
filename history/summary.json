@@ -492,25 +492,26 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "59.22%",
-    "uptimeWeek": "59.42%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "99.22%",
-    "time": 13423,
+    "uptimeDay": "59.44%",
+    "uptimeWeek": "59.61%",
+    "uptimeMonth": "90.71%",
+    "uptimeYear": "99.23%",
+    "time": 13426,
     "timeDay": 16374,
     "timeWeek": 10512,
     "timeMonth": 11837,
     "timeYear": 13904,
     "dailyMinutesDown": {
+      "2023-12-08": 2,
       "2023-12-07": 588,
       "2023-12-06": 681,
       "2023-12-05": 602,
       "2023-12-04": 821,
       "2023-12-03": 642,
       "2023-12-02": 343,
-      "2023-12-01": 419
+      "2023-12-01": 397
     }
   },
   {
@@ -555,8 +556,7 @@
     "timeYear": 202,
     "dailyMinutesDown": {
       "2023-04-22": 532,
-      "2022-12-09": 128,
-      "2022-12-08": 144
+      "2022-12-09": 128
     }
   },
   {
@@ -1594,22 +1594,23 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "57.51%",
-    "uptimeWeek": "61.61%",
-    "uptimeMonth": "91.17%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "57.73%",
+    "uptimeWeek": "61.79%",
+    "uptimeMonth": "91.21%",
+    "uptimeYear": "99.27%",
     "time": 726,
     "timeDay": 378,
     "timeWeek": 418,
     "timeMonth": 432,
     "timeYear": 731,
     "dailyMinutesDown": {
+      "2023-12-08": 3,
       "2023-12-07": 613,
       "2023-12-06": 758,
       "2023-12-05": 602,
       "2023-12-04": 891,
       "2023-12-03": 744,
-      "2023-12-02": 270
+      "2023-12-02": 249
     }
   },
   {
@@ -1640,15 +1641,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 913,
     "timeDay": 667,
     "timeWeek": 2289,
     "timeMonth": 1569,
     "timeYear": 1010,
-    "dailyMinutesDown": {
-      "2022-12-08": 226
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bitwarden",
