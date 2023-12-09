@@ -296,7 +296,7 @@
     "timeDay": 0,
     "timeWeek": 148,
     "timeMonth": 318,
-    "timeYear": 706,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2023-07-12": 30,
       "2023-05-01": 53,
@@ -495,24 +495,24 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "42.08%",
-    "uptimeWeek": "60.04%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "99.23%",
-    "time": 13451,
-    "timeDay": 19210,
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "43.37%",
+    "uptimeWeek": "60.59%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "99.24%",
+    "time": 13455,
+    "timeDay": 18907,
     "timeWeek": 14244,
     "timeMonth": 12054,
     "timeYear": 13955,
     "dailyMinutesDown": {
-      "2023-12-09": 632,
+      "2023-12-09": 634,
       "2023-12-08": 777,
       "2023-12-07": 588,
       "2023-12-06": 681,
       "2023-12-05": 602,
-      "2023-12-04": 753
+      "2023-12-04": 696
     }
   },
   {
@@ -1598,9 +1598,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "29.21%",
-    "uptimeWeek": "60.51%",
-    "uptimeMonth": "90.91%",
+    "uptimeDay": "31.01%",
+    "uptimeWeek": "60.57%",
+    "uptimeMonth": "90.93%",
     "uptimeYear": "99.24%",
     "time": 726,
     "timeDay": 0,
@@ -1608,7 +1608,7 @@
     "timeMonth": 434,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2023-12-09": 661,
+      "2023-12-09": 655,
       "2023-12-08": 1065,
       "2023-12-07": 613,
       "2023-12-06": 758,
@@ -1727,18 +1727,16 @@
     "slug": "folding-home",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
     "timeDay": 442,
     "timeWeek": 412,
     "timeMonth": 407,
     "timeYear": 395,
-    "dailyMinutesDown": {
-      "2023-12-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Internet Archive",
