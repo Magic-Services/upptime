@@ -495,24 +495,24 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "44.44%",
-    "uptimeWeek": "59.90%",
-    "uptimeMonth": "90.77%",
-    "uptimeYear": "99.23%",
-    "time": 13677,
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "44.48%",
+    "uptimeWeek": "60.55%",
+    "uptimeMonth": "90.92%",
+    "uptimeYear": "99.24%",
+    "time": 13453,
     "timeDay": 19681,
     "timeWeek": 14399,
     "timeMonth": 12046,
     "timeYear": 13956,
     "dailyMinutesDown": {
-      "2023-12-09": 577,
+      "2023-12-09": 580,
       "2023-12-08": 777,
       "2023-12-07": 588,
       "2023-12-06": 681,
       "2023-12-05": 602,
-      "2023-12-04": 821
+      "2023-12-04": 753
     }
   },
   {
@@ -1597,23 +1597,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "32.19%",
-    "uptimeWeek": "60.26%",
-    "uptimeMonth": "90.86%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.61%",
+    "uptimeDay": "32.04%",
+    "uptimeWeek": "61.08%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "99.25%",
     "time": 726,
     "timeDay": 0,
     "timeWeek": 431,
     "timeMonth": 434,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2023-12-09": 596,
+      "2023-12-09": 604,
       "2023-12-08": 1065,
       "2023-12-07": 613,
       "2023-12-06": 758,
       "2023-12-05": 602,
-      "2023-12-04": 374
+      "2023-12-04": 285
     }
   },
   {
@@ -1725,18 +1725,20 @@
     "url": "https://foldingathome.org",
     "icon": "https://icons.duckduckgo.com/ip3/foldingathome.org.ico",
     "slug": "folding-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 395,
+    "time": 394,
     "timeDay": 346,
     "timeWeek": 381,
     "timeMonth": 398,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 3
+    }
   },
   {
     "name": "Internet Archive",
