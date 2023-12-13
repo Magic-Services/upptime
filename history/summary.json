@@ -43,7 +43,7 @@
     "uptimeYear": "99.16%",
     "time": 3765,
     "timeDay": 6347,
-    "timeWeek": 6960,
+    "timeWeek": 6375,
     "timeMonth": 5298,
     "timeYear": 4435,
     "dailyMinutesDown": {
@@ -500,25 +500,25 @@
     "url": "https://libreddit.spike.codes",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.spike.codes.ico",
     "slug": "libreddit-libreddit-spike-codes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "47.40%",
-    "uptimeWeek": "61.13%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "48.69%",
+    "uptimeWeek": "61.32%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "99.26%",
     "time": 13699,
-    "timeDay": 12348,
-    "timeWeek": 15869,
-    "timeMonth": 12524,
+    "timeDay": 11900,
+    "timeWeek": 15884,
+    "timeMonth": 12536,
     "timeYear": 13987,
     "dailyMinutesDown": {
-      "2023-12-13": 447,
+      "2023-12-13": 449,
       "2023-12-12": 768,
       "2023-12-11": 701,
       "2023-12-10": 448,
       "2023-12-09": 680,
       "2023-12-08": 777,
-      "2023-12-07": 93
+      "2023-12-07": 73
     }
   },
   {
@@ -952,7 +952,7 @@
     "timeDay": 181,
     "timeWeek": 139,
     "timeMonth": 108,
-    "timeYear": 169,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2023-03-12": 57,
       "2023-03-11": 7
@@ -1605,10 +1605,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "38.37%",
-    "uptimeWeek": "61.69%",
-    "uptimeMonth": "91.19%",
+    "uptime": "99.63%",
+    "uptimeDay": "39.52%",
+    "uptimeWeek": "62.17%",
+    "uptimeMonth": "91.29%",
     "uptimeYear": "99.27%",
     "time": 724,
     "timeDay": 633,
@@ -1616,12 +1616,12 @@
     "timeMonth": 435,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2023-12-13": 466,
+      "2023-12-13": 470,
       "2023-12-12": 879,
       "2023-12-11": 716,
       "2023-12-10": 597,
       "2023-12-09": 699,
-      "2023-12-08": 501
+      "2023-12-08": 449
     }
   },
   {
