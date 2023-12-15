@@ -1,7 +1,7 @@
 url: https://steamdb.info
-status: up
-code: 403
-responseTime: 173
-lastUpdated: 2023-12-14T23:13:01.280Z
+status: down
+code: 409
+responseTime: 3732
+lastUpdated: 2023-12-15T22:10:20.914Z
 startTime: 2022-01-04T17:31:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
