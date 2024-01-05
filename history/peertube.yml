@@ -1,7 +1,7 @@
 url: https://joinpeertube.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-05T11:20:21.873Z
+status: up
+code: 200
+responseTime: 977
+lastUpdated: 2024-01-05T11:30:48.592Z
 startTime: 2022-01-04T17:30:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
