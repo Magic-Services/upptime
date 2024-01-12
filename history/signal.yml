@@ -1,7 +1,7 @@
 url: https://signal.org
-status: down
-code: 503
-responseTime: 7170
-lastUpdated: 2024-01-12T23:12:05.848Z
+status: up
+code: 200
+responseTime: 291
+lastUpdated: 2024-01-12T23:18:27.794Z
 startTime: 2022-01-04T17:31:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
