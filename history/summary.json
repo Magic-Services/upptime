@@ -597,7 +597,7 @@
     "slug": "peertube-peertube-tv",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "12.01%",
+    "uptimeDay": "16.73%",
     "uptimeWeek": "84.21%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "99.59%",
@@ -618,7 +618,7 @@
     "slug": "peertube-tube-tchncs-de",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "12.01%",
+    "uptimeDay": "16.73%",
     "uptimeWeek": "84.21%",
     "uptimeMonth": "96.37%",
     "uptimeYear": "99.69%",
@@ -1020,9 +1020,9 @@
     "slug": "webblate",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.88%",
     "time": 906,
     "timeDay": 936,
@@ -1030,7 +1030,6 @@
     "timeMonth": 852,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2024-01-15": 11,
       "2024-01-14": 43,
       "2024-01-13": 30,
       "2024-01-12": 20,
@@ -1632,8 +1631,8 @@
     "status": "up",
     "uptime": "98.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.45%",
-    "uptimeMonth": "80.35%",
+    "uptimeWeek": "48.55%",
+    "uptimeMonth": "80.37%",
     "uptimeYear": "97.53%",
     "time": 711,
     "timeDay": 617,
@@ -1641,7 +1640,7 @@
     "timeMonth": 510,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2024-01-15": 2523,
+      "2024-01-15": 2512,
       "2024-01-14": 715,
       "2024-01-13": 53,
       "2024-01-12": 1378,
@@ -1668,7 +1667,7 @@
       "2023-12-14": 1489,
       "2023-12-13": 898,
       "2023-12-12": 879,
-      "2023-12-11": 140
+      "2023-12-11": 155
     }
   },
   {
@@ -1826,8 +1825,7 @@
       "2023-03-21": 47,
       "2023-03-01": 15,
       "2023-02-09": 16,
-      "2023-01-25": 284,
-      "2023-01-16": 65
+      "2023-01-25": 284
     }
   },
   {
