@@ -594,11 +594,11 @@
     "url": "https://tube.tchncs.de",
     "icon": "https://icons.duckduckgo.com/ip3/tube.tchncs.de.ico",
     "slug": "peertube-peertube-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "83.56%",
-    "uptimeMonth": "96.22%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "83.53%",
+    "uptimeMonth": "96.21%",
     "uptimeYear": "99.57%",
     "time": 1165,
     "timeDay": 2301,
@@ -606,6 +606,7 @@
     "timeMonth": 1332,
     "timeYear": 1165,
     "dailyMinutesDown": {
+      "2024-01-17": 3,
       "2024-01-16": 65,
       "2024-01-15": 1256,
       "2024-01-14": 336
@@ -1633,9 +1634,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "86.56%",
-    "uptimeWeek": "46.63%",
-    "uptimeMonth": "79.93%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "46.59%",
+    "uptimeMonth": "79.92%",
     "uptimeYear": "97.52%",
     "time": 711,
     "timeDay": 434,
@@ -1643,6 +1644,7 @@
     "timeMonth": 504,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2024-01-17": 4,
       "2024-01-16": 194,
       "2024-01-15": 2512,
       "2024-01-14": 715,
@@ -1671,7 +1673,7 @@
       "2023-12-14": 1489,
       "2023-12-13": 898,
       "2023-12-12": 879,
-      "2023-12-11": 38
+      "2023-12-11": 6
     }
   },
   {
