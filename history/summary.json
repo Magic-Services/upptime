@@ -1024,10 +1024,10 @@
     "url": "https://weblate.org",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.org.ico",
     "slug": "webblate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "98.79%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.88%",
     "time": 905,
@@ -1036,6 +1036,7 @@
     "timeMonth": 845,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2024-01-17": 3,
       "2024-01-16": 25,
       "2024-01-14": 43,
       "2024-01-13": 30,
@@ -1638,9 +1639,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "53.04%",
-    "uptimeWeek": "39.92%",
-    "uptimeMonth": "78.42%",
+    "uptimeDay": "52.74%",
+    "uptimeWeek": "39.88%",
+    "uptimeMonth": "78.41%",
     "uptimeYear": "97.48%",
     "time": 711,
     "timeDay": 434,
@@ -1648,7 +1649,7 @@
     "timeMonth": 504,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2024-01-17": 675,
+      "2024-01-17": 679,
       "2024-01-16": 194,
       "2024-01-15": 2512,
       "2024-01-14": 715,
@@ -1676,7 +1677,7 @@
       "2023-12-15": 947,
       "2023-12-14": 1489,
       "2023-12-13": 898,
-      "2023-12-12": 462
+      "2023-12-12": 422
     }
   },
   {
