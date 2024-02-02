@@ -42,7 +42,7 @@
     "time": 4282,
     "timeDay": 451,
     "timeWeek": 4493,
-    "timeMonth": 3981,
+    "timeMonth": 3744,
     "timeYear": 4248,
     "dailyMinutesDown": {
       "2024-01-31": 60,
@@ -374,7 +374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "87.26%",
+    "uptime": "87.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -383,7 +383,7 @@
     "timeDay": 0,
     "timeWeek": 610,
     "timeMonth": 669,
-    "timeYear": 1030,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2023-10-21": 781,
       "2023-10-20": 1440,
@@ -575,7 +575,7 @@
     "timeDay": 871,
     "timeWeek": 1054,
     "timeMonth": 1025,
-    "timeYear": 1023,
+    "timeYear": 1024,
     "dailyMinutesDown": {
       "2023-10-09": 358,
       "2023-09-19": 24
@@ -662,7 +662,7 @@
     "status": "up",
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.42%",
+    "uptimeWeek": "64.63%",
     "uptimeMonth": "85.53%",
     "uptimeYear": "98.28%",
     "time": 813,
@@ -1471,11 +1471,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mullvad.net.ico",
     "slug": "mullvad-vpn",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 978,
     "timeDay": 877,
     "timeWeek": 968,
@@ -1638,8 +1638,8 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.11%",
-    "uptimeDay": "93.00%",
-    "uptimeWeek": "54.26%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "59.44%",
     "uptimeMonth": "61.04%",
     "uptimeYear": "96.08%",
     "time": 703,
@@ -1648,6 +1648,7 @@
     "timeMonth": 465,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2024-02-02": 3,
       "2024-02-01": 101,
       "2024-01-31": 101,
       "2024-01-30": 153,
@@ -1689,7 +1690,7 @@
       "2023-12-17": 16,
       "2023-12-15": 947,
       "2023-12-14": 1489,
-      "2023-12-13": 332
+      "2023-12-13": 313
     }
   },
   {
@@ -1715,18 +1716,20 @@
     "url": "https://torproject.org",
     "icon": "https://icons.duckduckgo.com/ip3/torproject.org.ico",
     "slug": "tor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 957,
+    "time": 958,
     "timeDay": 1107,
     "timeWeek": 1070,
     "timeMonth": 1037,
     "timeYear": 1063,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-02": 3
+    }
   },
   {
     "name": "Bitwarden",
