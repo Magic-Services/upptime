@@ -388,7 +388,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 636,
-    "timeYear": 1055,
+    "timeYear": 1056,
     "dailyMinutesDown": {
       "2023-10-21": 781,
       "2023-10-20": 1440,
@@ -507,7 +507,7 @@
     "timeDay": 388,
     "timeWeek": 416,
     "timeMonth": 597,
-    "timeYear": 14316,
+    "timeYear": 14319,
     "dailyMinutesDown": {
       "2023-12-15": 911,
       "2023-12-14": 1440,
@@ -1643,19 +1643,19 @@
     "url": "https://status.im",
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "97.25%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "97.22%",
     "uptimeMonth": "78.66%",
-    "uptimeYear": "96.42%",
-    "time": 691,
-    "timeDay": 425,
-    "timeWeek": 443,
-    "timeMonth": 449,
-    "timeYear": 683,
+    "uptimeYear": "96.44%",
+    "time": 690,
+    "timeDay": 419,
+    "timeWeek": 439,
+    "timeMonth": 447,
+    "timeYear": 682,
     "dailyMinutesDown": {
-      "2024-02-19": 45,
+      "2024-02-19": 48,
       "2024-02-18": 60,
       "2024-02-17": 16,
       "2024-02-16": 64,
@@ -1702,7 +1702,7 @@
       "2023-12-29": 86,
       "2023-12-28": 131,
       "2023-12-27": 15,
-      "2023-12-26": 108
+      "2023-12-26": 21
     }
   },
   {
