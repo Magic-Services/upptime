@@ -1,7 +1,7 @@
 url: https://status.im
-status: up
-code: 200
-responseTime: 352
-lastUpdated: 2024-02-19T15:19:50.697Z
+status: down
+code: 502
+responseTime: 345
+lastUpdated: 2024-02-19T17:46:57.297Z
 startTime: 2022-01-04T17:31:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
