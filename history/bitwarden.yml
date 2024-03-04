@@ -1,7 +1,7 @@
 url: https://bitwarden.com
-status: down
-code: 503
-responseTime: 15057
-lastUpdated: 2024-03-04T20:14:51.770Z
+status: up
+code: 200
+responseTime: 300
+lastUpdated: 2024-03-04T20:25:42.350Z
 startTime: 2022-01-04T17:31:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
