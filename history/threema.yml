@@ -1,7 +1,7 @@
 url: https://threema.ch
-status: down
-code: 503
-responseTime: 740
-lastUpdated: 2024-03-11T19:07:29.803Z
+status: up
+code: 200
+responseTime: 1497
+lastUpdated: 2024-03-11T19:20:37.507Z
 startTime: 2022-01-04T17:31:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
