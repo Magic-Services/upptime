@@ -1331,18 +1331,20 @@
     "url": "https://epicgames.com",
     "icon": "https://icons.duckduckgo.com/ip3/epicgames.com.ico",
     "slug": "epic-games-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 111,
-    "timeWeek": 240,
-    "timeMonth": 225,
-    "timeYear": 462,
-    "dailyMinutesDown": {}
+    "timeDay": 104,
+    "timeWeek": 223,
+    "timeMonth": 221,
+    "timeYear": 461,
+    "dailyMinutesDown": {
+      "2024-03-11": 2
+    }
   },
   {
     "name": "itch.io",
@@ -1631,16 +1633,17 @@
     "slug": "status",
     "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "96.80%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "96.82%",
     "time": 667,
     "timeDay": 245,
     "timeWeek": 289,
     "timeMonth": 362,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2024-03-11": 3,
       "2024-03-09": 168,
       "2024-03-03": 24,
       "2024-03-01": 181,
@@ -1687,9 +1690,7 @@
       "2024-01-14": 715,
       "2024-01-13": 53,
       "2024-01-12": 1378,
-      "2024-01-11": 527,
-      "2024-01-08": 70,
-      "2024-01-07": 4
+      "2024-01-11": 527
     }
   },
   {
