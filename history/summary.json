@@ -383,7 +383,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1157,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2023-10-21": 781,
       "2023-10-20": 1440,
@@ -904,11 +904,11 @@
     "url": "https://umami.is",
     "icon": "https://icons.duckduckgo.com/ip3/umami.is.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "92.03%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.97%",
     "time": 275,
     "timeDay": 202,
@@ -916,7 +916,7 @@
     "timeMonth": 243,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-05-13": 115,
+      "2024-05-13": 117,
       "2024-01-17": 28
     }
   },
@@ -1637,7 +1637,7 @@
     "timeMonth": 290,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-05-13": 724,
+      "2024-05-13": 757,
       "2024-05-12": 2220,
       "2024-05-11": 2072,
       "2024-05-10": 1515,
@@ -1708,7 +1708,7 @@
       "2024-02-25": 25,
       "2024-02-24": 104,
       "2024-02-23": 52,
-      "2024-02-21": 36
+      "2024-02-21": 15
     }
   },
   {
@@ -1804,14 +1804,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.63%",
+    "uptimeYear": "86.62%",
     "time": 865,
     "timeDay": 198,
     "timeWeek": 307,
     "timeMonth": 292,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2024-05-13": 589,
+      "2024-05-13": 619,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
