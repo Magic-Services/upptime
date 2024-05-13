@@ -374,7 +374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "88.76%",
+    "uptime": "88.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -904,11 +904,11 @@
     "url": "https://umami.is",
     "icon": "https://icons.duckduckgo.com/ip3/umami.is.ico",
     "slug": "umami",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "78.60%",
-    "uptimeWeek": "96.94%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "78.46%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.94%",
     "time": 273,
     "timeDay": 204,
@@ -916,7 +916,7 @@
     "timeMonth": 240,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-05-13": 308,
+      "2024-05-13": 310,
       "2024-01-17": 28
     }
   },
@@ -1637,7 +1637,7 @@
     "timeMonth": 290,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2024-05-13": 1188,
+      "2024-05-13": 1204,
       "2024-05-12": 2220,
       "2024-05-11": 2072,
       "2024-05-10": 1515,
@@ -1706,8 +1706,7 @@
       "2024-02-27": 70,
       "2024-02-26": 69,
       "2024-02-25": 25,
-      "2024-02-24": 104,
-      "2024-02-23": 31
+      "2024-02-24": 104
     }
   },
   {
@@ -1810,7 +1809,7 @@
     "timeMonth": 292,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2024-05-13": 860,
+      "2024-05-13": 873,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
