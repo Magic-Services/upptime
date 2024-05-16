@@ -1436,19 +1436,19 @@
     "url": "https://protonmail.com",
     "icon": "https://icons.duckduckgo.com/ip3/protonmail.com.ico",
     "slug": "protonmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1498,
+    "time": 1490,
     "timeDay": 1557,
     "timeWeek": 1567,
     "timeMonth": 1494,
     "timeYear": 1504,
     "dailyMinutesDown": {
-      "2024-05-16": 21
+      "2024-05-16": 24
     }
   },
   {
@@ -1636,7 +1636,7 @@
     "timeMonth": 297,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2024-05-16": 1512,
+      "2024-05-16": 1528,
       "2024-05-13": 1846,
       "2024-05-12": 2220,
       "2024-05-11": 2072,
@@ -1705,7 +1705,7 @@
       "2024-03-01": 181,
       "2024-02-29": 124,
       "2024-02-28": 31,
-      "2024-02-27": 70
+      "2024-02-27": 49
     }
   },
   {
@@ -1797,7 +1797,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/unrealengine.com.ico",
     "slug": "unreal-engine",
     "status": "down",
-    "uptime": "93.81%",
+    "uptime": "93.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1808,7 +1808,7 @@
     "timeMonth": 292,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2024-05-16": 1369,
+      "2024-05-16": 1381,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
