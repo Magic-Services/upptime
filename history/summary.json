@@ -1438,9 +1438,9 @@
     "slug": "protonmail",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1490,
     "timeDay": 1557,
@@ -1448,7 +1448,7 @@
     "timeMonth": 1486,
     "timeYear": 1503,
     "dailyMinutesDown": {
-      "2024-05-16": 46
+      "2024-05-16": 37
     }
   },
   {
@@ -1625,18 +1625,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "93.27%",
+    "uptime": "93.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.07%",
+    "uptimeYear": "84.05%",
     "time": 612,
     "timeDay": 175,
     "timeWeek": 319,
     "timeMonth": 288,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2024-05-16": 1587,
+      "2024-05-16": 1599,
       "2024-05-13": 1846,
       "2024-05-12": 2220,
       "2024-05-11": 2072,
@@ -1669,6 +1669,7 @@
       "2024-03-28": 2207,
       "2024-03-27": 2352,
       "2024-03-25": 482,
+      "2024-05-17": 58,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-09": 1440,
@@ -1705,7 +1706,7 @@
       "2024-03-01": 181,
       "2024-02-29": 124,
       "2024-02-28": 31,
-      "2024-02-27": 17
+      "2024-02-27": 49
     }
   },
   {
@@ -1801,14 +1802,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.65%",
+    "uptimeYear": "85.63%",
     "time": 862,
     "timeDay": 146,
     "timeWeek": 284,
     "timeMonth": 285,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2024-05-16": 1419,
+      "2024-05-17": 58,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
