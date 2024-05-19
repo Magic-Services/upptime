@@ -330,10 +330,10 @@
     "url": "https://mstdn.social",
     "icon": "https://icons.duckduckgo.com/ip3/mstdn.social.ico",
     "slug": "mastodon-mstdn-social",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "58.26%",
-    "uptimeWeek": "94.04%",
+    "uptimeDay": "58.19%",
+    "uptimeWeek": "94.03%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.75%",
     "time": 829,
@@ -342,7 +342,7 @@
     "timeMonth": 885,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2024-05-19": 536,
+      "2024-05-19": 537,
       "2024-05-18": 66,
       "2023-12-14": 30,
       "2023-12-08": 70,
@@ -1629,18 +1629,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.im.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "92.99%",
+    "uptime": "93.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.37%",
+    "uptimeYear": "83.39%",
     "time": 610,
     "timeDay": 257,
     "timeWeek": 257,
     "timeMonth": 281,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2024-05-19": 1075,
+      "2024-05-19": 1110,
       "2024-05-18": 1525,
       "2024-05-17": 1478,
       "2024-05-16": 1599,
@@ -1707,7 +1707,7 @@
       "2024-03-13": 69,
       "2024-03-12": 21,
       "2024-03-11": 18,
-      "2024-03-09": 168
+      "2024-03-09": 18
     }
   },
   {
@@ -1810,7 +1810,7 @@
     "timeMonth": 288,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2024-05-19": 539,
+      "2024-05-19": 571,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
