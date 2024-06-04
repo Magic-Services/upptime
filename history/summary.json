@@ -391,7 +391,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1103,
+    "timeYear": 1102,
     "dailyMinutesDown": {
       "2023-10-21": 781,
       "2023-10-20": 1440,
@@ -733,7 +733,7 @@
     "timeDay": 1595,
     "timeWeek": 1870,
     "timeMonth": 1874,
-    "timeYear": 1648,
+    "timeYear": 1622,
     "dailyMinutesDown": {}
   },
   {
@@ -1474,10 +1474,10 @@
     "url": "https://mullvad.net",
     "icon": "https://icons.duckduckgo.com/ip3/mullvad.net.ico",
     "slug": "mullvad-vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.52%",
     "time": 986,
@@ -1486,6 +1486,7 @@
     "timeMonth": 1002,
     "timeYear": 987,
     "dailyMinutesDown": {
+      "2024-06-04": 3,
       "2024-05-04": 16,
       "2024-04-17": 26,
       "2024-04-10": 18,
@@ -1643,9 +1644,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "76.73%",
-    "uptimeMonth": "75.18%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "76.70%",
+    "uptimeMonth": "75.17%",
     "uptimeYear": "97.61%",
     "time": 599,
     "timeDay": 291,
@@ -1653,6 +1654,7 @@
     "timeMonth": 316,
     "timeYear": 561,
     "dailyMinutesDown": {
+      "2024-06-04": 3,
       "2024-06-02": 474,
       "2024-06-01": 1711,
       "2024-05-31": 68,
@@ -1685,7 +1687,7 @@
       "2024-04-23": 18,
       "2024-04-22": 547,
       "2024-04-21": 295,
-      "2024-04-20": 92
+      "2024-04-20": 62
     }
   },
   {
@@ -1778,18 +1780,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unrealengine.com.ico",
     "slug": "unreal-engine",
     "status": "down",
-    "uptime": "91.88%",
+    "uptime": "91.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.70%",
+    "uptimeYear": "80.61%",
     "time": 852,
     "timeDay": 229,
     "timeWeek": 327,
     "timeMonth": 295,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-06-04": 60,
+      "2024-06-04": 532,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
