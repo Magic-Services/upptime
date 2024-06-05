@@ -391,7 +391,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1100,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2023-10-21": 781,
       "2023-10-20": 1440,
@@ -765,11 +765,11 @@
     "url": "https://tchncs.de",
     "icon": "https://icons.duckduckgo.com/ip3/tchncs.de.ico",
     "slug": "tchncs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 1018,
     "timeDay": 891,
@@ -777,6 +777,7 @@
     "timeMonth": 1191,
     "timeYear": 1079,
     "dailyMinutesDown": {
+      "2024-06-05": 2,
       "2024-06-02": 19,
       "2024-04-15": 43,
       "2023-06-20": 274
@@ -982,12 +983,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 32,
     "timeWeek": 121,
     "timeMonth": 140,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2023-06-07": 21
     }
@@ -1642,9 +1643,9 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "77.45%",
-    "uptimeMonth": "75.26%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "77.42%",
+    "uptimeMonth": "75.25%",
     "uptimeYear": "97.61%",
     "time": 597,
     "timeDay": 222,
@@ -1652,6 +1653,7 @@
     "timeMonth": 317,
     "timeYear": 560,
     "dailyMinutesDown": {
+      "2024-06-05": 3,
       "2024-06-02": 474,
       "2024-06-01": 1711,
       "2024-05-31": 68,
@@ -1684,7 +1686,7 @@
       "2024-04-23": 18,
       "2024-04-22": 547,
       "2024-04-21": 295,
-      "2024-04-20": 92
+      "2024-04-20": 62
     }
   },
   {
@@ -1777,18 +1779,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unrealengine.com.ico",
     "slug": "unreal-engine",
     "status": "down",
-    "uptime": "91.78%",
+    "uptime": "91.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.43%",
+    "uptimeYear": "80.35%",
     "time": 851,
     "timeDay": 220,
     "timeWeek": 299,
     "timeMonth": 295,
     "timeYear": 866,
     "dailyMinutesDown": {
-      "2024-06-05": 60,
+      "2024-06-05": 480,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
