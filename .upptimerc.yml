@@ -36,18 +36,9 @@ sites:
       - 201
       - 301
       - 302
-      - 403
-  - name: Mastodon
-    url: https://joinmastodon.org
-    icon: 
-  - name: Mastodon (mastodon.social)
-    url: https://mastodon.social
-    icon: 
+      - 403 
   - name: Mastodon (mstdn.social)
     url: https://mstdn.social
-    icon: 
-  - name: Mastodon (social.tchncs.de)
-    url: https://social.tchncs.de
     icon: 
   - name: Nitter (nitter.net)
     url: https://nitter.net
@@ -61,13 +52,7 @@ sites:
   - name: Piped (piped.kavin.rocks)
     url: https://piped.kavin.rocks
     icon: 
-  - name: Peertube
-    url: https://joinpeertube.org
-    icon:
   - name: Peertube (peertube.tv)
-    url: https://tube.tchncs.de
-    icon:
-  - name: Peertube (tube.tchncs.de)
     url: https://tube.tchncs.de
     icon:
   - name: Pixelfed
@@ -75,18 +60,6 @@ sites:
     icon:
   - name: Pixelfed (pixey.org)
     url: https://pixey.org
-    icon:
-  - name: Pixelfed (pixel.tchncs.de)
-    url: https://pixel.tchncs.de
-    icon:
-  - name: Funkwhale
-    url: https://funkwhale.audio
-    icon:
-  - name: Funkwhale (funk.firobe.fr)
-    url: https://funk.firobe.fr
-    icon:
-  - name: tchncs
-    url: https://tchncs.de
     icon:
   - name: FediDB
     url: https://fedidb.org
@@ -118,14 +91,8 @@ sites:
   - name: Kutt
     url: https://kutt.it
     icon:
-  - name: umami
-    url: https://umami.is
-    icon:
   - name: umami (instance)
     url: $UMAMI_INSTANCE
-    icon:
-  - name: listmonk
-    url: https://listmonk.app
     icon:
   - name: Shields.io
     url: https://shields.io
@@ -138,9 +105,6 @@ sites:
     icon:
   - name: Webblate (hosted.weblate.org)
     url: https://hosted.weblate.org
-    icon:
-  - name: Nextcloud
-    url: https://nextcloud.com
     icon:
   - name: Nextcloud (semi-public instance)
     url: $NC_SEMI_PUBLIC
@@ -189,41 +153,14 @@ sites:
   - name: Mullvad VPN
     url: https://mullvad.net
     icon: 
-  - name: Signal
-    url: https://signal.org
-    icon: 
-  - name: Threema
-    url: https://threema.ch
-    icon: 
   - name: Discord
     url: https://discord.com
     icon: 
-  - name: Matrix
-    url: https://matrix.org
-    icon: 
-  - name: Rocket.Chat
-    url: https://rocket.chat
-    icon: 
-  - name: Session
-    url: https://getsession.org
-    icon:
-  - name: Status
-    url: https://status.im
-    icon:
-  - name: Cwtch
-    url: https://cwtch.im
-    icon:
-  - name: Tor
+  - name: Torproject
     url: https://torproject.org
     icon: 
   - name: Bitwarden
     url: https://bitwarden.com
-    icon:
-  - name: Unity
-    url: https://unity.com
-    icon:
-  - name: Unreal Engine
-    url: https://unrealengine.com
     icon:
   - name: Folding @ Home
     url: https://foldingathome.org
