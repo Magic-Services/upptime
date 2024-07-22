@@ -328,7 +328,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.05%",
+    "uptimeYear": "75.07%",
     "time": 1663,
     "timeDay": 0,
     "timeWeek": 0,
@@ -504,7 +504,7 @@
     "slug": "peertube-peertube-tv",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "90.56%",
+    "uptimeDay": "97.66%",
     "uptimeWeek": "93.84%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.44%",
@@ -1101,9 +1101,9 @@
     "slug": "tutanota",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 1201,
     "timeDay": 1662,
@@ -1111,7 +1111,6 @@
     "timeMonth": 1420,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2024-07-22": 10,
       "2024-04-03": 582,
       "2024-04-02": 847,
       "2024-03-28": 644,
@@ -1245,10 +1244,10 @@
     "url": "https://foldingathome.org",
     "icon": "https://icons.duckduckgo.com/ip3/foldingathome.org.ico",
     "slug": "folding-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
@@ -1256,7 +1255,9 @@
     "timeWeek": 346,
     "timeMonth": 394,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-22": 2
+    }
   },
   {
     "name": "Internet Archive",
