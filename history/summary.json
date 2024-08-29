@@ -322,7 +322,7 @@
     "uptime": "88.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.91%",
+    "uptimeMonth": "36.89%",
     "uptimeYear": "80.25%",
     "time": 1687,
     "timeDay": 0,
@@ -330,7 +330,7 @@
     "timeMonth": 797,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2024-08-29": 934,
+      "2024-08-29": 943,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -419,7 +419,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 13641,
+    "timeYear": 13636,
     "dailyMinutesDown": {
       "2023-12-15": 911,
       "2023-12-14": 1440,
@@ -630,19 +630,19 @@
     "url": "https://opencollective.com",
     "icon": "https://icons.duckduckgo.com/ip3/opencollective.com.ico",
     "slug": "open-collective",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 518,
-    "timeWeek": 304,
-    "timeMonth": 328,
+    "timeDay": 377,
+    "timeWeek": 295,
+    "timeMonth": 325,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-08-29": 1
+      "2024-08-29": 9
     }
   },
   {
@@ -1010,7 +1010,7 @@
     "time": 557,
     "timeDay": 54,
     "timeWeek": 282,
-    "timeMonth": 400,
+    "timeMonth": 382,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2024-08-18": 21,
