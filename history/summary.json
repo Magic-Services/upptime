@@ -328,7 +328,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "down",
-    "uptime": "84.44%",
+    "uptime": "84.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -339,7 +339,8 @@
     "timeMonth": 0,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2024-10-09": 1413,
+      "2024-10-10": 67,
+      "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -409,8 +410,7 @@
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
-      "2023-10-12": 1440,
-      "2023-10-11": 1440
+      "2023-10-12": 1440
     }
   },
   {
@@ -428,7 +428,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 12235,
+    "timeYear": 12227,
     "dailyMinutesDown": {
       "2023-12-15": 911,
       "2023-12-14": 1440,
@@ -1114,7 +1114,7 @@
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.88%",
     "time": 937,
     "timeDay": 777,
@@ -1165,9 +1165,7 @@
     "timeWeek": 122,
     "timeMonth": 104,
     "timeYear": 95,
-    "dailyMinutesDown": {
-      "2023-10-11": 26
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Torproject",
