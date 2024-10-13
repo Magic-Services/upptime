@@ -1,7 +1,7 @@
 url: https://magiclike.codeberg.page
-status: up
-code: 200
-responseTime: 630
-lastUpdated: 2024-10-12T23:13:32.648Z
+status: down
+code: 500
+responseTime: 10709
+lastUpdated: 2024-10-13T22:21:04.109Z
 startTime: 2022-04-09T22:00:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
