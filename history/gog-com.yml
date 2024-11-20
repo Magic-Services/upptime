@@ -1,7 +1,7 @@
 url: https://gog.com
-status: down
-code: 503
-responseTime: 6543
-lastUpdated: 2024-11-20T12:26:23.498Z
+status: up
+code: 200
+responseTime: 2413
+lastUpdated: 2024-11-20T13:01:47.823Z
 startTime: 2023-04-23T19:41:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
