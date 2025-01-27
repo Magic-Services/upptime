@@ -372,13 +372,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.55%",
+    "uptimeYear": "53.54%",
     "time": 756,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 797,
     "dailyMinutesDown": {
+      "2025-01-27": 68,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -692,8 +693,7 @@
       "2025-01-07": 39,
       "2024-08-25": 229,
       "2024-08-24": 38,
-      "2024-01-29": 1263,
-      "2024-01-28": 1440
+      "2024-01-29": 1263
     }
   },
   {
@@ -1338,17 +1338,17 @@
     "slug": "internet-archive",
     "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.16%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "96.15%",
     "time": 570,
     "timeDay": 288,
     "timeWeek": 290,
     "timeMonth": 506,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-01-27": 1,
+      "2025-01-27": 70,
       "2025-01-26": 1,
       "2024-12-14": 149,
       "2024-11-15": 35,
