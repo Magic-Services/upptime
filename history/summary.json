@@ -365,10 +365,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/nitter.net.ico",
     "slug": "nitter-nitter-net",
     "status": "up",
-    "uptime": "76.00%",
-    "uptimeDay": "79.54%",
-    "uptimeWeek": "11.36%",
-    "uptimeMonth": "0.71%",
+    "uptime": "76.01%",
+    "uptimeDay": "84.74%",
+    "uptimeWeek": "12.11%",
+    "uptimeMonth": "0.88%",
     "uptimeYear": "52.67%",
     "time": 749,
     "timeDay": 377,
@@ -938,8 +938,7 @@
       "2024-04-20": 30,
       "2024-04-19": 23,
       "2024-02-11": 17,
-      "2024-02-07": 59,
-      "2024-02-01": 101
+      "2024-02-07": 59
     }
   },
   {
