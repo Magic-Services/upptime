@@ -834,18 +834,20 @@
     "url": "$UMAMI_INSTANCE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
+    "time": 382,
     "timeDay": 613,
     "timeWeek": 408,
     "timeMonth": 420,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 1
+    }
   },
   {
     "name": "Shields.io",
@@ -1358,7 +1360,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/archive.org.ico",
     "slug": "internet-archive",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
