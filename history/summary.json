@@ -1036,18 +1036,16 @@
     "slug": "steam",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
     "timeDay": 484,
     "timeWeek": 533,
     "timeMonth": 537,
     "timeYear": 568,
-    "dailyMinutesDown": {
-      "2025-03-11": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Steam Community",
