@@ -640,7 +640,7 @@
     "time": 1089,
     "timeDay": 1250,
     "timeWeek": 921,
-    "timeMonth": 1016,
+    "timeMonth": 1022,
     "timeYear": 1009,
     "dailyMinutesDown": {
       "2025-03-13": 34,
@@ -1023,36 +1023,36 @@
     "slug": "cryptpad",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
     "timeDay": 710,
     "timeWeek": 553,
     "timeMonth": 607,
     "timeYear": 588,
-    "dailyMinutesDown": {
-      "2025-03-29": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Steam",
     "url": "https://store.steampowered.com",
     "icon": "https://icons.duckduckgo.com/ip3/store.steampowered.com.ico",
     "slug": "steam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
+    "time": 541,
     "timeDay": 391,
     "timeWeek": 557,
     "timeMonth": 518,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-29": 2
+    }
   },
   {
     "name": "Steam Community",
@@ -1123,12 +1123,12 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.24%",
     "time": 610,
     "timeDay": 304,
-    "timeWeek": 784,
+    "timeWeek": 822,
     "timeMonth": 514,
     "timeYear": 606,
     "dailyMinutesDown": {
