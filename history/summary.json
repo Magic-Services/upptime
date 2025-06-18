@@ -1269,7 +1269,7 @@
     "timeDay": 810,
     "timeWeek": 820,
     "timeMonth": 882,
-    "timeYear": 884,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2024-10-30": 30,
       "2024-10-14": 22,
@@ -1291,19 +1291,19 @@
     "url": "https://discord.com",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 162,
-    "timeWeek": 167,
-    "timeMonth": 157,
-    "timeYear": 108,
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
+    "time": 110,
+    "timeDay": 185,
+    "timeWeek": 175,
+    "timeMonth": 159,
+    "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-06-18": 2
+      "2025-06-18": 46
     }
   },
   {
