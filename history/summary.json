@@ -4,10 +4,10 @@
     "url": "https://magiclike.net",
     "icon": "https://icons.duckduckgo.com/ip3/magiclike.net.ico",
     "slug": "magic-like",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "54.95%",
-    "uptimeWeek": "67.56%",
+    "uptimeDay": "54.88%",
+    "uptimeWeek": "67.55%",
     "uptimeMonth": "92.45%",
     "uptimeYear": "99.21%",
     "time": 923,
@@ -16,7 +16,7 @@
     "timeMonth": 917,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2025-07-10": 502,
+      "2025-07-10": 503,
       "2025-07-09": 393,
       "2025-07-08": 681,
       "2025-07-07": 645,
@@ -55,8 +55,7 @@
       "2024-11-09": 19,
       "2024-11-08": 19,
       "2024-10-24": 95,
-      "2024-10-23": 84,
-      "2024-09-30": 15
+      "2024-10-23": 84
     }
   },
   {
@@ -846,17 +845,16 @@
     "slug": "umami-instance",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 437,
     "timeDay": 879,
     "timeWeek": 937,
     "timeMonth": 802,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-07-10": 11,
       "2025-07-07": 24
     }
   },
@@ -986,10 +984,10 @@
     "url": "$NC_SEMI_PUBLIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-semi-public-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "55.27%",
-    "uptimeWeek": "67.87%",
+    "uptimeDay": "55.16%",
+    "uptimeWeek": "67.85%",
     "uptimeMonth": "92.39%",
     "uptimeYear": "99.24%",
     "time": 1213,
@@ -998,7 +996,7 @@
     "timeMonth": 1286,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2025-07-10": 499,
+      "2025-07-10": 501,
       "2025-07-09": 387,
       "2025-07-08": 678,
       "2025-07-07": 639,
@@ -1033,8 +1031,7 @@
       "2024-11-19": 23,
       "2024-11-12": 20,
       "2024-11-09": 34,
-      "2024-11-08": 40,
-      "2024-11-05": 16
+      "2024-11-08": 40
     }
   },
   {
