@@ -4,19 +4,19 @@
     "url": "https://magiclike.net",
     "icon": "https://icons.duckduckgo.com/ip3/magiclike.net.ico",
     "slug": "magic-like",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "52.87%",
-    "uptimeWeek": "64.39%",
+    "uptimeDay": "54.20%",
+    "uptimeWeek": "64.72%",
     "uptimeMonth": "90.58%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 918,
-    "timeDay": 924,
-    "timeWeek": 921,
+    "timeDay": 937,
+    "timeWeek": 923,
     "timeMonth": 934,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-07-12": 261,
+      "2025-07-12": 262,
       "2025-07-11": 435,
       "2025-07-10": 625,
       "2025-07-09": 393,
@@ -41,8 +41,7 @@
       "2025-01-20": 19,
       "2025-01-15": 17,
       "2025-01-09": 16,
-      "2025-01-04": 24,
-      "2025-01-03": 21
+      "2025-01-04": 24
     }
   },
   {
@@ -971,19 +970,19 @@
     "url": "$NC_SEMI_PUBLIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-semi-public-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "53.28%",
-    "uptimeWeek": "64.76%",
+    "uptimeDay": "54.53%",
+    "uptimeWeek": "65.08%",
     "uptimeMonth": "90.54%",
     "uptimeYear": "99.16%",
     "time": 1211,
-    "timeDay": 1288,
-    "timeWeek": 1302,
+    "timeDay": 1300,
+    "timeWeek": 1303,
     "timeMonth": 1293,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2025-07-12": 261,
+      "2025-07-12": 263,
       "2025-07-11": 431,
       "2025-07-10": 621,
       "2025-07-09": 387,
@@ -1006,8 +1005,7 @@
       "2025-01-23": 22,
       "2025-01-20": 19,
       "2025-01-15": 17,
-      "2025-01-09": 15,
-      "2025-01-04": 24
+      "2025-01-09": 15
     }
   },
   {
