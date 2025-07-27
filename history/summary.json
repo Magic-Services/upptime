@@ -1291,19 +1291,19 @@
     "url": "https://bitwarden.com",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.com.ico",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 140,
-    "timeWeek": 134,
-    "timeMonth": 118,
-    "timeYear": 225,
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 212,
+    "timeDay": 102,
+    "timeWeek": 125,
+    "timeMonth": 116,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-07-27": 2
+      "2025-07-27": 31
     }
   },
   {
