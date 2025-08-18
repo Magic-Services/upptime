@@ -35,19 +35,19 @@
     "url": "https://magiclike.codeberg.page",
     "icon": "https://icons.duckduckgo.com/ip3/magiclike.codeberg.page.ico",
     "slug": "magic-like-old",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "98.01%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "98.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "98.54%",
-    "time": 1204,
+    "time": 1186,
     "timeDay": 2488,
     "timeWeek": 1834,
     "timeMonth": 1119,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2025-08-18": 17,
+      "2025-08-18": 18,
       "2025-08-15": 124,
       "2025-08-14": 37,
       "2025-08-13": 22,
@@ -131,7 +131,7 @@
       "2024-10-03": 16,
       "2024-09-29": 33,
       "2024-09-27": 672,
-      "2024-09-26": 301
+      "2024-09-26": 262
     }
   },
   {
@@ -369,7 +369,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "54.86%",
+    "uptimeYear": "54.88%",
     "time": 784,
     "timeDay": 703,
     "timeWeek": 687,
