@@ -1,7 +1,7 @@
 url: https://store.steampowered.com
-status: down
-code: 503
-responseTime: 284
-lastUpdated: 2025-10-07T16:40:32.275Z
+status: up
+code: 200
+responseTime: 8107
+lastUpdated: 2025-10-07T16:55:04.655Z
 startTime: 2022-01-04T17:31:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
