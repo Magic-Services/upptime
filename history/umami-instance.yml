@@ -1,7 +1,7 @@
 url: $UMAMI_INSTANCE
-status: up
-code: 200
-responseTime: 1244
-lastUpdated: 2025-10-18T23:14:12.093Z
+status: down
+code: 500
+responseTime: 21671
+lastUpdated: 2025-10-20T07:52:41.962Z
 startTime: 2023-04-23T19:41:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
