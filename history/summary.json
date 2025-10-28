@@ -330,8 +330,7 @@
       "2024-11-11": 23,
       "2024-11-05": 37,
       "2024-11-04": 20,
-      "2024-10-30": 28,
-      "2024-10-28": 31
+      "2024-10-30": 28
     }
   },
   {
@@ -344,11 +343,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "74.13%",
+    "uptimeYear": "74.15%",
     "time": 740,
     "timeDay": 741,
     "timeWeek": 615,
-    "timeMonth": 632,
+    "timeMonth": 611,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2025-10-24": 26,
@@ -452,8 +451,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 1440,
-      "2024-10-28": 1440
+      "2024-10-29": 1440
     }
   },
   {
@@ -934,9 +932,9 @@
     "slug": "steam",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 600,
     "timeDay": 475,
@@ -944,7 +942,6 @@
     "timeMonth": 713,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2025-10-27": 14,
       "2025-09-04": 19,
       "2025-07-16": 23,
       "2025-06-25": 29,
@@ -960,9 +957,9 @@
     "slug": "steam-community",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 417,
     "timeDay": 383,
@@ -970,7 +967,6 @@
     "timeMonth": 859,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2025-10-27": 14,
       "2025-10-07": 37,
       "2025-09-04": 19,
       "2025-09-02": 24,
@@ -1038,8 +1034,8 @@
     "uptime": "98.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.75%",
-    "uptimeYear": "96.32%",
+    "uptimeMonth": "65.51%",
+    "uptimeYear": "96.30%",
     "time": 621,
     "timeDay": 256,
     "timeWeek": 232,
@@ -1049,7 +1045,8 @@
       "2025-10-21": 2654,
       "2025-10-20": 2880,
       "2025-10-19": 337,
-      "2025-10-27": 1413,
+      "2025-10-28": 76,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -1155,7 +1152,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/protonmail.com.ico",
     "slug": "protonmail",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
