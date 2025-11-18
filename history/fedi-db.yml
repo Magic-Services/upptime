@@ -1,7 +1,7 @@
 url: https://fedidb.org
-status: down
-code: 500
-responseTime: 194
-lastUpdated: 2025-11-18T13:17:17.633Z
+status: up
+code: 200
+responseTime: 186
+lastUpdated: 2025-11-18T14:54:59.896Z
 startTime: 2022-01-04T17:30:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
