@@ -4,18 +4,19 @@
     "url": "https://magiclike.net",
     "icon": "https://icons.duckduckgo.com/ip3/magiclike.net.ico",
     "slug": "magic-like",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.10%",
-    "time": 947,
+    "time": 946,
     "timeDay": 777,
     "timeWeek": 1025,
     "timeMonth": 1113,
     "timeYear": 948,
     "dailyMinutesDown": {
+      "2025-11-22": 1,
       "2025-11-20": 46,
       "2025-11-19": 22,
       "2025-11-02": 24,
@@ -31,7 +32,7 @@
       "2025-07-09": 393,
       "2025-07-08": 681,
       "2025-07-07": 645,
-      "2025-07-06": 160
+      "2025-07-06": 119
     }
   },
   {
@@ -254,9 +255,9 @@
     "slug": "codeberg",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.68%",
     "time": 1386,
     "timeDay": 1798,
@@ -264,7 +265,6 @@
     "timeMonth": 940,
     "timeYear": 1105,
     "dailyMinutesDown": {
-      "2025-11-22": 14,
       "2025-11-18": 88,
       "2025-11-13": 23,
       "2025-11-06": 85,
@@ -341,7 +341,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "81.09%",
+    "uptimeYear": "81.10%",
     "time": 736,
     "timeDay": 370,
     "timeWeek": 691,
@@ -859,10 +859,10 @@
     "url": "$NC_SEMI_PUBLIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-semi-public-instance",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.11%",
     "time": 1255,
@@ -871,6 +871,7 @@
     "timeMonth": 1346,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2025-11-22": 2,
       "2025-11-20": 46,
       "2025-11-19": 22,
       "2025-11-02": 24,
@@ -885,7 +886,7 @@
       "2025-07-09": 387,
       "2025-07-08": 678,
       "2025-07-07": 639,
-      "2025-07-06": 179
+      "2025-07-06": 158
     }
   },
   {
@@ -1020,7 +1021,7 @@
     "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.55%",
-    "uptimeMonth": "59.07%",
+    "uptimeMonth": "59.19%",
     "uptimeYear": "94.45%",
     "time": 641,
     "timeDay": 216,
