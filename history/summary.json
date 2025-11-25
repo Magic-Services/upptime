@@ -4,10 +4,10 @@
     "url": "https://magiclike.net",
     "icon": "https://icons.duckduckgo.com/ip3/magiclike.net.ico",
     "slug": "magic-like",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.10%",
     "time": 949,
@@ -16,7 +16,7 @@
     "timeMonth": 1123,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-11-25": 21,
+      "2025-11-25": 22,
       "2025-11-20": 46,
       "2025-11-19": 22,
       "2025-11-02": 24,
@@ -32,7 +32,7 @@
       "2025-07-09": 393,
       "2025-07-08": 681,
       "2025-07-07": 645,
-      "2025-07-06": 119
+      "2025-07-06": 98
     }
   },
   {
@@ -44,12 +44,12 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.59%",
-    "uptimeMonth": "97.42%",
+    "uptimeMonth": "97.48%",
     "uptimeYear": "98.90%",
     "time": 1172,
     "timeDay": 535,
     "timeWeek": 641,
-    "timeMonth": 1288,
+    "timeMonth": 1303,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2025-11-18": 142,
@@ -341,7 +341,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "81.89%",
+    "uptimeYear": "81.91%",
     "time": 735,
     "timeDay": 495,
     "timeWeek": 662,
@@ -853,10 +853,10 @@
     "url": "$NC_SEMI_PUBLIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud-semi-public-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.11%",
     "time": 1256,
@@ -865,7 +865,7 @@
     "timeMonth": 1346,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2025-11-25": 21,
+      "2025-11-25": 23,
       "2025-11-20": 46,
       "2025-11-19": 22,
       "2025-11-02": 24,
@@ -880,7 +880,7 @@
       "2025-07-09": 387,
       "2025-07-08": 678,
       "2025-07-07": 639,
-      "2025-07-06": 158
+      "2025-07-06": 117
     }
   },
   {
@@ -1015,7 +1015,7 @@
     "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.55%",
-    "uptimeMonth": "68.69%",
+    "uptimeMonth": "68.95%",
     "uptimeYear": "94.45%",
     "time": 641,
     "timeDay": 347,
