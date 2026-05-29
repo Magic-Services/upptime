@@ -620,9 +620,9 @@
     "status": "down",
     "uptime": "99.59%",
     "uptimeDay": "73.22%",
-    "uptimeWeek": "84.88%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "98.19%",
+    "uptimeWeek": "84.34%",
+    "uptimeMonth": "89.63%",
+    "uptimeYear": "98.18%",
     "time": 284,
     "timeDay": 136,
     "timeWeek": 153,
@@ -681,7 +681,7 @@
       "2026-05-26": 229,
       "2026-05-27": 252,
       "2026-05-28": 495,
-      "2026-05-29": 11
+      "2026-05-29": 66
     }
   },
   {
@@ -711,7 +711,7 @@
     "uptime": "94.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.88%",
+    "uptimeMonth": "50.01%",
     "uptimeYear": "78.89%",
     "time": 605,
     "timeDay": 481,
@@ -813,11 +813,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami-instance",
     "status": "down",
-    "uptime": "94.71%",
+    "uptime": "94.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.60%",
+    "uptimeYear": "83.59%",
     "time": 788,
     "timeDay": 0,
     "timeWeek": 0,
@@ -838,7 +838,7 @@
       "2025-09-14": 18,
       "2025-10-08": 24,
       "2025-10-20": 90,
-      "2026-05-29": 121,
+      "2026-05-29": 176,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -971,10 +971,10 @@
     "slug": "webblate-hosted-weblate-org",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "85.91%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "82.11%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.57%",
     "time": 1174,
     "timeDay": 562,
     "timeWeek": 707,
@@ -1005,7 +1005,7 @@
       "2026-04-19": 44,
       "2026-05-05": 106,
       "2026-05-28": 101,
-      "2026-05-29": 102
+      "2026-05-29": 157
     }
   },
   {
