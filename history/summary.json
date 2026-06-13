@@ -14,7 +14,7 @@
     "timeDay": 1054,
     "timeWeek": 900,
     "timeMonth": 848,
-    "timeYear": 934,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2025-07-11": 335,
       "2025-07-12": 645,
@@ -81,7 +81,7 @@
     "timeDay": 10569,
     "timeWeek": 3416,
     "timeMonth": 1731,
-    "timeYear": 1228,
+    "timeYear": 1229,
     "dailyMinutesDown": {
       "2025-06-19": 27,
       "2025-06-20": 26,
@@ -247,7 +247,7 @@
     "timeDay": 499,
     "timeWeek": 204,
     "timeMonth": 164,
-    "timeYear": 241,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2025-08-22": 22,
       "2025-09-12": 24,
@@ -369,7 +369,7 @@
     "timeDay": 720,
     "timeWeek": 791,
     "timeMonth": 799,
-    "timeYear": 896,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-07-14": 19
     }
@@ -389,7 +389,7 @@
     "timeDay": 737,
     "timeWeek": 565,
     "timeMonth": 533,
-    "timeYear": 763,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-07-15": 72,
       "2025-07-16": 96,
@@ -610,7 +610,7 @@
     "timeDay": 630,
     "timeWeek": 401,
     "timeMonth": 445,
-    "timeYear": 531,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2025-10-07": 18,
       "2025-11-18": 106
@@ -621,19 +621,19 @@
     "url": "https://opencollective.com",
     "icon": "https://icons.duckduckgo.com/ip3/opencollective.com.ico",
     "slug": "open-collective",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "82.38%",
-    "uptimeMonth": "85.03%",
-    "uptimeYear": "97.76%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "82.36%",
+    "uptimeMonth": "85.17%",
+    "uptimeYear": "97.77%",
     "time": 270,
-    "timeDay": 163,
-    "timeWeek": 135,
+    "timeDay": 138,
+    "timeWeek": 131,
     "timeMonth": 130,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2026-04-08": 213,
+      "2026-04-08": 131,
       "2026-04-09": 202,
       "2026-04-10": 165,
       "2026-04-11": 172,
@@ -688,7 +688,7 @@
       "2026-06-10": 260,
       "2026-06-12": 17,
       "2026-06-11": 66,
-      "2026-06-13": 148
+      "2026-06-13": 150
     }
   },
   {
@@ -715,16 +715,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kutt.it.ico",
     "slug": "kutt",
     "status": "down",
-    "uptime": "94.92%",
+    "uptime": "94.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.68%",
-    "uptimeMonth": "83.44%",
-    "uptimeYear": "78.52%",
+    "uptimeWeek": "79.25%",
+    "uptimeMonth": "83.11%",
+    "uptimeYear": "78.49%",
     "time": 626,
     "timeDay": 66,
     "timeWeek": 907,
     "timeMonth": 803,
-    "timeYear": 637,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2025-07-27": 24,
       "2025-08-13": 19,
@@ -812,7 +812,7 @@
       "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 413,
-      "2026-06-13": 1259,
+      "2026-06-13": 1403,
       "2026-06-12": 688
     }
   },
@@ -822,16 +822,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "umami-instance",
     "status": "down",
-    "uptime": "93.40%",
+    "uptime": "93.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.27%",
+    "uptimeYear": "79.25%",
     "time": 799,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 961,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2025-07-07": 24,
       "2025-08-09": 25,
@@ -847,7 +847,7 @@
       "2025-09-14": 18,
       "2025-10-08": 24,
       "2025-10-20": 90,
-      "2026-06-13": 1259,
+      "2026-06-13": 1403,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1004,7 +1004,7 @@
     "timeDay": 748,
     "timeWeek": 4964,
     "timeMonth": 2288,
-    "timeYear": 1341,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2025-07-03": 25,
       "2025-08-02": 40,
@@ -1047,7 +1047,7 @@
     "timeDay": 1782,
     "timeWeek": 1601,
     "timeMonth": 1577,
-    "timeYear": 1295,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2025-07-11": 332,
       "2025-07-12": 641,
@@ -1246,7 +1246,7 @@
     "timeDay": 281,
     "timeWeek": 186,
     "timeMonth": 170,
-    "timeYear": 519,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2025-06-28": 73,
       "2025-07-08": 476,
@@ -1315,7 +1315,7 @@
     "timeDay": 2487,
     "timeWeek": 1790,
     "timeMonth": 1608,
-    "timeYear": 2161,
+    "timeYear": 2159,
     "dailyMinutesDown": {
       "2025-06-21": 29,
       "2025-07-06": 36,
@@ -1340,7 +1340,7 @@
     "timeDay": 1845,
     "timeWeek": 1583,
     "timeMonth": 1586,
-    "timeYear": 1703,
+    "timeYear": 1702,
     "dailyMinutesDown": {
       "2025-12-03": 23
     }
@@ -1378,7 +1378,7 @@
     "timeDay": 1416,
     "timeWeek": 1137,
     "timeMonth": 1203,
-    "timeYear": 940,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2026-06-09": 221
     }
@@ -1398,7 +1398,7 @@
     "timeDay": 148,
     "timeWeek": 93,
     "timeMonth": 80,
-    "timeYear": 124,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2025-06-18": 46,
       "2025-07-24": 18,
@@ -1464,7 +1464,7 @@
     "timeDay": 355,
     "timeWeek": 293,
     "timeMonth": 308,
-    "timeYear": 387,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2025-11-18": 87,
       "2025-12-10": 69
@@ -1485,7 +1485,7 @@
     "timeDay": 185,
     "timeWeek": 248,
     "timeMonth": 248,
-    "timeYear": 416,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2025-07-28": 69,
       "2025-07-27": 8,
@@ -1535,7 +1535,7 @@
     "timeDay": 412,
     "timeWeek": 630,
     "timeMonth": 1151,
-    "timeYear": 812,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2025-08-14": 28,
       "2025-09-02": 22,
