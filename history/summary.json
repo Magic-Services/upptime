@@ -214,16 +214,16 @@
     "url": "https://duckduckgo.com",
     "icon": "https://icons.duckduckgo.com/ip3/duckduckgo.com.ico",
     "slug": "duck-duck-go",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.83%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.82%",
     "time": 139,
-    "timeDay": 92,
-    "timeWeek": 112,
-    "timeMonth": 115,
+    "timeDay": 82,
+    "timeWeek": 107,
+    "timeMonth": 114,
     "timeYear": 139,
     "dailyMinutesDown": {
       "2025-09-06": 21,
@@ -241,7 +241,7 @@
       "2026-05-02": 194,
       "2026-07-04": 142,
       "2026-07-07": 207,
-      "2026-07-14": 2
+      "2026-07-14": 71
     }
   },
   {
@@ -735,10 +735,10 @@
     "slug": "kutt",
     "status": "down",
     "uptime": "93.51%",
-    "uptimeDay": "85.36%",
-    "uptimeWeek": "24.75%",
+    "uptimeDay": "80.42%",
+    "uptimeWeek": "24.04%",
     "uptimeMonth": "20.96%",
-    "uptimeYear": "71.71%",
+    "uptimeYear": "71.70%",
     "time": 617,
     "timeDay": 488,
     "timeWeek": 284,
@@ -859,7 +859,7 @@
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 650,
-      "2026-07-14": 211
+      "2026-07-14": 282
     }
   },
   {
@@ -872,7 +872,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.84%",
+    "uptimeYear": "70.82%",
     "time": 827,
     "timeDay": 0,
     "timeWeek": 0,
@@ -892,7 +892,7 @@
       "2025-09-14": 18,
       "2025-10-08": 24,
       "2025-10-20": 90,
-      "2026-07-14": 989,
+      "2026-07-14": 1060,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
