@@ -1,7 +1,7 @@
 url: https://itch.io
-status: up
-code: 200
-responseTime: 838
-lastUpdated: 2026-08-08T23:26:20.282Z
+status: down
+code: 429
+responseTime: 87
+lastUpdated: 2026-08-09T07:11:17.581Z
 startTime: 2022-01-04T17:31:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
